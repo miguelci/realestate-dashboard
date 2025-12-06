@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #FAFAF9;
+  --foreground: #1C1917;
+  --text-secondary: #78716C;
+  --border: #E7E5E4;
+  --surface: #FFFFFF;
+  --accent: #0D9488;
+  --badge-sale: #DC2626;
+  --badge-rent: #059669;
+  --hover: #F5F5F4;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
