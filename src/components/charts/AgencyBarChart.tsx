@@ -1,8 +1,18 @@
 'use client';
 
 import { useRouter } from 'next/navigation';
+import { ComponentType } from 'react';
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, Cell } from 'recharts';
 import { getAgencyName } from '@/lib/data';
+
+// Recharts types lag React 19; cast container to keep TS happy
+const SafeResponsiveContainer = ResponsiveContainer as unknown as ComponentType<any>;
+const SafeBarChart = BarChart as unknown as ComponentType<any>;
+const SafeBar = Bar as unknown as ComponentType<any>;
+const SafeXAxis = XAxis as unknown as ComponentType<any>;
+const SafeYAxis = YAxis as unknown as ComponentType<any>;
+const SafeTooltip = Tooltip as unknown as ComponentType<any>;
+const SafeCell = Cell as unknown as ComponentType<any>;
 
 interface AgencyBarChartProps {
   data: Record<string, number>;
@@ -28,16 +38,16 @@ export function AgencyBarChart({ data }: AgencyBarChartProps) {
     <div className="bg-surface rounded-lg border border-border p-4">
       <h3 className="text-sm font-medium text-text-primary mb-4">Properties by Agency</h3>
       <div className="h-48">
-        <ResponsiveContainer width="100%" height="100%">
-          <BarChart data={chartData} layout="vertical" margin={{ left: 0, right: 20 }}>
-            <XAxis type="number" tick={{ fontSize: 12, fill: '#78716C' }} />
-            <YAxis
+        <SafeResponsiveContainer width="100%" height="100%">
+          <SafeBarChart data={chartData} layout="vertical" margin={{ left: 0, right: 20 }}>
+            <SafeXAxis type="number" tick={{ fontSize: 12, fill: '#78716C' }} />
+            <SafeYAxis
               type="category"
               dataKey="name"
               tick={{ fontSize: 11, fill: '#78716C' }}
               width={120}
             />
-            <Tooltip
+            <SafeTooltip
               contentStyle={{
                 backgroundColor: '#fff',
                 border: '1px solid #E7E5E4',
@@ -45,21 +55,21 @@ export function AgencyBarChart({ data }: AgencyBarChartProps) {
               }}
               formatter={(value: number) => [`${value} properties`, 'Count']}
             />
-            <Bar
+            <SafeBar
               dataKey="count"
               radius={[0, 4, 4, 0]}
-              onClick={(data) => {
-                const entry = data as unknown as { agencyId: string };
+              onClick={(data: unknown) => {
+                const entry = data as { agencyId?: string };
                 if (entry?.agencyId) handleClick(entry.agencyId);
               }}
               style={{ cursor: 'pointer' }}
             >
               {chartData.map((_, index) => (
-                <Cell key={`cell-${index}`} fill="#78716C" />
+                <SafeCell key={`cell-${index}`} fill="#78716C" />
               ))}
-            </Bar>
-          </BarChart>
-        </ResponsiveContainer>
+            </SafeBar>
+          </SafeBarChart>
+        </SafeResponsiveContainer>
       </div>
     </div>
   );

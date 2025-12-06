@@ -1,8 +1,17 @@
 'use client';
 
 import { useRouter } from 'next/navigation';
+import { ComponentType } from 'react';
 import { AreaChart, Area, XAxis, YAxis, Tooltip, ResponsiveContainer } from 'recharts';
 import { Property } from '@/types';
+
+// Recharts types lag React 19; cast container to keep TS happy
+const SafeResponsiveContainer = ResponsiveContainer as unknown as ComponentType<any>;
+const SafeAreaChart = AreaChart as unknown as ComponentType<any>;
+const SafeArea = Area as unknown as ComponentType<any>;
+const SafeXAxis = XAxis as unknown as ComponentType<any>;
+const SafeYAxis = YAxis as unknown as ComponentType<any>;
+const SafeTooltip = Tooltip as unknown as ComponentType<any>;
 
 interface TimelineChartProps {
   properties: Property[];
@@ -49,37 +58,37 @@ export function TimelineChart({ properties }: TimelineChartProps) {
         New Properties Over Last 30 Days
       </h3>
       <div className="h-48">
-        <ResponsiveContainer width="100%" height="100%">
-          <AreaChart data={chartData} margin={{ left: 0, right: 0 }}>
+        <SafeResponsiveContainer width="100%" height="100%">
+          <SafeAreaChart data={chartData} margin={{ left: 0, right: 0 }}>
             <defs>
               <linearGradient id="colorCount" x1="0" y1="0" x2="0" y2="1">
                 <stop offset="5%" stopColor="#0D9488" stopOpacity={0.3} />
                 <stop offset="95%" stopColor="#0D9488" stopOpacity={0} />
               </linearGradient>
             </defs>
-            <XAxis
+            <SafeXAxis
               dataKey="date"
               tick={{ fontSize: 10, fill: '#78716C' }}
               tickLine={false}
               axisLine={false}
               interval="preserveStartEnd"
             />
-            <YAxis
+            <SafeYAxis
               tick={{ fontSize: 12, fill: '#78716C' }}
               tickLine={false}
               axisLine={false}
               width={30}
             />
-            <Tooltip
+            <SafeTooltip
               contentStyle={{
                 backgroundColor: '#fff',
                 border: '1px solid #E7E5E4',
                 borderRadius: '6px',
               }}
               formatter={(value: number) => [`${value} new properties`, 'Added']}
-              labelFormatter={(label) => `Date: ${label}`}
+              labelFormatter={(label: string) => `Date: ${label}`}
             />
-            <Area
+            <SafeArea
               type="monotone"
               dataKey="count"
               stroke="#0D9488"
@@ -87,8 +96,8 @@ export function TimelineChart({ properties }: TimelineChartProps) {
               fillOpacity={1}
               fill="url(#colorCount)"
             />
-          </AreaChart>
-        </ResponsiveContainer>
+          </SafeAreaChart>
+        </SafeResponsiveContainer>
       </div>
     </div>
   );

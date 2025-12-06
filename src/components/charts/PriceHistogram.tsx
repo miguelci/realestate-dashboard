@@ -1,8 +1,18 @@
 'use client';
 
 import { useRouter } from 'next/navigation';
+import { ComponentType } from 'react';
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, Cell } from 'recharts';
 import { Property } from '@/types';
+
+// Recharts types lag React 19; cast container to keep TS happy
+const SafeResponsiveContainer = ResponsiveContainer as unknown as ComponentType<any>;
+const SafeBarChart = BarChart as unknown as ComponentType<any>;
+const SafeBar = Bar as unknown as ComponentType<any>;
+const SafeXAxis = XAxis as unknown as ComponentType<any>;
+const SafeYAxis = YAxis as unknown as ComponentType<any>;
+const SafeTooltip = Tooltip as unknown as ComponentType<any>;
+const SafeCell = Cell as unknown as ComponentType<any>;
 
 interface PriceHistogramProps {
   properties: Property[];
@@ -73,9 +83,9 @@ export function PriceHistogram({ properties, listingType }: PriceHistogramProps)
     <div className="bg-surface rounded-lg border border-border p-4">
       <h3 className="text-sm font-medium text-text-primary mb-4">Price Distribution</h3>
       <div className="h-48">
-        <ResponsiveContainer width="100%" height="100%">
-          <BarChart data={chartData} margin={{ bottom: 20 }}>
-            <XAxis
+        <SafeResponsiveContainer width="100%" height="100%">
+          <SafeBarChart data={chartData} margin={{ bottom: 20 }}>
+            <SafeXAxis
               dataKey="label"
               tick={{ fontSize: 11, fill: '#78716C' }}
               angle={-45}
@@ -83,8 +93,8 @@ export function PriceHistogram({ properties, listingType }: PriceHistogramProps)
               interval={0}
               height={50}
             />
-            <YAxis tick={{ fontSize: 12, fill: '#78716C' }} />
-            <Tooltip
+            <SafeYAxis tick={{ fontSize: 12, fill: '#78716C' }} />
+            <SafeTooltip
               contentStyle={{
                 backgroundColor: '#fff',
                 border: '1px solid #E7E5E4',
@@ -92,21 +102,21 @@ export function PriceHistogram({ properties, listingType }: PriceHistogramProps)
               }}
               formatter={(value: number) => [`${value} properties`, 'Count']}
             />
-            <Bar
+            <SafeBar
               dataKey="count"
               radius={[4, 4, 0, 0]}
-              onClick={(data) => {
-                const entry = data as unknown as { min: number; max: number };
-                if (entry?.min !== undefined) handleClick(entry.min, entry.max);
-              }}
+              onClick={(data: unknown) => {
+            const entry = data as { min?: number; max?: number };
+            if (entry?.min !== undefined) handleClick(entry.min, entry.max ?? Infinity);
+          }}
               style={{ cursor: 'pointer' }}
             >
               {chartData.map((_, index) => (
-                <Cell key={`cell-${index}`} fill="#0D9488" />
+                <SafeCell key={`cell-${index}`} fill="#0D9488" />
               ))}
-            </Bar>
-          </BarChart>
-        </ResponsiveContainer>
+            </SafeBar>
+          </SafeBarChart>
+        </SafeResponsiveContainer>
       </div>
     </div>
   );

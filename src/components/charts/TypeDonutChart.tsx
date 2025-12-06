@@ -1,7 +1,15 @@
 'use client';
 
 import { useRouter } from 'next/navigation';
+import { ComponentType } from 'react';
 import { PieChart, Pie, Cell, ResponsiveContainer, Tooltip } from 'recharts';
+
+// Recharts types lag React 19; cast container to keep TS happy
+const SafeResponsiveContainer = ResponsiveContainer as unknown as ComponentType<any>;
+const SafePieChart = PieChart as unknown as ComponentType<any>;
+const SafePie = Pie as unknown as ComponentType<any>;
+const SafeCell = Cell as unknown as ComponentType<any>;
+const SafeTooltip = Tooltip as unknown as ComponentType<any>;
 
 interface TypeDonutChartProps {
   forSale: number;
@@ -30,9 +38,9 @@ export function TypeDonutChart({ forSale, forRent }: TypeDonutChartProps) {
     <div className="bg-surface rounded-lg border border-border p-4">
       <h3 className="text-sm font-medium text-text-primary mb-4">Properties by Type</h3>
       <div className="h-48">
-        <ResponsiveContainer width="100%" height="100%">
-          <PieChart>
-            <Pie
+        <SafeResponsiveContainer width="100%" height="100%">
+          <SafePieChart>
+            <SafePie
               data={data}
               cx="50%"
               cy="50%"
@@ -40,17 +48,17 @@ export function TypeDonutChart({ forSale, forRent }: TypeDonutChartProps) {
               outerRadius={70}
               paddingAngle={2}
               dataKey="value"
-              onClick={(_, index) => handleClick(data[index])}
+              onClick={(_: unknown, index: number) => handleClick(data[index])}
               style={{ cursor: 'pointer' }}
             >
               {data.map((entry, index) => (
-                <Cell
+                <SafeCell
                   key={`cell-${index}`}
                   fill={COLORS[entry.type as keyof typeof COLORS]}
                 />
               ))}
-            </Pie>
-            <Tooltip
+            </SafePie>
+            <SafeTooltip
               formatter={(value: number, name: string) => [
                 `${value} (${((value / total) * 100).toFixed(1)}%)`,
                 name,
@@ -61,8 +69,8 @@ export function TypeDonutChart({ forSale, forRent }: TypeDonutChartProps) {
                 borderRadius: '6px',
               }}
             />
-          </PieChart>
-        </ResponsiveContainer>
+          </SafePieChart>
+        </SafeResponsiveContainer>
       </div>
       <div className="flex justify-center gap-6 mt-2">
         {data.map(item => (
