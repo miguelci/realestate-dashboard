@@ -14,6 +14,7 @@ jobs:
       id-token: write
     env:
       NEXT_PUBLIC_LISTINGS_URL: ${{ vars.NEXT_PUBLIC_LISTINGS_URL }}
+      NEXT_PUBLIC_BASE_PATH: /realestate-dashboard
     steps:
       - name: Checkout
         uses: actions/checkout@v4
