@@ -40,6 +40,11 @@ jobs:
         run: |
           npm ci --no-audit --no-fund
 
+      - name: Show npm debug log on failure
+        if: failure()
+        run: |
+          find /home/runner/.npm/_logs -type f -maxdepth 1 -print -exec tail -n 200 {} \;
+
       - name: Build and export
         run: |
           npm run build
