@@ -13,7 +13,9 @@ jobs:
       pages: write
       id-token: write
     env:
-      NEXT_PUBLIC_LISTINGS_URL: ${{ vars.NEXT_PUBLIC_LISTINGS_URL }}
+      # Use the latest scraped data committed to this repo (raw GitHub URL) as the primary source
+      NEXT_PUBLIC_LISTINGS_URL: https://raw.githubusercontent.com/${{ github.repository }}/main/data/listings.json
+      # GitHub Pages base path for this project
       NEXT_PUBLIC_BASE_PATH: /realestate-dashboard
     steps:
       - name: Checkout
@@ -24,6 +26,13 @@ jobs:
         with:
           node-version: 20
           cache: npm
+
+      - name: Sync latest listings into public assets
+        run: |
+          mkdir -p public
+          if [ -f data/listings.json ]; then
+            cp data/listings.json public/listings.json
+          fi
 
       - name: Install dependencies
         run: |
