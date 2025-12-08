@@ -34,13 +34,12 @@ jobs:
             cp data/listings.json public/listings.json
           fi
 
-      - name: Install dependencies
+      - name: Install dependencies (clean)
         run: |
-          npm install --no-audit --no-fund
+          npm ci --no-audit --no-fund
 
       - name: Build and export
         run: |
-          npx next --version
           npm run build
           npm run export
 
