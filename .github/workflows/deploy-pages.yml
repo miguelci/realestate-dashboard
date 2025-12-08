@@ -38,6 +38,8 @@ jobs:
 
       - name: Install dependencies (clean)
         run: |
+          npm config set registry https://registry.npmjs.org
+          npm config get registry
           npm ci --no-audit --no-fund
 
       - name: Show npm debug log on failure
