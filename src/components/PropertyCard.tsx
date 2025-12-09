@@ -28,10 +28,15 @@ export function PropertyCard({ property, onClick }: PropertyCardProps) {
     setImageLoaded(false);
   }, [currentImage]);
 
-  // Get walking distance to first POI if available
+  // Get distance to first POI if available (prefer bike over walking)
   const poiDistance = property.distanceToPOI
     ? Object.entries(property.distanceToPOI)[0]
     : null;
+  const poiLabel = poiDistance
+    ? poiDistance[0].replace('-', ' ').replace(/\b\w/g, c => c.toUpperCase())
+    : '';
+  const bikeMinutes = poiDistance?.[1]?.biking?.minutes;
+  const walkMinutes = poiDistance?.[1]?.walking?.minutes;
 
   const images = property.images?.slice(0, 4) || [];
   const hasImages = images.length > 0;
@@ -163,11 +168,10 @@ export function PropertyCard({ property, onClick }: PropertyCardProps) {
           <span>{getAgencyName(property.agencyId)}</span>
         </div>
 
-        {poiDistance && poiDistance[1].walking && (
+        {poiDistance && (bikeMinutes || walkMinutes) && (
           <p className="text-sm text-text-secondary mb-3">
-            <span className="mr-1">🚶</span>
-            {poiDistance[1].walking.minutes} min to{' '}
-            {poiDistance[0].replace('-', ' ').replace(/\b\w/g, c => c.toUpperCase())}
+            <span className="mr-1">{bikeMinutes ? '🚴' : '🚶'}</span>
+            {bikeMinutes ?? walkMinutes} min to {poiLabel}
           </p>
         )}
 
