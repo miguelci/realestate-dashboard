@@ -300,5 +300,45 @@
     "lat": 52.4892769,
     "lon": 4.7936282,
     "displayName": "Wormerveer, Wandelweg, Wormerveer, Zaanstad, Noord-Holland, Nederland, 1521 DT, Nederland"
+  },
+  "het breed 597  amsterdam, amsterdam": {
+    "lat": 52.3965364,
+    "lon": 4.9392258,
+    "displayName": "597, Het Breed, Buikslotermeer, Plan van Gool, Noord, Amsterdam, Noord-Holland, Nederland, 1025 HW, Nederland"
+  },
+  "mr. f.a. van hallweg 80  amstelveen, amstelveen": {
+    "lat": 52.3026657,
+    "lon": 4.856404,
+    "displayName": "80, Meester F.A. van Hallweg, Amstelveen, Noord-Holland, Nederland, 1181 ZV, Nederland"
+  },
+  "havikshorst 115 amsterdam, amsterdam": {
+    "lat": 52.3319126,
+    "lon": 4.8850669,
+    "displayName": "115, Havikshorst, Buitenveldert-Oost, Buitenveldert, Zuid, Amsterdam, Noord-Holland, Nederland, 1083 TP, Nederland"
+  },
+  "nassaukade 155-1, 1053 lk amsterdam, amsterdam": {
+    "lat": 52.3713754,
+    "lon": 4.8740329,
+    "displayName": "155-1, Nassaukade, Oud-West, West, Amsterdam, Noord-Holland, Nederland, 1053 LK, Nederland"
+  },
+  "zocherstraat 1-1, 1054 lp amsterdam, amsterdam": {
+    "lat": 52.3580461,
+    "lon": 4.8575844,
+    "displayName": "1-1, Zocherstraat, Oud-West, West, Amsterdam, Noord-Holland, Nederland, 1054 LP, Nederland"
+  },
+  "watteaustraat 29-1, 1077 zk amsterdam, amsterdam": {
+    "lat": 52.3446781,
+    "lon": 4.8690585,
+    "displayName": "29-1, Watteaustraat, Apollobuurt, Oud-Zuid, Zuid, Amsterdam, Noord-Holland, Nederland, 1077 ZK, Nederland"
+  },
+  "eerste sweelinckstraat 9-3, 1073 ck amsterdam, amsterdam": {
+    "lat": 52.3562597,
+    "lon": 4.8977383,
+    "displayName": "9-3, Eerste Sweelinckstraat, Oude Pijp, De Pijp, Zuid, Amsterdam, Noord-Holland, Nederland, 1073 CK, Nederland"
+  },
+  "hugo floris ruysstraat 6-1, amsterdam": {
+    "lat": 52.3804883,
+    "lon": 4.8256363,
+    "displayName": "6-1, Hugo Floris Ruysstraat, Slotermeer, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1063 KD, Nederland"
   }
 }
