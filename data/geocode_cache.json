@@ -340,5 +340,16 @@
     "lat": 52.3804883,
     "lon": 4.8256363,
     "displayName": "6-1, Hugo Floris Ruysstraat, Slotermeer, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1063 KD, Nederland"
+  },
+  "pieter cornelisz hooftstraat 113-2 1071 br amsterdam € 2.500,- /mnd, amsterdam": null,
+  "van gentstraat 48-1, amsterdam": {
+    "lat": 52.3843719,
+    "lon": 4.8517618,
+    "displayName": "48-1, Van Gentstraat, Bosleeuw, Landlust, West, Amsterdam, Noord-Holland, Nederland, 1055 PH, Nederland"
+  },
+  "assendelft, assendelft": {
+    "lat": 52.4346701,
+    "lon": 4.7251771,
+    "displayName": "Assendelft, Pontplein, Buitenhuizen, Assendelft, Zaanstad, Noord-Holland, Nederland, 1566 PV, Nederland"
   }
 }
