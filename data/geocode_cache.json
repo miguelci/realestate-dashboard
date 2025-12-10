@@ -351,5 +351,15 @@
     "lat": 52.4346701,
     "lon": 4.7251771,
     "displayName": "Assendelft, Pontplein, Buitenhuizen, Assendelft, Zaanstad, Noord-Holland, Nederland, 1566 PV, Nederland"
+  },
+  "onstein 11 amsterdam, amsterdam": {
+    "lat": 52.331658,
+    "lon": 4.8697972,
+    "displayName": "11, Onstein, Gelderlandpleinbuurt, Buitenveldert, Zuid, Amsterdam, Noord-Holland, Nederland, 1082 KK, Nederland"
+  },
+  "onstein 9 amsterdam, amsterdam": {
+    "lat": 52.3316582,
+    "lon": 4.8698412,
+    "displayName": "9, Onstein, Gelderlandpleinbuurt, Buitenveldert, Zuid, Amsterdam, Noord-Holland, Nederland, 1082 KK, Nederland"
   }
 }
