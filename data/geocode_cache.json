@@ -366,5 +366,135 @@
     "lat": 52.3929678,
     "lon": 4.8846192,
     "displayName": "74, Libau-eiland, Houthaven, West, Amsterdam, Noord-Holland, Nederland, 1014 ZK, Nederland"
+  },
+  "nieuwerhoek 34 amsterdam, amsterdam": {
+    "lat": 52.3269613,
+    "lon": 4.8604929,
+    "displayName": "34, Nieuwerhoek, Buitenveldert-West, Buitenveldert, Zuid, Amsterdam, Noord-Holland, Nederland, 1081 CB, Nederland"
+  },
+  "prins bernhardlaan amstelveen, amstelveen": {
+    "lat": 52.3156867,
+    "lon": 4.8467569,
+    "displayName": "Prins Bernhardlaan, Amstelveen, Noord-Holland, Nederland, 1182 BE, Nederland"
+  },
+  "pierre cuypershof 12 1067 lc, amsterdam, amsterdam": {
+    "lat": 52.3781366,
+    "lon": 4.7973655,
+    "displayName": "12, Pierre Cuypershof, Geuzenveld, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1067 LC, Nederland"
+  },
+  "hoogaarslaan 109 1503 wd, zaandam, zaandam": {
+    "lat": 52.4530602,
+    "lon": 4.8384376,
+    "displayName": "109, Hoogaarslaan, Hoornseveld, Zaandam, Zaanstad, Noord-Holland, Nederland, 1503 WD, Nederland"
+  },
+  "nienke van hichtumstraat 41 1507 xv, zaandam, zaandam": {
+    "lat": 52.4534932,
+    "lon": 4.7960888,
+    "displayName": "41, Nienke van Hichtumstraat, Zaandam, Zaanstad, Noord-Holland, Nederland, 1507 XV, Nederland"
+  },
+  "zaanweg 118f 1521 ds, wormerveer, wormerveer": null,
+  "machinistenstraat 59 1541 aj, koog aan de zaan, koog-aan-de-zaan": {
+    "lat": 52.4566513,
+    "lon": 4.8079419,
+    "displayName": "59, Machinistenstraat, Westerkoog, Koog aan de Zaan, Zaanstad, Noord-Holland, Nederland, 1541 AJ, Nederland"
+  },
+  "guisweg 49b 1544 ah, zaandijk, zaandijk": null,
+  "transvaalstraat 15 1521 gb, wormerveer, wormerveer": {
+    "lat": 52.4925778,
+    "lon": 4.7886681,
+    "displayName": "15, Transvaalstraat, Wormerveer, Zaanstad, Noord-Holland, Nederland, 1521 GB, Nederland"
+  },
+  "aletta jacobsstraat 72 1566 sj, assendelft, assendelft": {
+    "lat": 52.4619771,
+    "lon": 4.7411138,
+    "displayName": "72, Aletta Jacobsstraat, Assendelft, Zaanstad, Noord-Holland, Nederland, 1566 SJ, Nederland"
+  },
+  "parallelweg 36 1541 ba, koog aan de zaan, koog-aan-de-zaan": {
+    "lat": 52.4573279,
+    "lon": 4.8066236,
+    "displayName": "36, Parallelweg, Westerkoog, Koog aan de Zaan, Zaanstad, Noord-Holland, Nederland, 1541 BA, Nederland"
+  },
+  "vurehout 283 1507 ec, zaandam, zaandam": {
+    "lat": 52.4415735,
+    "lon": 4.8110651,
+    "displayName": "283, Vurehout, Zaandam, Zaanstad, Noord-Holland, Nederland, 1507 EC, Nederland"
+  },
+  "ruimtevaartlaan 54 1562 be, krommenie, krommenie": {
+    "lat": 52.5063271,
+    "lon": 4.75543,
+    "displayName": "54, Ruimtevaartlaan, Krommenie, Zaanstad, Noord-Holland, Nederland, 1562 BE, Nederland"
+  },
+  "plutostraat 33 1562 xg, krommenie, krommenie": {
+    "lat": 52.5018706,
+    "lon": 4.7522978,
+    "displayName": "33, Plutostraat, Krommenie, Zaanstad, Noord-Holland, Nederland, 1562 XG, Nederland"
+  },
+  "czarinastraat 38 1506 rc, zaandam, zaandam": {
+    "lat": 52.4366665,
+    "lon": 4.8217327,
+    "displayName": "38, Czarinastraat, Zaandam, Zaanstad, Noord-Holland, Nederland, 1506 RC, Nederland"
+  },
+  "steijnstraat 7 1521 ga, wormerveer, wormerveer": {
+    "lat": 52.4921789,
+    "lon": 4.7897778,
+    "displayName": "7, Steijnstraat, Wormerveer, Zaanstad, Noord-Holland, Nederland, 1521 GA, Nederland"
+  },
+  "ganimedesstraat 29a 1562 zk, krommenie, krommenie": null,
+  "kerkplein 8 1561 da, krommenie, krommenie": {
+    "lat": 52.5001685,
+    "lon": 4.7686545,
+    "displayName": "8, Kerkplein, Krommenie, Zaanstad, Noord-Holland, Nederland, 1561 DA, Nederland"
+  },
+  "seramstraat 13 1521 sl, wormerveer, wormerveer": {
+    "lat": 52.4830304,
+    "lon": 4.8062125,
+    "displayName": "13, Seramstraat, Wormerveer, Zaanstad, Noord-Holland, Nederland, 1521 SL, Nederland"
+  },
+  "jacob israël de haanstr 43 1508 vg, zaandam, zaandam": {
+    "lat": 52.4558029,
+    "lon": 4.8217496,
+    "displayName": "Jacob Israël de Haanstraat, Kogerveld, Zaandam, Zaanstad, Noord-Holland, Nederland, 1508 VE, Nederland"
+  },
+  "jacob israël de haanstr 51 1508 vg, zaandam, zaandam": {
+    "lat": 52.4558029,
+    "lon": 4.8217496,
+    "displayName": "Jacob Israël de Haanstraat, Kogerveld, Zaandam, Zaanstad, Noord-Holland, Nederland, 1508 VE, Nederland"
+  },
+  "jacob israël de haanstr 65 1508 vg, zaandam, zaandam": {
+    "lat": 52.4558029,
+    "lon": 4.8217496,
+    "displayName": "Jacob Israël de Haanstraat, Kogerveld, Zaandam, Zaanstad, Noord-Holland, Nederland, 1508 VE, Nederland"
+  },
+  "lagedijk 12c 1544 bg, zaandijk, zaandijk": null,
+  "plataanweg 59 1544 pb, zaandijk, zaandijk": {
+    "lat": 52.4738304,
+    "lon": 4.8056271,
+    "displayName": "59, Plataanweg, Zaandijk, Zaanstad, Noord-Holland, Nederland, 1544 PB, Nederland"
+  },
+  "teakhout 13a 1507 em, zaandam, zaandam": null,
+  "verfmolen 18 1541 we, koog aan de zaan, koog-aan-de-zaan": {
+    "lat": 52.4582761,
+    "lon": 4.8020649,
+    "displayName": "18, Verfmolen, Westerkoog, Koog aan de Zaan, Zaanstad, Noord-Holland, Nederland, 1541 WE, Nederland"
+  },
+  "de glazenmaker 42 1541 rg, koog aan de zaan, koog-aan-de-zaan": {
+    "lat": 52.4617229,
+    "lon": 4.8011659,
+    "displayName": "42, De Glazenmaker, Westerkoog, Koog aan de Zaan, Zaanstad, Noord-Holland, Nederland, 1541 RG, Nederland"
+  },
+  "het salm 25 1506 mv, zaandam, zaandam": {
+    "lat": 52.4366911,
+    "lon": 4.8174971,
+    "displayName": "25, Het Salm, Zaandam, Zaanstad, Noord-Holland, Nederland, 1506 MV, Nederland"
+  },
+  "bloemgracht 148 1502 wd, zaandam, zaandam": {
+    "lat": 52.4437391,
+    "lon": 4.8335996,
+    "displayName": "148, Bloemgracht, Hoornseveld, Zaandam, Zaanstad, Noord-Holland, Nederland, 1502 WD, Nederland"
+  },
+  "caro van eyckstraat 85 1507 sc, zaandam, zaandam": {
+    "lat": 52.444454,
+    "lon": 4.8004091,
+    "displayName": "85, Caro van Eyckstraat, Zaandam, Zaanstad, Noord-Holland, Nederland, 1507 SC, Nederland"
   }
 }
