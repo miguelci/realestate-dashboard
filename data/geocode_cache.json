@@ -496,5 +496,20 @@
     "lat": 52.444454,
     "lon": 4.8004091,
     "displayName": "85, Caro van Eyckstraat, Zaandam, Zaanstad, Noord-Holland, Nederland, 1507 SC, Nederland"
+  },
+  "bilderdijkstraat 57 2 amsterdam, amsterdam": {
+    "lat": 52.3702797,
+    "lon": 4.8706772,
+    "displayName": "57-2, Bilderdijkstraat, Oud-West, West, Amsterdam, Noord-Holland, Nederland, 1053 KL, Nederland"
+  },
+  "rijnlandlaan 271, 1062 mx amsterdam, amsterdam": {
+    "lat": 52.3575774,
+    "lon": 4.838686,
+    "displayName": "271, Rijnlandlaan, Overtoomse Veld, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1062 MX, Nederland"
+  },
+  "vrolikstraat 288h – amsterdam, amsterdam": {
+    "lat": 52.3582044,
+    "lon": 4.9255784,
+    "displayName": "288-H, Vrolikstraat, Oosterparkbuurt, Oost, Amsterdam, Noord-Holland, Nederland, 1092 VA, Nederland"
   }
 }
