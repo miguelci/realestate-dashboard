@@ -511,5 +511,20 @@
     "lat": 52.3582044,
     "lon": 4.9255784,
     "displayName": "288-H, Vrolikstraat, Oosterparkbuurt, Oost, Amsterdam, Noord-Holland, Nederland, 1092 VA, Nederland"
+  },
+  "blasiusstraat 74 g amsterdam, amsterdam": {
+    "lat": 52.3569779,
+    "lon": 4.9110594,
+    "displayName": "74G, Blasiusstraat, Oosterparkbuurt, Oost, Amsterdam, Noord-Holland, Nederland, 1091 CW, Nederland"
+  },
+  "van tuyll van serooskerkenplein 37 2 amsterdam, amsterdam": {
+    "lat": 52.3446613,
+    "lon": 4.8652872,
+    "displayName": "37-2, Van Tuyll van Serooskerkenplein, Stadionbuurt, Oud-Zuid, Zuid, Amsterdam, Noord-Holland, Nederland, 1076 LZ, Nederland"
+  },
+  "drakenstein 89 amsterdam, amsterdam": {
+    "lat": 52.3298922,
+    "lon": 4.8876422,
+    "displayName": "89, Drakenstein, Buitenveldert-Oost, Buitenveldert, Zuid, Amsterdam, Noord-Holland, Nederland, 1083 XT, Nederland"
   }
 }
