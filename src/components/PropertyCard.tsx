@@ -36,7 +36,7 @@ export function PropertyCard({ property, onClick }: PropertyCardProps) {
   const poiLabel = poiDistance
     ? poiDistance[0].replace('-', ' ').replace(/\b\w/g, c => c.toUpperCase())
     : '';
-  const bikeMinutes = poiDistance?.[1]?.biking?.minutes;
+  const bikeMinutes = poiDistance?.[1]?.cycling?.minutes;
   const walkMinutes = poiDistance?.[1]?.walking?.minutes;
 
   const images = property.images?.slice(0, 4) || [];

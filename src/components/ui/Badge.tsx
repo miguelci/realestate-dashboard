@@ -1,5 +1,5 @@
 interface BadgeProps {
-  variant: 'sale' | 'rent' | 'new';
+  variant: 'sale' | 'rent' | 'new' | 'muted';
   children: React.ReactNode;
   pulse?: boolean;
 }
@@ -9,6 +9,7 @@ export function Badge({ variant, children, pulse }: BadgeProps) {
     sale: 'bg-badge-sale text-white',
     rent: 'bg-badge-rent text-white',
     new: 'bg-accent text-white',
+    muted: 'bg-gray-300 text-gray-700',
   };
 
   return (

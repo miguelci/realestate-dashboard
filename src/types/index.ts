@@ -4,6 +4,7 @@ export interface Property {
   url: string;
   title: string;
   listingType: 'sale' | 'rent';
+  available?: boolean;
   price: number;
   priceDisplay: string;
   sqm?: number;
