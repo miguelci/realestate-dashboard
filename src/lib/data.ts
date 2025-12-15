@@ -52,9 +52,10 @@ export function getUniqueValues(properties: Property[]) {
 }
 
 export function getStats(properties: Property[]) {
-  const total = properties.length;
-  const forSale = properties.filter(p => p.listingType === 'sale').length;
-  const forRent = properties.filter(p => p.listingType === 'rent').length;
+  const availableProps = properties.filter(p => p.available !== false);
+  const total = availableProps.length;
+  const forSale = availableProps.filter(p => p.listingType === 'sale').length;
+  const forRent = availableProps.filter(p => p.listingType === 'rent').length;
 
   const today = new Date();
   today.setHours(0, 0, 0, 0);
@@ -63,7 +64,7 @@ export function getStats(properties: Property[]) {
   const byCity: Record<string, number> = {};
   const byAgency: Record<string, number> = {};
 
-  properties.forEach(p => {
+  availableProps.forEach(p => {
     byCity[p.location.city] = (byCity[p.location.city] || 0) + 1;
     byAgency[p.agencyId] = (byAgency[p.agencyId] || 0) + 1;
   });

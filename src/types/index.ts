@@ -43,6 +43,7 @@ export interface FilterState {
   agencies: string[];
   sortBy: 'newest' | 'price-asc' | 'price-desc' | 'size-desc';
   newTodayOnly: boolean;
+  showUnavailable: boolean;
 }
 
 export const defaultFilters: FilterState = {
@@ -56,4 +57,5 @@ export const defaultFilters: FilterState = {
   agencies: [],
   sortBy: 'newest',
   newTodayOnly: false,
+  showUnavailable: true,
 };

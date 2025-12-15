@@ -3,6 +3,11 @@ import { Property, FilterState } from '@/types';
 export function applyFilters(properties: Property[], filters: FilterState): Property[] {
   let result = [...properties];
 
+  // Availability
+  if (!filters.showUnavailable) {
+    result = result.filter(p => p.available !== false);
+  }
+
   // Filter for properties first seen today
   if (filters.newTodayOnly) {
     const today = new Date();
@@ -86,6 +91,7 @@ export function filtersToUrlParams(filters: FilterState): URLSearchParams {
   if (filters.cities.length > 0) params.set('cities', filters.cities.join(','));
   if (filters.agencies.length > 0) params.set('agencies', filters.agencies.join(','));
   if (filters.sortBy !== 'newest') params.set('sort', filters.sortBy);
+  if (!filters.showUnavailable) params.set('avail', '0');
 
   return params;
 }
@@ -124,6 +130,11 @@ export function urlParamsToFilters(params: URLSearchParams): Partial<FilterState
   const sort = params.get('sort');
   if (sort === 'price-asc' || sort === 'price-desc' || sort === 'size-desc') {
     filters.sortBy = sort;
+  }
+
+  const avail = params.get('avail');
+  if (avail === '0') {
+    filters.showUnavailable = false;
   }
 
   return filters;

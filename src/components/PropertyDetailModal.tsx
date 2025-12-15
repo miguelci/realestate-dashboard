@@ -82,6 +82,9 @@ export function PropertyDetailModal({ property, onClose }: PropertyDetailModalPr
             <Badge variant={property.listingType === 'sale' ? 'sale' : 'rent'}>
               {property.listingType === 'sale' ? 'For Sale' : 'For Rent'}
             </Badge>
+            {property.available === false && (
+              <Badge variant="muted">Unavailable</Badge>
+            )}
             <span className="text-sm text-text-secondary">
               {getAgencyName(property.agencyId)}
             </span>

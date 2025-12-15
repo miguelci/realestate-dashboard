@@ -38,6 +38,7 @@ export function FilterPanel({
   const hasActiveFilters =
     filters.listingType !== 'all' ||
     filters.newTodayOnly ||
+    filters.showUnavailable === false ||
     filters.priceMin !== null ||
     filters.priceMax !== null ||
     filters.sqmMin !== null ||
@@ -181,6 +182,18 @@ export function FilterPanel({
             <option value="price-desc">Price: High to Low</option>
             <option value="size-desc">Size: Largest First</option>
           </select>
+        </div>
+
+        {/* Availability */}
+        <div className="flex items-center">
+          <label className="flex items-center gap-2 text-sm text-text-secondary">
+            <input
+              type="checkbox"
+              checked={filters.showUnavailable}
+              onChange={e => updateFilter('showUnavailable', e.target.checked)}
+            />
+            Show unavailable listings
+          </label>
         </div>
 
         {/* Clear & Count */}

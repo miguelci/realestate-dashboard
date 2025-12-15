@@ -18,6 +18,7 @@ export function PropertyCard({ property, onClick }: PropertyCardProps) {
   const [copySuccess, setCopySuccess] = useState(false);
   const [imageLoaded, setImageLoaded] = useState(false);
   const isNew = isNewProperty(property);
+  const isAvailable = property.available !== false;
 
   useEffect(() => {
     setCurrentImage(getInitialImageIndex(property));
@@ -108,6 +109,7 @@ export function PropertyCard({ property, onClick }: PropertyCardProps) {
               {property.listingType === 'rent' ? 'Rent' : 'Sale'}
             </Badge>
             {isNew && <Badge variant="new" pulse>New</Badge>}
+            {!isAvailable && <Badge variant="muted">Unavailable</Badge>}
           </div>
 
           {/* Price overlay */}
@@ -126,6 +128,7 @@ export function PropertyCard({ property, onClick }: PropertyCardProps) {
                 {property.listingType === 'rent' ? 'Rent' : 'Sale'}
               </Badge>
               {isNew && <Badge variant="new" pulse>New</Badge>}
+              {!isAvailable && <Badge variant="muted">Unavailable</Badge>}
             </div>
             <span className="text-lg font-semibold text-accent">
               {property.priceDisplay}
@@ -166,6 +169,7 @@ export function PropertyCard({ property, onClick }: PropertyCardProps) {
             </span>
           )}
           <span>{getAgencyName(property.agencyId)}</span>
+          {!isAvailable && <span className="text-red-500">Unavailable</span>}
         </div>
 
         {poiDistance && (bikeMinutes || walkMinutes) && (
