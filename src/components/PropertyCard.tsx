@@ -17,8 +17,8 @@ export function PropertyCard({ property, onClick }: PropertyCardProps) {
   const [currentImage, setCurrentImage] = useState(() => getInitialImageIndex(property));
   const [copySuccess, setCopySuccess] = useState(false);
   const [imageLoaded, setImageLoaded] = useState(false);
-  const isNew = isNewProperty(property);
   const isAvailable = property.available !== false;
+  const isNew = isNewProperty(property) && isAvailable;
 
   useEffect(() => {
     setCurrentImage(getInitialImageIndex(property));
