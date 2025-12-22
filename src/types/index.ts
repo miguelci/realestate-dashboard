@@ -58,5 +58,5 @@ export const defaultFilters: FilterState = {
   agencies: [],
   sortBy: 'newest',
   newTodayOnly: false,
-  showUnavailable: true,
+  showUnavailable: false,
 };
