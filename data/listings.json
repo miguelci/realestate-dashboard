@@ -2499,7 +2499,7 @@
   {
     "id": "amstelland-type-appartement",
     "agencyId": "amstelland",
-    "url": "https://www.amstellandmakelaars.nl/woningaanbod/huur/amsterdam/type-appartement",
+    "url": "https://www.amstellandmakelaars.nl/woningaanbod/huur/almere/type-appartement",
     "title": "Zoekresultaten",
     "available": false,
     "listingType": "rent",
@@ -2507,25 +2507,22 @@
     "priceDisplay": "€ 0",
     "sqm": 25,
     "location": {
-      "city": "Amsterdam"
+      "city": "Almere"
     },
     "images": [
-      "https://haywebattachments.blob.core.windows.net/public/1799/3865868/119446824/$s/934_2160.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/1799/3865868/119446826/$s/439_2160.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/1799/3918409/121405594/$s/jan%20van%20schaffelaarplantsoen%2017b%20-%201.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/1799/3918409/121405595/$s/jan%20van%20schaffelaarplantsoen%2017b%20-%202.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/1799/3907272/120991783/$s/36-pieter%20cornelisz%20hooftstraat%20113%20i%20amsterdam.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/1799/3907272/120991784/$s/1-pieter%20cornelisz%20hooftstraat%20113%20i%20amsterdam.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/1799/3905936/120942316/$s/koninginneweg%20156-1-3.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/1799/3905936/120942317/$s/koninginneweg%20156-1-9.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/1799/3872069/119677255/$s/kerkstraat%2032h-01.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/1799/3872069/119677254/$s/kerkstraat%2032h-02.jpg"
+      "https://haywebattachments.blob.core.windows.net/public/1799/3836924/118373999/$s/566_2160.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/1799/3836924/118374002/$s/567_2160.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/1799/3918409/121405594/$s/jan van schaffelaarplantsoen 17b - 1.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/1799/3880955/120006772/$s/naamloos 2.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/1799/3838313/118424498/$s/original.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/1799/3870837/119631439/$s/meimorgenstraat 1 - 1.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/1799/3865868/119446824/$s/934_2160.jpg"
     ],
-    "description": "Je zoekt naar particulier huuraanbod in Amsterdam van het type appartement. INTERESSE KENBAAR MAKEN PER MAIL - PLEASE SHOW INTEREST VIA MAIL | INFO@AMSTELLANDMAKELAARS.NL* GEEN WONINGDELERS TOEGESTAAN, GEEN STUDENTENT... Te huur aangeboden in Amsterdam West:               In een rustige en groene woonomgeving in Amsterdam West, aan het Jan van Schaffelaarplantso...",
+    "description": "Je zoekt naar particulier huuraanbod in Almere van het type appartement. *BEZICHTIGINGSAANVRAAG VIA MAIL / APPLY THROUGH EMAIL - info@amstellandmakelaars.nl* APPLY THROUGH EMAIL - info@amstellandmakelaars.nlTe huur... Hello, this website uses essential cookies to ensure its proper functioning and possibly tracking cookies to understand how you interact with it. Let me choose",
     "features": [],
     "firstSeen": "2025-11-30T13:30:15.579Z",
     "lastUpdated": "2025-12-22T18:35:57.524Z",
-    "hash": "4882d49012bc46c0",
+    "hash": "415d3fcf82f45412",
     "lastScraped": "2025-12-22T18:35:57.524Z"
   },
   {
@@ -2560,30 +2557,30 @@
   {
     "id": "amstelland-type-woonhuis",
     "agencyId": "amstelland",
-    "url": "https://www.amstellandmakelaars.nl/woningaanbod/huur/haarlem/type-woonhuis",
+    "url": "https://www.amstellandmakelaars.nl/woningaanbod/koop/amsterdam/type-woonhuis",
     "title": "Zoekresultaten",
     "available": false,
-    "listingType": "rent",
+    "listingType": "sale",
     "price": 0,
     "priceDisplay": "€ 0",
     "sqm": 25,
     "location": {
-      "city": "Haarlem"
+      "city": "Amsterdam"
     },
     "images": [
-      "https://haywebattachments.blob.core.windows.net/public/1799/3898448/120660982/$s/muiderslotweg%2091%20-%203.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/1799/3898448/120660983/$s/muiderslotweg%2091%20-%202.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/1799/3918409/121405594/$s/jan van schaffelaarplantsoen 17b - 1.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/1799/3880955/120006772/$s/naamloos 2.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/1799/3838313/118424498/$s/original.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/1799/3870837/119631439/$s/meimorgenstraat 1 - 1.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/1799/3865868/119446824/$s/934_2160.jpg"
+      "https://haywebattachments.blob.core.windows.net/public/1799/3795034/116830199/$s/ben%20brilstraat%2016%20-%202.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/1799/3795034/116830200/$s/ben%20brilstraat%2016%20-%201.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/1799/3902350/120807097/$s/de klencke 87-a-7.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/1799/3876124/119827552/$s/fokke simonszstraat 88h - 2.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/1799/3893543/120478212/$s/wilhelminastraat 18-1 - 1.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/1799/3883555/120104106/$s/plantage muidergracht 71-2 - 5.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/1799/3875992/119822877/$s/kijkduinstraat 51-3 - 2.jpg"
     ],
-    "description": "Je zoekt naar particulier huuraanbod in Haarlem van het type woonhuis. Te huur aangeboden in Haarlem:Ruime, volledig gemoderniseerde gezinswoning in het geliefde VondelkwartierIn het populaire en kindvriendelij... Hello, this website uses essential cookies to ensure its proper functioning and possibly tracking cookies to understand how you interact with it. Let me choose",
+    "description": "Je zoekt naar particulier koopaanbod in Amsterdam van het type woonhuis. Te koop aangeboden in Amsterdam West (Laan van Spartaan):Duurzaam (label A) en prettig ingedeeld gezinshuis gelegen in de kindvriendelijke wijk... Hello, this website uses essential cookies to ensure its proper functioning and possibly tracking cookies to understand how you interact with it. Let me choose",
     "features": [],
     "firstSeen": "2025-11-30T13:30:15.579Z",
     "lastUpdated": "2025-12-22T18:35:57.524Z",
-    "hash": "872205debf4b6125",
+    "hash": "20d85364faf463e3",
     "lastScraped": "2025-12-22T18:35:57.524Z"
   },
   {
@@ -2824,7 +2821,7 @@
   {
     "id": "housingnet-type-appartement",
     "agencyId": "housingnet",
-    "url": "https://www.housingnet.nl/woningaanbod/huur/hoofddorp/type-appartement",
+    "url": "https://www.housingnet.nl/woningaanbod/huur/diemen/type-appartement",
     "title": "Zoekresultaten",
     "available": false,
     "listingType": "rent",
@@ -2835,22 +2832,20 @@
       "city": "Zoekresultaten"
     },
     "images": [
-      "https://haywebattachments.blob.core.windows.net/public/1879/3826970/118009547/$s/img_1409.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/1879/3826970/118009548/$s/img_1392.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/1879/3718795/114039566/$s/img_1432.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/1879/3718795/114039560/$s/img_1444.jpg"
+      "https://haywebattachments.blob.core.windows.net/public/1879/3768934/115862515/$s/img_9010.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/1879/3768934/115862516/$s/img_9006.jpg"
     ],
-    "description": "Je zoekt naar particulier huuraanbod in Hoofddorp van het type appartement. This nice newly built building in the popular Hyde Park area, in Hoofddorp offers a spacious 3 room apartment with great view (9th floor). This apa... To schedule a viewing:-> Go to HousingNet's website-> Click on the listing you are interested in-> Click on the orange button which says \"B...",
+    "description": "Je zoekt naar particulier huuraanbod in Diemen van het type appartement. To schedule a viewing:-> Go to HousingNet's website-> Click on the listing you are interested in-> Click on the orange button which says \"S... Hallo, deze website gebruikt essentiële cookies om de goede werking ervan te garanderen en eventueel trackingcookies om te begrijpen hoe je ermee omgaat. Laat mij kiezen",
     "features": [],
     "firstSeen": "2025-11-30T13:30:51.220Z",
     "lastUpdated": "2025-12-22T18:36:42.335Z",
-    "hash": "f30813a3ef491844",
+    "hash": "cc42a30f4d81f612",
     "lastScraped": "2025-12-22T18:36:42.335Z"
   },
   {
     "id": "housingnet-type-woonhuis",
     "agencyId": "housingnet",
-    "url": "https://www.housingnet.nl/woningaanbod/huur/purmerend/type-woonhuis",
+    "url": "https://www.housingnet.nl/woningaanbod/huur/amstelveen/type-woonhuis",
     "title": "Zoekresultaten",
     "available": false,
     "listingType": "rent",
@@ -2861,14 +2856,14 @@
       "city": "Zoekresultaten"
     },
     "images": [
-      "https://haywebattachments.blob.core.windows.net/public/1879/3867356/119502770/$s/img_3699.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/1879/3867356/119502771/$s/img_3692.jpg"
+      "https://haywebattachments.blob.core.windows.net/public/1879/3833403/118244240/$s/img_1667.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/1879/3833403/118244241/$s/img_1665.jpg"
     ],
-    "description": "Je zoekt naar particulier huuraanbod in Purmerend van het type woonhuis. Cozy 2-bedroom family house with spacious garden available in Purmerend. Only 2 minutes away from shopping center and the busstation which takes yo... Hallo, deze website gebruikt essentiële cookies om de goede werking ervan te garanderen en eventueel trackingcookies om te begrijpen hoe je ermee omgaat. Laat mij kiezen",
+    "description": "Je zoekt naar particulier huuraanbod in Amstelveen van het type woonhuis. To schedule a viewing:-> Go to HousingNet's website-> Click on the listing you are interested in-> Click on the blue button which says \"Pla... Hallo, deze website gebruikt essentiële cookies om de goede werking ervan te garanderen en eventueel trackingcookies om te begrijpen hoe je ermee omgaat. Laat mij kiezen",
     "features": [],
     "firstSeen": "2025-11-30T13:30:51.220Z",
     "lastUpdated": "2025-12-22T18:36:42.335Z",
-    "hash": "c8223f23debaea40",
+    "hash": "7f552470c7fa5872",
     "lastScraped": "2025-12-22T18:36:42.335Z"
   },
   {
@@ -7389,7 +7384,19 @@
     "firstSeen": "2025-11-30T13:32:34.723Z",
     "lastUpdated": "2025-12-22T18:37:12.143Z",
     "hash": "061764c5d22b10ad",
-    "lastScraped": "2025-12-22T18:37:12.143Z"
+    "lastScraped": "2025-12-22T18:37:12.143Z",
+    "distanceToPOI": {
+      "zaandam-centraal": {
+        "walking": {
+          "meters": 639,
+          "minutes": 9
+        },
+        "cycling": {
+          "meters": 659,
+          "minutes": 7
+        }
+      }
+    }
   },
   {
     "id": "homeoforange-686549e6f42c6d66dc7be61c",
@@ -130649,38 +130656,36 @@
   {
     "id": "newcurb-64",
     "agencyId": "newcurb",
-    "url": "https://newcurbmakelaars.nl/woningaanbod/huur/amsterdam/president-kennedylaan/64",
-    "title": "President Kennedylaan 64, 1079 NG Amsterdam",
+    "url": "https://newcurbmakelaars.nl/woningaanbod/huur/diemen/tarwekamp/64",
+    "title": "Tarwekamp 64, 1112 HE Diemen",
     "available": false,
     "listingType": "rent",
-    "price": 1750,
-    "priceDisplay": "€ 1.244,06 excl",
-    "sqm": 52,
-    "bedrooms": 2,
+    "price": 1950,
+    "priceDisplay": "€ 1.275,- per maand",
+    "sqm": 61,
+    "bedrooms": 3,
     "location": {
-      "city": "Amsterdam",
+      "city": "Diemen",
       "coordinates": {
         "lat": 52.3338685,
         "lon": 4.9531238
       }
     },
     "images": [
-      "https://haywebattachments.blob.core.windows.net/public/2820/3863222/119350208/$m/1d0aa9a6-b77e-4a29-a57a-e67845b89c93.png",
-      "https://haywebattachments.blob.core.windows.net/public/2820/3865882/119447370/$m/exposio_133235035.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2820/3865878/119447243/$m/c8a756b7-25cb-41bf-bfd4-5fd8a3f5a5cf.png",
-      "https://haywebattachments.blob.core.windows.net/public/2820/3863209/119349807/$m/final_edit_1.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2820/3824679/117924237/$m/d6415e00-f60f-44c7-a538-ab0b7c61d8fb.png",
-      "https://haywebattachments.blob.core.windows.net/public/2820/3880981/120008167/$s/image00012%20newcurb%20makelaars%20verhuren%20verhuur%20verhuurmakelaar%20hilversum%20gooi%20bussum%20naarden%20blaricum%20laren%20almere.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2820/3880981/120008168/$s/image00021.jpeg",
-      "https://haywebattachments.blob.core.windows.net/public/2820/3880981/120008169/$s/image00020.jpeg",
-      "https://haywebattachments.blob.core.windows.net/public/2820/3880981/120008170/$s/image00017.jpeg",
-      "https://haywebattachments.blob.core.windows.net/public/2820/3880981/120008171/$s/image00016.jpeg"
+      "https://haywebattachments.blob.core.windows.net/public/2820/3723774/114221785/$m/img_2502.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2820/3684178/112764427/$m/03.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2820/3655331/111699737/$m/12_cvdf9496.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2820/3684170/112764079/$m/20221227, brinkendael 16, baarn, newcurb makelaars  (2 of 30).jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2820/3726235/114312497/$s/foto%201.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2820/3726235/114312498/$s/foto%202.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2820/3726235/114312499/$s/foto%203.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2820/3726235/114312500/$s/foto%204.jpg"
     ],
     "description": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WX9B7B9G\"",
     "features": [],
     "firstSeen": "2025-12-17T09:21:59.286Z",
     "lastUpdated": "2025-12-22T18:36:40.424Z",
-    "hash": "61f92dac263ae6d7",
+    "hash": "a5ab82acba7d5e57",
     "distanceToPOI": {
       "amsterdam-centraal": {
         "walking": {
@@ -130764,16 +130769,20 @@
   {
     "id": "newcurb-38",
     "agencyId": "newcurb",
-    "url": "https://newcurbmakelaars.nl/woningaanbod/huur/amsterdam/krooswijkhof/38",
-    "title": "Krooswijkhof 38, 1082 PA Amsterdam",
+    "url": "https://newcurbmakelaars.nl/woningaanbod/huur/amstelveen/marne/38",
+    "title": "Marne 38, 1186 PB Amstelveen",
     "available": false,
     "listingType": "rent",
     "price": 109208,
-    "priceDisplay": "€ 2.150,- per maand",
+    "priceDisplay": "€ 847,05,- excl.",
     "sqm": 41,
-    "bedrooms": 2,
+    "bedrooms": 1,
     "location": {
-      "city": "Amsterdam"
+      "city": "Amstelveen",
+      "coordinates": {
+        "lat": 52.2856376,
+        "lon": 4.8622633
+      }
     },
     "images": [
       "https://haywebattachments.blob.core.windows.net/public/2820/3770207/115910513/$m/dsc_0005.jpg",
@@ -130781,14 +130790,29 @@
       "https://haywebattachments.blob.core.windows.net/public/2820/3740932/114853235/$m/foto 1.jpg",
       "https://haywebattachments.blob.core.windows.net/public/2820/3733670/114585551/$m/20230117, slochterenlaan 78, bussum, newcurb makelaars (29 of 34) kopie.jpg",
       "https://haywebattachments.blob.core.windows.net/public/2820/3723774/114221785/$m/img_2502.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2820/3803633/117149887/$s/krooswijkhof%2038%20amsterdam.png"
+      "https://haywebattachments.blob.core.windows.net/public/2820/3776166/116133246/$s/4.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2820/3776166/116133247/$s/amstelveen-cobra-museum.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2820/3776166/116133248/$s/amstelveen-header.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2820/3776166/116133249/$s/amsterdamse%20bos.jpg"
     ],
     "description": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WX9B7B9G\"",
     "features": [],
     "firstSeen": "2025-12-17T09:21:59.286Z",
     "lastUpdated": "2025-12-22T18:36:40.424Z",
-    "hash": "69e56880b7562728",
-    "lastScraped": "2025-12-22T18:36:40.424Z"
+    "hash": "4bcf884e634e1db7",
+    "lastScraped": "2025-12-22T18:36:40.424Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 12437,
+          "minutes": 167
+        },
+        "cycling": {
+          "meters": 12871,
+          "minutes": 61
+        }
+      }
+    }
   },
   {
     "id": "newcurb-52",
@@ -130989,13 +131013,13 @@
   {
     "id": "newcurb-54",
     "agencyId": "newcurb",
-    "url": "https://newcurbmakelaars.nl/woningaanbod/huur/amsterdam/van-ollefenstraat/54",
-    "title": "Van Ollefenstraat 54, 1065 LL Amsterdam",
+    "url": "https://newcurbmakelaars.nl/woningaanbod/huur/amsterdam/krooswijkhof/54",
+    "title": "Krooswijkhof 54, 1082 PA Amsterdam",
     "available": false,
     "listingType": "rent",
-    "price": 1795,
-    "priceDisplay": "€ 1.875,- excl.",
-    "sqm": 99,
+    "price": 107225,
+    "priceDisplay": "€ 2.000,- per maand",
+    "sqm": 80,
     "bedrooms": 2,
     "location": {
       "city": "Amsterdam",
@@ -131005,22 +131029,22 @@
       }
     },
     "images": [
-      "https://haywebattachments.blob.core.windows.net/public/2820/3865878/119447243/$m/c8a756b7-25cb-41bf-bfd4-5fd8a3f5a5cf.png",
-      "https://haywebattachments.blob.core.windows.net/public/2820/3863209/119349807/$m/final_edit_1.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2820/3824679/117924237/$m/d6415e00-f60f-44c7-a538-ab0b7c61d8fb.png",
-      "https://haywebattachments.blob.core.windows.net/public/2820/3823530/117882113/$m/2.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2820/3810911/117418299/$m/6bd81c82-a8db-4853-925a-63dcd531109a.png",
-      "https://haywebattachments.blob.core.windows.net/public/2820/3865882/119447370/$s/exposio_133235035.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2820/3865882/119447371/$s/exposio_133235036.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2820/3865882/119447372/$s/exposio_133235039.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2820/3865882/119447373/$s/exposio_133235038.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2820/3865882/119447374/$s/exposio_133235042.jpg"
+      "https://haywebattachments.blob.core.windows.net/public/2820/3740932/114853235/$m/foto 1.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2820/3733670/114585551/$m/20230117, slochterenlaan 78, bussum, newcurb makelaars (29 of 34) kopie.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2820/3723774/114221785/$m/img_2502.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2820/3684178/112764427/$m/03.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2820/3655331/111699737/$m/12_cvdf9496.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2820/3761978/115605099/$s/schermafbeelding%202024-11-17%20081208.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2820/3761978/115605100/$s/c9b3d93c-94f5-4430-a252-b73be4a05254.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2820/3761978/115605101/$s/a89553fe-b2d4-4344-88d3-8812ce062566.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2820/3761978/115605102/$s/54c88504-5b0a-47ef-8a4e-375ac9ec109e.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2820/3761978/115605103/$s/57edd71b-855c-4891-8c99-314cf85c90b3.jpg"
     ],
     "description": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WX9B7B9G\"",
     "features": [],
     "firstSeen": "2025-12-17T09:21:59.286Z",
     "lastUpdated": "2025-12-22T18:36:40.424Z",
-    "hash": "ea19a15e6e49524b",
+    "hash": "950fb426d05aaa4c",
     "distanceToPOI": {
       "amsterdam-centraal": {
         "walking": {
@@ -131789,13 +131813,13 @@
   {
     "id": "newcurb-46",
     "agencyId": "newcurb",
-    "url": "https://newcurbmakelaars.nl/woningaanbod/huur/amsterdam/van-ollefenstraat/46",
-    "title": "Van Ollefenstraat 46, 1065 LK Amsterdam",
+    "url": "https://newcurbmakelaars.nl/woningaanbod/huur/amsterdam/krooswijkhof/46",
+    "title": "Krooswijkhof 46, 1082 PA Amsterdam",
     "available": false,
     "listingType": "rent",
-    "price": 1875,
-    "priceDisplay": "€ 1.875,- excl.",
-    "sqm": 75,
+    "price": 1950,
+    "priceDisplay": "€ 1.950,- per maand",
+    "sqm": 69,
     "bedrooms": 2,
     "location": {
       "city": "Amsterdam",
@@ -131805,21 +131829,22 @@
       }
     },
     "images": [
-      "https://haywebattachments.blob.core.windows.net/public/2820/3902333/120806402/$m/neptunussingel 45 almere-40.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2820/3911100/121134125/$m/roggekamp 141 - 24.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2820/3902332/120806381/$m/img_5424.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2820/3873458/119728975/$m/photo-2025-09-17-17-09-29.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2820/3919672/121452146/$s/newcurb%20makelaars%20gooi%20hilversum%20verhuur%20verhuren%20woning%20appartement%20huis%20villa.png",
-      "https://haywebattachments.blob.core.windows.net/public/2820/3919672/121452148/$s/energielabel%20newcurb%20makelaars%20a%20van%20ollefenstraat%20amsterdam.png",
-      "https://haywebattachments.blob.core.windows.net/public/2820/3919672/121452147/$s/jakub-gigler-jyentg7ahbg-unsplash.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2820/3919672/121452149/$s/miltiadis-fragkidis-_bcs51zlxec-unsplash.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2820/3919672/121452150/$s/newcurb%20makelaars%20vastgoednederland%20branchevereniging.png"
+      "https://haywebattachments.blob.core.windows.net/public/2820/3863222/119350208/$m/1d0aa9a6-b77e-4a29-a57a-e67845b89c93.png",
+      "https://haywebattachments.blob.core.windows.net/public/2820/3865882/119447370/$m/exposio_133235035.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2820/3865878/119447243/$m/c8a756b7-25cb-41bf-bfd4-5fd8a3f5a5cf.png",
+      "https://haywebattachments.blob.core.windows.net/public/2820/3863209/119349807/$m/final_edit_1.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2820/3824679/117924237/$m/d6415e00-f60f-44c7-a538-ab0b7c61d8fb.png",
+      "https://haywebattachments.blob.core.windows.net/public/2820/3873453/119728830/$s/1.png",
+      "https://haywebattachments.blob.core.windows.net/public/2820/3873453/119728832/$s/2.png",
+      "https://haywebattachments.blob.core.windows.net/public/2820/3873453/119728833/$s/3.png",
+      "https://haywebattachments.blob.core.windows.net/public/2820/3873453/119728836/$s/4.png",
+      "https://haywebattachments.blob.core.windows.net/public/2820/3873453/119728838/$s/5.png"
     ],
     "description": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WX9B7B9G\"",
     "features": [],
     "firstSeen": "2025-12-17T09:21:59.286Z",
     "lastUpdated": "2025-12-22T18:36:40.424Z",
-    "hash": "783f055824d5eb5d",
+    "hash": "137ecb55c9c87775",
     "distanceToPOI": {
       "amsterdam-centraal": {
         "walking": {
@@ -131837,38 +131862,38 @@
   {
     "id": "newcurb-27",
     "agencyId": "newcurb",
-    "url": "https://newcurbmakelaars.nl/woningaanbod/huur/amstelveen/marne/27",
-    "title": "Marne 27, 1186 PA Amstelveen",
+    "url": "https://newcurbmakelaars.nl/woningaanbod/huur/amsterdam/weenahof/27",
+    "title": "Weenahof 27, 1083 JG Amsterdam",
     "available": false,
     "listingType": "rent",
-    "price": 1850,
-    "priceDisplay": "€ 1.850,- excl.",
-    "sqm": 52,
+    "price": 2195,
+    "priceDisplay": "€ 2.250,- excl",
+    "sqm": 70,
     "bedrooms": 2,
     "location": {
-      "city": "Amstelveen",
+      "city": "Amsterdam",
       "coordinates": {
         "lat": 52.3337935,
         "lon": 4.8814364
       }
     },
     "images": [
+      "https://haywebattachments.blob.core.windows.net/public/2820/3897197/120614501/$m/img-20251126-wa0011 newcurbmakelaars stationkade amsterdam verhuurmakelaar verkoopmakelaar verkopen verhuren gooi hilversum.jpg",
       "https://haywebattachments.blob.core.windows.net/public/2820/3880981/120008167/$m/image00012 newcurb makelaars verhuren verhuur verhuurmakelaar hilversum gooi bussum naarden blaricum laren almere.jpg",
       "https://haywebattachments.blob.core.windows.net/public/2820/3863222/119350208/$m/1d0aa9a6-b77e-4a29-a57a-e67845b89c93.png",
       "https://haywebattachments.blob.core.windows.net/public/2820/3865882/119447370/$m/exposio_133235035.jpg",
       "https://haywebattachments.blob.core.windows.net/public/2820/3865878/119447243/$m/c8a756b7-25cb-41bf-bfd4-5fd8a3f5a5cf.png",
-      "https://haywebattachments.blob.core.windows.net/public/2820/3863209/119349807/$m/final_edit_1.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2820/3889640/120331721/$s/4.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2820/3889640/120331722/$s/95b608e5-82b3-4e4f-8a8c-18f3829a0068.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2820/3889640/120331723/$s/1b6c9896-2ffc-4184-b247-70185021073d.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2820/3889640/120331724/$s/56f10747-69ab-48b9-a4ea-ad2f734dc034.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2820/3889640/120331725/$s/amstelveen-cobra-museum.jpg"
+      "https://haywebattachments.blob.core.windows.net/public/2820/3873458/119728975/$s/photo-2025-09-17-17-09-29.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2820/3873458/119728976/$s/2.png",
+      "https://haywebattachments.blob.core.windows.net/public/2820/3873458/119728977/$s/3.png",
+      "https://haywebattachments.blob.core.windows.net/public/2820/3873458/119728978/$s/4.png",
+      "https://haywebattachments.blob.core.windows.net/public/2820/3873458/119728979/$s/5.png"
     ],
     "description": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WX9B7B9G\"",
     "features": [],
     "firstSeen": "2025-12-17T09:21:59.286Z",
     "lastUpdated": "2025-12-22T18:36:40.424Z",
-    "hash": "c947d4ce0d7b9785",
+    "hash": "257907b3200f597d",
     "distanceToPOI": {
       "amsterdam-centraal": {
         "walking": {
@@ -184230,66 +184255,63 @@
   {
     "id": "parkerwilliams-type-apartment",
     "agencyId": "parkerwilliams",
-    "url": "https://parkerwilliams.nl/residential-listings/rent/amsterdam/type-apartment",
-    "title": "You're searching for residential listings for rent in Amsterdam of the type apartment.",
+    "url": "https://parkerwilliams.nl/residential-listings/sale/amsterdam/type-apartment",
+    "title": "You're searching for residential listings for sale in Amsterdam of the type apartment.",
     "available": false,
-    "listingType": "rent",
+    "listingType": "sale",
     "price": 0,
     "priceDisplay": "€ 0 - N",
     "sqm": 25,
-    "bedrooms": 2,
+    "bedrooms": 3,
     "location": {
       "city": "apartment."
     },
     "images": [
-      "https://haywebattachments.blob.core.windows.net/public/2293/3923233/121584503/$s/img_2649.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2293/3919696/121452938/$s/img_2542.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2293/3918468/121407395/$s/img_2487.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2293/3915929/121313991/$s/img_2617.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2293/3911144/121135881/$s/rijnlandlaan%20271%20-%2012.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2293/3902285/120804435/$s/img_1942.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2293/3902271/120803912/$s/img_0464.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2293/3901037/120757473/$s/zocherstraat%201-2%20-%205.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2293/3892180/120426440/$s/gevel.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2293/3880975/120007836/$s/weteringschans%20(47%20van%2047).jpg"
+      "https://haywebattachments.blob.core.windows.net/public/2293/3905880/120939747/$s/keizersgracht%20804e%20-%202.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2293/3884831/120153061/$s/tugelaweg%2042a%20-%201.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2293/3804866/117195895/$s/single%2099%20a%20-%202.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2293/3816021/117605101/$s/kerkstraat%2014a%20-%202.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2293/3806111/117241933/$s/jacob%20obrechtstraat%201-2%20-%208.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2293/3767815/115820777/$s/img_1521.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2293/3706175/113574203/$s/singel%2099-a%20-%202.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2293/3694335/113135742/$s/johannes%20verhulststraat%204-2%20-%202.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2293/3672740/112344432/$s/img_3427.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2293/3905880/120939747/$m/keizersgracht 804e - 2.jpg"
     ],
-    "description": "You're searching for residential listings for rent in Amsterdam of the type apartment.",
+    "description": "You're searching for residential listings for sale in Amsterdam of the type apartment.",
     "features": [],
     "firstSeen": "2025-12-17T13:32:21.847Z",
     "lastUpdated": "2025-12-22T18:36:17.908Z",
-    "hash": "6cff96c938df73d7",
+    "hash": "57e4c2d725a791b4",
     "lastScraped": "2025-12-22T18:36:17.908Z"
   },
   {
     "id": "parkerwilliams-type-house",
     "agencyId": "parkerwilliams",
-    "url": "https://parkerwilliams.nl/residential-listings/rent/amsterdam/type-house",
-    "title": "You're searching for residential listings for rent in Amsterdam of the type house.",
+    "url": "https://parkerwilliams.nl/residential-listings/sale/amsterdam/type-house",
+    "title": "You're searching for residential listings for sale in Amsterdam of the type house.",
     "available": false,
-    "listingType": "rent",
+    "listingType": "sale",
     "price": 0,
     "priceDisplay": "€ 0 - N",
     "sqm": 25,
-    "bedrooms": 2,
+    "bedrooms": 5,
     "location": {
       "city": "house."
     },
     "images": [
-      "https://haywebattachments.blob.core.windows.net/public/2293/3874731/119776431/$s/img_2141.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2293/3803555/117146599/$s/img_2266.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2293/3733631/114584336/$s/img_1754.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2293/3726304/114314988/$s/_dsc2286.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2293/3923233/121584503/$m/img_2649.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2293/3919696/121452938/$m/img_2542.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2293/3901037/120757473/$m/zocherstraat 1-2 - 5.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2293/3914700/121268462/$m/1000029804.jpg",
-      "https://haywebattachments.blob.core.windows.net/public/2293/3902271/120803912/$m/img_0464.jpg"
+      "https://haywebattachments.blob.core.windows.net/public/2293/3806129/117242492/$s/img_1561.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2293/3884831/120153061/$m/tugelaweg 42a - 1.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2293/3905880/120939747/$m/keizersgracht 804e - 2.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2293/3818253/117687208/$m/amsteldijk noord 105 - 1.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2293/3806111/117241933/$m/jacob obrechtstraat 1-2 - 8.jpg",
+      "https://haywebattachments.blob.core.windows.net/public/2293/3804866/117195895/$m/single 99 a - 2.jpg"
     ],
-    "description": "You're searching for residential listings for rent in Amsterdam of the type house.",
+    "description": "You're searching for residential listings for sale in Amsterdam of the type house.",
     "features": [],
     "firstSeen": "2025-12-17T13:32:21.847Z",
     "lastUpdated": "2025-12-22T18:36:17.908Z",
-    "hash": "428c97df2a7cf106",
+    "hash": "8784ac731872efea",
     "lastScraped": "2025-12-22T18:36:17.908Z"
   },
   {

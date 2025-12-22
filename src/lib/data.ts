@@ -15,6 +15,7 @@ const agencyNames: Record<string, string> = {
   brantjes: 'Brantjes Makelaars',
   relomakelaars: 'Relo Makelaars',
   homeoforange: 'Home of Orange',
+  huurwoningen: 'Huurwoningen',
 };
 
 export function getAgencyName(agencyId: string): string {

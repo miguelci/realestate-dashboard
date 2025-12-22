@@ -40,6 +40,8 @@ export function PropertyCard({ property, onClick }: PropertyCardProps) {
   const walkMinutes = poiDistance?.[1]?.walking?.minutes;
 
   const images = property.images?.slice(0, 4) || [];
+  const city = property.location.city?.trim();
+  const street = property.location.street?.trim();
   const hasImages = images.length > 0;
 
   const handleClick = (e: React.MouseEvent) => {
@@ -155,8 +157,8 @@ export function PropertyCard({ property, onClick }: PropertyCardProps) {
             </>
           ) : (
             <>
-              <span>{property.location.city}</span>
-              {property.location.street && <span>, {property.location.street}</span>}
+              <span>{city}</span>
+              {street && <span>, {street}</span>}
             </>
           )}
         </button>
