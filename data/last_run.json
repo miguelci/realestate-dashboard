@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-12-23T12:36:55.401Z",
+  "timestamp": "2025-12-23T13:25:57.360Z",
   "success": true,
-  "propertiesFound": 329,
-  "newProperties": 73,
+  "propertiesFound": 361,
+  "newProperties": 37,
   "circuitBreakerTriggered": false
 }

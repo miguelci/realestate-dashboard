@@ -189288,12 +189288,11 @@
     "images": [
       "https://casco-media-prod.global.ssl.fastly.net/8de34242-22f6-5dcb-bb13-be87c1b44f3e/e4019dbb65e3bdb55818a300dc9c8256.jpg?width=600&auto=webp"
     ],
-    "description": "Dit appartement aan Backershagen 59 in Amsterdam heeft vier kamers en een gebruiksoppervlakte van circa 127 m². Gebouwd rond 1968, biedt het een praktische indeling die aansluit op dagelijks wooncomfort. De gunstige ligging zorgt ervoor dat winkels, horeca en groen binnen korte afstand bereikbaar zijn. Gelegen in Amsterdam, biedt de woning een centrale locatie, met zowel stedelijke voorzieningen als rustige woonstraten in de buurt. De bereikbaarheid met openbaar vervoer is uitstekend, met Statio",
+    "description": "Dit appartement aan Backershagen 59 in Amsterdam, gelegen in 1968, beschikt over 4 kamers en heeft een gebruiksoppervlakte van circa 127 m². De praktische indeling biedt goed dagelijks wooncomfort en de locatie is ideaal, met winkels, horeca en groen vlakbij. Bovendien zijn zowel Station Amsterdam Centraal als het Busstation gemakkelijk bereikbaar, wat het reizen naar andere steden vergemakkelijkt. Ook zijn er voldoende bushaltes in de nabijheid en goede verbindingen met het regionale wegennet. ",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-23T12:35:38.320Z",
-    "hash": "62ca209ed60f8655",
-    "lastScraped": "2025-12-23T12:35:38.320Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "966c44f56e5e158a",
     "distanceToPOI": {
       "amsterdam-centraal": {
         "walking": {
@@ -189305,7 +189304,8 @@
           "minutes": 40
         }
       }
-    }
+    },
+    "lastScraped": "2025-12-23T13:25:34.113Z"
   },
   {
     "id": "huurwoningen-1548835-van-spilbergenstraat",
@@ -189330,12 +189330,11 @@
     "images": [
       "https://casco-media-prod.global.ssl.fastly.net/a2f8aca8-ecbb-5c79-9c2c-bcbbc73922ae/cd5d41140b6981373d1ad4ddc8363351.jpg?width=600&auto=webp"
     ],
-    "description": "Dit appartement aan de Van Spilbergenstraat 89-D in Amsterdam biedt een praktische indeling met 3 kamers en een gebruiksoppervlakte van circa 57 m². Het gebouw is rond 1924 gerealiseerd en combineert comfort met een centrale locatie. Dichtbij zijn voorzieningen zoals winkels, horeca en groen, allemaal binnen korte afstand. De bereikbaarheid is uitstekend, met het openbaar vervoer zoals Station Amsterdam Centraal en bushaltes in de nabijheid. Dit maakt reizen naar andere steden eenvoudig. Met ene",
+    "description": "Dit appartement aan de Van Spilbergenstraat 89-D in Amsterdam biedt een praktische indeling met 3 kamers en een gebruiksoppervlakte van circa 57 m². Gebouwd rond 1924, is het appartement comfortabel en goed bereikbaar. De gunstige locatie stelt je in staat om winkels, horeca en groen binnen korte afstand te vinden. De omgeving combineert stedelijke voorzieningen met rustige woonstraten, perfect voor dagelijks leven. De bereikbaarheid met openbaar vervoer is uitstekend, met Amsterdam Centraal en ",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-23T12:35:38.320Z",
-    "hash": "27d8b75e255eca25",
-    "lastScraped": "2025-12-23T12:35:38.320Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "40b6218021cb77d1",
     "distanceToPOI": {
       "amsterdam-centraal": {
         "walking": {
@@ -189347,7 +189346,8 @@
           "minutes": 28
         }
       }
-    }
+    },
+    "lastScraped": "2025-12-23T13:25:34.113Z"
   },
   {
     "id": "huurwoningen-1548823-willem-schoutenstraat",
@@ -191054,12 +191054,11 @@
     "images": [
       "https://casco-media-prod.global.ssl.fastly.net/f533de07-3773-5a44-b8f8-89dddc33fe84/7e1e8ee18877f24b3768461a58f263a5.jpg?width=600&auto=webp"
     ],
-    "description": "Dit appartement op August Allebeplein 55 in Amsterdam heeft 3 kamers en een gebruiksoppervlakte van ongeveer 52 m². Het gebouw is rond 2016 gerealiseerd en biedt een praktische indeling voor dagelijks wooncomfort. De centrale ligging zorgt ervoor dat winkels, horeca en groen vlakbij te vinden zijn. De bereikbaarheid is uitstekend, met Station Amsterdam Centraal en diverse bushaltes in de nabijheid, wat reizen naar andere steden vergemakkelijkt. De woning heeft energielabel A+, wat zorgt voor een",
+    "description": "Dit appartement aan het August Allebeplein 55 in Amsterdam heeft een gebruiksoppervlakte van circa 52 m² en biedt 3 kamers. Gebouwd rond 2016, is de indeling praktisch en comfortabel voor dagelijks gebruik. De locatie is ideaal, met winkels, horeca en groen binnen handbereik. Je woont hier centraal, met zowel levendige stedelijke voorzieningen als rustige woonstraten in de buurt. De bereikbaarheid is uitstekend; het station en busstation van Amsterdam Centraal liggen dichtbij, wat reizen naar an",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-23T12:35:38.320Z",
-    "hash": "1a9fc7b5f9714178",
-    "lastScraped": "2025-12-23T12:35:38.320Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "125a9126207fc78c",
     "distanceToPOI": {
       "amsterdam-centraal": {
         "walking": {
@@ -191071,7 +191070,8 @@
           "minutes": 32
         }
       }
-    }
+    },
+    "lastScraped": "2025-12-23T13:25:34.113Z"
   },
   {
     "id": "huurwoningen-1548625-hoendiepstraat",
@@ -193212,21 +193212,38 @@
     "listingType": "rent",
     "price": 1624,
     "priceDisplay": "€ 1.624",
-    "sqm": 68,
+    "sqm": 69,
     "bedrooms": 2,
     "location": {
       "city": "Amsterdam",
-      "street": "Kraanspoor"
+      "street": "Kraanspoor",
+      "postalCode": "1033SC",
+      "coordinates": {
+        "lat": 52.4057164,
+        "lon": 4.889527
+      }
     },
     "images": [
-      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/a32ffb05-2bc4-5aed-b521-54d28cb83a20/b113b7f8-abaf-5cc9-9fc5-665b79b8357c?original_uri=https%3A%2F%2Fikwilhuren.nu%2Fmedia%2Fbe%2Fbe104caf54d2382532a160d063df24cf%2F1600%2F56213223-exterieur-01.jpg&width=600&auto=webp"
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/a32ffb05-2bc4-5aed-b521-54d28cb83a20/9145f930-3686-5ace-8bc4-ade34e7d6a34?original_uri=https%3A%2F%2Fikwilhuren.nu%2Fmedia%2F3a%2F3a5715522483f4848514a7213c2fa133%2F1600%2F56213291-exterieur-01.jpg&width=600&auto=webp"
     ],
     "description": "Dit 3-kamer appartement heeft een woonoppervlakte van 68,7 m2 en beschikt over twee slaapkamers. In de volledig ingerichte keuken kun je heerlijk koken, en de badkamer is voorzien van een inloopdouche en brede wastafel. Het appartement heeft ook een balkon op het zuidoosten, een separaat toilet en biedt voldoende bergruimte met twee bergingen in de woning en een op de begane grond. Voor het huren van een woning bij Kraanspoor geldt een richtlijn voor het inkomen van eenpersoonshuishoudens en mee",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
-    "hash": "8e24fd8297017457",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "870542b91484b322",
+    "lastScraped": "2025-12-23T13:25:34.113Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 3426,
+          "minutes": 28
+        },
+        "cycling": {
+          "meters": 4553,
+          "minutes": 30
+        }
+      }
+    }
   },
   {
     "id": "huurwoningen-1547978-hoogte-kadijk",
@@ -194750,11 +194767,11 @@
     "images": [
       "https://casco-media-prod.global.ssl.fastly.net/6c19be1a-1f2e-5ca8-afe1-1969ca59f70c/78ed1fddd7029cadcdc968fa91c003b5.jpg?width=600&auto=webp"
     ],
-    "description": "Dit gerenoveerde appartement van circa 75 m² in het hart van Oud-Zuid is ideaal gelegen nabij de Reijnier Vinkeleskade en het Vondelpark. De rustige Banstraat biedt een goede verbinding met de Beethovenstraat en Apollolaan en het centrum van Amsterdam is slechts enkele minuten verwijderd. In de buurt zijn luxe winkels en uitstekende restaurants te vinden, evenals culturele hotspots zoals het Concertgebouw en het Museumplein. Op de tweede etage, bereikbaar via de gemeenschappelijke trap, komt u b",
+    "description": "Dit gerenoveerde appartement van circa 75 m², gelegen in de rustige Banstraat in Oud-Zuid, biedt een ideale woonomgeving. De nabijheid van de Reijnier Vinkeleskade en het Vondelpark maakt het aantrekkelijk. Met de trendy Beethovenstraat en Apollolaan om de hoek, zijn de luxe winkels en restaurants zoals Ferilli's en Margaux goed bereikbaar. Het appartement heeft een slaapkamer met kastruimte en een ruime woonkamer met twee schouwen en PVC houten vloer. Openslaande deuren leiden naar het balkon o",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-23T12:35:38.320Z",
-    "hash": "e134c059770d39fd",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "712ec474c4cfb7e6",
     "distanceToPOI": {
       "amsterdam-centraal": {
         "walking": {
@@ -194767,7 +194784,7 @@
         }
       }
     },
-    "lastScraped": "2025-12-23T12:35:38.320Z"
+    "lastScraped": "2025-12-23T13:25:34.113Z"
   },
   {
     "id": "huurwoningen-1455710-spadinalaan",
@@ -199043,6 +199060,1318 @@
         "cycling": {
           "meters": 2375,
           "minutes": 17
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1549513-botterweg",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/diemen/1549513/botterweg/",
+    "title": "Appartement Botterweg in Diemen",
+    "available": true,
+    "listingType": "rent",
+    "price": 1250,
+    "priceDisplay": "€ 1.250",
+    "sqm": 85,
+    "bedrooms": 2,
+    "location": {
+      "city": "Diemen",
+      "street": "Botterweg",
+      "postalCode": "1113HS",
+      "coordinates": {
+        "lat": 52.3492963,
+        "lon": 4.9780091
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/a7f105b9-4974-5241-88f6-aad577053b42/0f88892f-b513-5edb-8702-7e897fb055d7?original_uri=https%3A%2F%2Fbrockhoff.nl%2Fwoningfotos%2F8%2F5%2F5%2F5%2F3840%2F85557914_bot-1.jpg&width=600&auto=webp"
+    ],
+    "description": "Deze woning aan de Botterweg 79 te Amstelveen heeft een indeling die onder andere een entree/hal, een ruime hoofdslaapkamer met toegang tot het eerste balkon, een tweede slaapkamer/studeerkamer, een royale woonkamer met grote raampartijen, en een semi-open keuken met toegang tot het tweede balkon omvat. De woning beschikt ook over een bijkeuken, een grote wit betegelde badkamer met ligbad en wasmachineaansluiting, en een aparte toiletruimte. Er is een aparte fietsenberging in de onderbouw. De wo",
+    "features": [],
+    "firstSeen": "2025-12-23T13:25:34.113Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "a24987b6ac32471b",
+    "lastScraped": "2025-12-23T13:25:34.113Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 7196,
+          "minutes": 96
+        },
+        "cycling": {
+          "meters": 7478,
+          "minutes": 38
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1429129-schoener",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/diemen/1429129/schoener/",
+    "title": "Huis Schoener in Diemen",
+    "available": true,
+    "listingType": "rent",
+    "price": 1719,
+    "priceDisplay": "€ 1.719",
+    "sqm": 110,
+    "bedrooms": 2,
+    "location": {
+      "city": "Diemen",
+      "street": "Schoener",
+      "postalCode": "1113JE",
+      "coordinates": {
+        "lat": 52.3478685,
+        "lon": 4.9792502
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/9a81cea2-f11f-5d15-abde-ead9fac46b6b/4bfa19f5-3928-51d5-be02-347ced3968bf?original_uri=https%3A%2F%2Fd35ydsorqlasep.cloudfront.net%2Fproduction%2Fwonenbij%2Fwonen-bij-bouwinvest%2Fproperties%2F24633%2F6803b160-7445-48a7-958a-68ebe0a2f9fe.jpeg?sig=c3883c83f42af61ae0b9a4b9ff89fb31a9d9a7bb600e25b3cd51c85199fd9297&width=600&auto=webp"
+    ],
+    "description": "Deze fraaie eengezinswoning van 110 m2 ligt nabij het Amsterdam-Rijnkanaal en beschikt over een fijne tuin. De ruime, lichte woonkamer van 24 m2 heeft een open keuken voorzien van diverse inbouwapparatuur. Op de 1e verdieping bevinden zich 3 slaapkamers en een badkamer met douche, designradiator, toilet en wastafel. De 2e verdieping biedt een prettige zolder van 21 m2. De woning is rustig gelegen in Diemen-Noord, dichtbij winkels en goed bereikbaar met auto en openbaar vervoer, wat het een ideal",
+    "features": [],
+    "firstSeen": "2025-12-23T13:25:34.113Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "ca7aeef940ddee04",
+    "lastScraped": "2025-12-23T13:25:34.113Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 7442,
+          "minutes": 100
+        },
+        "cycling": {
+          "meters": 7713,
+          "minutes": 39
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1547549-charlotte-van-pallandthof",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/diemen/1547549/charlotte-van-pallandthof/",
+    "title": "Appartement Charlotte van Pallandthof in Diemen",
+    "available": true,
+    "listingType": "rent",
+    "price": 1300,
+    "priceDisplay": "€ 1.300",
+    "sqm": 62,
+    "location": {
+      "city": "Diemen",
+      "street": "Charlotte van Pallandthof",
+      "postalCode": "1112ZL"
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/fff40b4a-0f03-5f07-b756-0c147197a764/6d8777c5-736e-59e6-8586-40c17b0463ab?original_uri=https%3A%2F%2Flin.eye-move.nl%2Fwoningfotos%2F8%2F5%2F4%2F0%2F85403065_Holland-Park-23-5-2024-26.jpg&width=600&auto=webp"
+    ],
+    "description": "Holland Park, een nieuwe woonomgeving in Diemen-Zuid, biedt luxe appartementen beschikbaar per 15 januari 2026. Deze moderne appartementen, grenzend aan Amsterdam, zijn dichtbij het openbaar vervoer en de natuur, zoals Gaasperplas. Het complex heeft 194 appartementen verspreid over 8 woonlagen rond een centrale binnentuin, ontworpen als polderlandschap met een parkeergarage eronder. Elke woning beschikt over een buitenruimte, vloerverwarming, een volledig uitgeruste keuken en een hoogwaardige ba",
+    "features": [],
+    "firstSeen": "2025-12-23T13:25:34.113Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "2eb611e290953df9",
+    "lastScraped": "2025-12-23T13:25:34.113Z"
+  },
+  {
+    "id": "huurwoningen-1547281-roggekamp",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/diemen/1547281/roggekamp/",
+    "title": "Appartement Roggekamp in Diemen",
+    "available": true,
+    "listingType": "rent",
+    "price": 1079,
+    "priceDisplay": "€ 1.079",
+    "sqm": 67,
+    "bedrooms": 1,
+    "location": {
+      "city": "Diemen",
+      "street": "Roggekamp",
+      "postalCode": "1112JB",
+      "coordinates": {
+        "lat": 52.3370216,
+        "lon": 4.9507774
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/d045b979-04ca-5e0d-b745-1a9cc22be48c/e17d911986f6ac3ac8eb2ff644bc111a.jpg?width=600&auto=webp"
+    ],
+    "description": "Per 05-01-2026 beschikbaar; een fijn appartement van maar liefst 67m2, met 1 slaapkamer, balkon, ruime woonkamer en een gunstig energielabel A! Daarnaast een eigen berging op de begane grond. Gelegen in een prettige woonwijk in Diemen. B E Z I C H T I G I N G A A N V R A G E N Reageren op deze woning is ALLEEN online mogelijk. Efficiënt en eenvoudig: 1. Ga naar onze eigen website \\*\\*\\*\\*\\*\\* en zoek naar de specifieke woning. 2. Rechtsonder vindt u een groene knop: \"Plan Afspraak\". 3. Vul vervo",
+    "features": [],
+    "firstSeen": "2025-12-23T13:25:34.113Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "4418fc9e4ba4c283",
+    "lastScraped": "2025-12-23T13:25:34.113Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 7026,
+          "minutes": 94
+        },
+        "cycling": {
+          "meters": 7329,
+          "minutes": 39
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1546986-weerribben",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/diemen/1546986/weerribben/",
+    "title": "Huis Weerribben in Diemen",
+    "available": true,
+    "listingType": "rent",
+    "price": 1805,
+    "priceDisplay": "€ 1.805",
+    "sqm": 153,
+    "bedrooms": 4,
+    "location": {
+      "city": "Diemen",
+      "street": "Weerribben",
+      "postalCode": "1112KL",
+      "coordinates": {
+        "lat": 52.3279532,
+        "lon": 4.9446307
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/85f02f66-1c44-5caf-8293-5309003bc1c5/289378ce-0112-5ea7-bcdf-e99c1bc41865?original_uri=https%3A%2F%2Fvst-web-prod-cdn-remote-media-endpoint.azureedge.net%2Fverhuuroffice.nl%2Fmedia%2Fa2%2Fa2476b0a95b7c1c1ea7917a41f18a124%2Fo%2F05.jpg&width=600&auto=webp"
+    ],
+    "description": "In een rustige en kindvriendelijke wijk bevindt zich deze ruime eengezinswoning. De lichte woonkamer met halfopen keuken biedt direct toegang tot de tuin, ideaal voor buitenactiviteiten en spelende kinderen. De woning heeft vier slaapkamers en een berging voor extra opbergruimte. Deze centrale en groene locatie is gunstig gelegen, met diverse scholen, sportverenigingen, winkels en openbaar vervoer in de buurt. Het winkelcentrum Kruidenhof ligt op korte afstand, en fiets binnen enkele minuten naa",
+    "features": [],
+    "firstSeen": "2025-12-23T13:25:34.113Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "b4f50f7aa62a7334",
+    "lastScraped": "2025-12-23T13:25:34.113Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 7784,
+          "minutes": 104
+        },
+        "cycling": {
+          "meters": 8197,
+          "minutes": 42
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1546547-gerrit-rietveldsingel",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/diemen/1546547/gerrit-rietveldsingel/",
+    "title": "Appartement Gerrit Rietveldsingel in Diemen",
+    "available": true,
+    "listingType": "rent",
+    "price": 1385,
+    "priceDisplay": "€ 1.385",
+    "sqm": 75,
+    "location": {
+      "city": "Diemen",
+      "street": "Gerrit Rietveldsingel",
+      "postalCode": "1112ZB",
+      "coordinates": {
+        "lat": 52.3298826,
+        "lon": 4.9621768
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/fbb49b5b-0f96-5494-92e7-5532314fc36b/6c506144-e3e2-54af-b0f3-36db7304fc26?original_uri=https%3A%2F%2Flin.eye-move.nl%2Fwoningfotos%2F8%2F4%2F5%2F5%2F84553654_Gerrit-Rietveldsingel-387--Diemen--1.JPG&width=600&auto=webp"
+    ],
+    "description": "Holland Park, beschikbaar vanaf 1 januari 2026, biedt 360 huurwoningen variërend van 45 m² tot 143 m², perfect voor diverse behoeften. Gelegen in een rustige en groene omgeving, is het goed bereikbaar met de metrohalte Verrijn Stuartweg vlakbij, die je in slechts 10 minuten in Amsterdam brengt. De woningen hebben een zonnige woonkamer met een open, hoogglans witte keuken, compleet met inbouwapparatuur zoals een oven/magnetron en vaatwasser. De moderne badkamer beschikt over een inloopdouche en e",
+    "features": [],
+    "firstSeen": "2025-12-23T13:25:34.113Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "52a65476aea8cb21",
+    "lastScraped": "2025-12-23T13:25:34.113Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 7694,
+          "minutes": 103
+        },
+        "cycling": {
+          "meters": 8580,
+          "minutes": 43
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1546545-gerrit-rietveldsingel",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/diemen/1546545/gerrit-rietveldsingel/",
+    "title": "Appartement Gerrit Rietveldsingel in Diemen",
+    "available": true,
+    "listingType": "rent",
+    "price": 1295,
+    "priceDisplay": "€ 1.295",
+    "sqm": 64,
+    "location": {
+      "city": "Diemen",
+      "street": "Gerrit Rietveldsingel",
+      "postalCode": "1112ZB",
+      "coordinates": {
+        "lat": 52.3298826,
+        "lon": 4.9621768
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/14db7bd0-82c5-5281-9322-e46004849bfc/4efbdacd-16b9-51e1-8095-c4b5139197d6?original_uri=https%3A%2F%2Flin.eye-move.nl%2Fwoningfotos%2F8%2F4%2F5%2F5%2F84553681_Gerrit-Rietveldsingel-387--Diemen--1.JPG&width=600&auto=webp"
+    ],
+    "description": "Per 1 januari 2026 is deze woning beschikbaar in Holland Park, een aangename buurt waar water, groen en grachten samenkomen. Deze locatie biedt een rustige omgeving met alle dagelijkse voorzieningen binnen handbereik en uitstekende verbindingen naar Amsterdam. Binnen 10 minuten ben je in het centrum met de metro, terwijl de A10 en A1 nabij liggen voor autoverkeer. De woning heeft een zonnige woonkamer met een open hoogglans witte keuken, inclusief inbouwapparatuur zoals een oven, inductiekookpla",
+    "features": [],
+    "firstSeen": "2025-12-23T13:25:34.113Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "b7dc8e66a1972a68",
+    "lastScraped": "2025-12-23T13:25:34.113Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 7694,
+          "minutes": 103
+        },
+        "cycling": {
+          "meters": 8580,
+          "minutes": 43
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1546544-gerrit-rietveldsingel",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/diemen/1546544/gerrit-rietveldsingel/",
+    "title": "Appartement Gerrit Rietveldsingel in Diemen",
+    "available": true,
+    "listingType": "rent",
+    "price": 1469,
+    "priceDisplay": "€ 1.469",
+    "sqm": 77,
+    "location": {
+      "city": "Diemen",
+      "street": "Gerrit Rietveldsingel",
+      "postalCode": "1112ZB",
+      "coordinates": {
+        "lat": 52.3298826,
+        "lon": 4.9621768
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/7d956b0a-2a91-55d6-b2b8-091dd32e58e9/bd4951a9-385d-5c78-92f1-1d235ee7329d?original_uri=https%3A%2F%2Flin.eye-move.nl%2Fwoningfotos%2F8%2F4%2F5%2F5%2F84553428_Complexfoto-1.JPG&width=600&auto=webp"
+    ],
+    "description": "Deze woning in Holland Park is beschikbaar per 1 januari 2026. Gelegen in een rustige, groene omgeving dichtbij Amsterdam, met een uitstekende bereikbaarheid via metro, snelwegen en fiets. De woning op Gerrit Rietveldsingel 225 heeft een oppervlakte van 77 m2 en beschikt over een zonnige woonkamer met een open, hoogglans witte keuken. Deze is voorzien van inbouwapparatuur zoals een oven/magnetron, koelkast met vriezer, inductiekookplaat, afzuigkap en vaatwasser. De volledig betegelde badkamer he",
+    "features": [],
+    "firstSeen": "2025-12-23T13:25:34.113Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "a4a7d8a6e996d5b3",
+    "lastScraped": "2025-12-23T13:25:34.113Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 7694,
+          "minutes": 103
+        },
+        "cycling": {
+          "meters": 8580,
+          "minutes": 43
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1546543-karel-appelhof",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/diemen/1546543/karel-appelhof/",
+    "title": "Appartement Karel Appelhof in Diemen",
+    "available": true,
+    "listingType": "rent",
+    "price": 1330,
+    "priceDisplay": "€ 1.330",
+    "sqm": 66,
+    "location": {
+      "city": "Diemen",
+      "street": "Karel Appelhof",
+      "postalCode": "1112ZD",
+      "coordinates": {
+        "lat": 52.3301594,
+        "lon": 4.9630797
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/0418eb6c-937d-5abd-b1fe-b3ed24f64ec7/05d29c64-2d68-5c86-ac30-0e854b82bb22?original_uri=https%3A%2F%2Flin.eye-move.nl%2Fwoningfotos%2F7%2F2%2F9%2F2%2F72920627_Complexfoto-3.jpg&width=600&auto=webp"
+    ],
+    "description": "Holland Park biedt een aangename woonomgeving met water, groen en grachten. Dit project omvat 360 huurwoningen, variërend van 45 m2 tot 143 m2. Het appartement aan Karel Appelhof 230 heeft een woonoppervlakte van ca. 66 m2, bevindt zich op de 6e verdieping en beschikt over drie kamers, een luxe keuken met inbouwapparatuur, een badkamer en een separaat toilet. Vanaf hier ben je in slechts 10 minuten in Amsterdam, met de metrohalte Verrijn Stuartweg om de hoek. De bereikbaarheid via de snelwegen A",
+    "features": [],
+    "firstSeen": "2025-12-23T13:25:34.113Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "a72a82959a7e0a2e",
+    "lastScraped": "2025-12-23T13:25:34.113Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 7812,
+          "minutes": 105
+        },
+        "cycling": {
+          "meters": 8357,
+          "minutes": 44
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1546541-gerrit-rietveldsingel",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/diemen/1546541/gerrit-rietveldsingel/",
+    "title": "Appartement Gerrit Rietveldsingel in Diemen",
+    "available": true,
+    "listingType": "rent",
+    "price": 1105,
+    "priceDisplay": "€ 1.105",
+    "sqm": 43,
+    "location": {
+      "city": "Diemen",
+      "street": "Gerrit Rietveldsingel",
+      "postalCode": "1112ZB",
+      "coordinates": {
+        "lat": 52.3298826,
+        "lon": 4.9621768
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/1c133629-9e11-590e-b452-56d2ca14ad2e/24ed7183-76df-5cf1-9f58-1ad8f738023d?original_uri=https%3A%2F%2Flin.eye-move.nl%2Fwoningfotos%2F7%2F0%2F5%2F7%2F70573882_Gerrit-Rietveldsingel-529-583.JPG&width=600&auto=webp"
+    ],
+    "description": "Holland Park, beschikbaar per 1 januari 2026, is een prachtig nieuwbouwproject met een groene en rustige omgeving. Deze locatie heeft 360 huurwoningen variërend van 45 m2 tot 143 m2, ideaal voor zowel kleinere als ruimere appartementen. In de zonnige woonkamer bevindt zich een open hoogglans witte keuken met inbouwapparatuur, terwijl de badkamer is uitgerust met een inloopdouche en brede wastafel. De bereikbaarheid is uitstekend: vlakbij de metrohalte Verrijn Stuartweg en de snelwegen. De voorwa",
+    "features": [],
+    "firstSeen": "2025-12-23T13:25:34.113Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "b3ef4ba75d425a75",
+    "lastScraped": "2025-12-23T13:25:34.113Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 7694,
+          "minutes": 103
+        },
+        "cycling": {
+          "meters": 8580,
+          "minutes": 43
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1546542-gerrit-rietveldsingel",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/diemen/1546542/gerrit-rietveldsingel/",
+    "title": "Appartement Gerrit Rietveldsingel in Diemen",
+    "available": true,
+    "listingType": "rent",
+    "price": 1691,
+    "priceDisplay": "€ 1.691",
+    "sqm": 88,
+    "location": {
+      "city": "Diemen",
+      "street": "Gerrit Rietveldsingel",
+      "postalCode": "1112ZB",
+      "coordinates": {
+        "lat": 52.3298826,
+        "lon": 4.9621768
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/bc449a8a-5163-5105-8a3b-69d1809cb2b3/0fe2b3c4-ad68-5a68-9627-f6becd0f3c65?original_uri=https%3A%2F%2Flin.eye-move.nl%2Fwoningfotos%2F7%2F2%2F9%2F8%2F72984769_Blok-8-foto-1.jpg&width=600&auto=webp"
+    ],
+    "description": "Holland Park, beschikbaar vanaf 1 januari 2026, biedt een unieke woonervaring met 360 diverse huurwoningen van 45 m2 tot 143 m2 in een groene en rustige omgeving. De zonnige woning aan Gerrit Rietveldsingel 635 heeft een oppervlakte van 88 m2, met een open woonkamer en hoogglans witte keuken voorzien van inbouwapparatuur zoals een oven, koelkast, inductiekookplaat en vaatwasser. De badkamer is volledig betegeld en beschikt over een inloopdouche en brede wastafel. Gunstig gelegen nabij Amsterdam,",
+    "features": [],
+    "firstSeen": "2025-12-23T13:25:34.113Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "19c692a64eabbb1a",
+    "lastScraped": "2025-12-23T13:25:34.113Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 7694,
+          "minutes": 103
+        },
+        "cycling": {
+          "meters": 8580,
+          "minutes": 43
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1546517-jan-sluijtershof",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/diemen/1546517/jan-sluijtershof/",
+    "title": "Appartement Jan Sluijtershof in Diemen",
+    "available": true,
+    "listingType": "rent",
+    "price": 1710,
+    "priceDisplay": "€ 1.710",
+    "sqm": 86,
+    "location": {
+      "city": "Diemen",
+      "street": "Jan Sluijtershof",
+      "postalCode": "1112ZE",
+      "coordinates": {
+        "lat": 52.3289922,
+        "lon": 4.9646277
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/18c5be63-50ec-5d27-a556-e96b8482a220/856d43a4-59fb-5f13-8371-c7630690f8f3?original_uri=https%3A%2F%2Flin.eye-move.nl%2Fwoningfotos%2F7%2F4%2F4%2F4%2F74448447_beeld5.jpg&width=600&auto=webp"
+    ],
+    "description": "Per 1 januari 2026 kun je huren in Holland Park, een nieuwe, levendige woonomgeving in Diemen-Zuid, grenzend aan Amsterdam. Dit complex bestaat uit 194 moderne appartementen met 8 woonlagen, omgeven door een binnentuin die dient als polderlandschap boven de parkeergarage. Iedere woning heeft een eigen buitenruimte en een uniek aanzicht. De luxe afwerking omvat vloerverwarming, een keuken met inbouwapparatuur en een hoogwaardige badkamer. Ideaal gelegen nabij openbaar vervoer, ben je snel in Amst",
+    "features": [],
+    "firstSeen": "2025-12-23T13:25:34.113Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "af6342d75fc3718f",
+    "lastScraped": "2025-12-23T13:25:34.113Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 7875,
+          "minutes": 105
+        },
+        "cycling": {
+          "meters": 8422,
+          "minutes": 44
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1528325-meerkoet",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/diemen/1528325/meerkoet/",
+    "title": "Appartement Meerkoet in Diemen",
+    "available": true,
+    "listingType": "rent",
+    "price": 1758,
+    "priceDisplay": "€ 1.758",
+    "sqm": 122,
+    "bedrooms": 1,
+    "location": {
+      "city": "Diemen",
+      "street": "Meerkoet",
+      "postalCode": "1113EC",
+      "coordinates": {
+        "lat": 52.3516512,
+        "lon": 4.977309
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/ecb26c1f-4e03-589a-9e6b-d9768ceb90cd/e88c4ac8-d9ae-543d-bf8d-bb4e707113e3?original_uri=https%3A%2F%2Fd35ydsorqlasep.cloudfront.net%2Fproduction%2Fwonenbij%2Fwonen-bij-bouwinvest%2Fproperties%2F27008%2F190adade-fecb-40fe-b636-35fe4820bdb4.jpg?sig=c23194d71119f3f77bb14357a4ec2b32471125240c532bc8b36e69b1a28fad0a&width=600&auto=webp"
+    ],
+    "description": "Dit royale 3-kamer appartement van 122 m2 aan het Amsterdam-Rijnkanaal beschikt over een groot balkon en een half open keuken. De ruime badkamer is voorzien van zowel een douche als een ligbad. Gelegen in een rustige wijk in Diemen-Noord, is het appartement nabij winkels en biedt het goede verbindingen naar de A1, A2, A9 en A10. Dit is een ideale woonruimte voor wie rust en privacy zoekt, met alle voorzieningen binnen handbereik.",
+    "features": [],
+    "firstSeen": "2025-12-23T13:25:34.113Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "ef77875c16f0bf80",
+    "lastScraped": "2025-12-23T13:25:34.113Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 6963,
+          "minutes": 93
+        },
+        "cycling": {
+          "meters": 7297,
+          "minutes": 37
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1546266-carel-willinkgracht",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/diemen/1546266/carel-willinkgracht/",
+    "title": "Appartement Carel Willinkgracht in Diemen",
+    "available": true,
+    "listingType": "rent",
+    "price": 2050,
+    "priceDisplay": "€ 2.050",
+    "sqm": 56,
+    "bedrooms": 1,
+    "location": {
+      "city": "Diemen",
+      "street": "Carel Willinkgracht",
+      "postalCode": "1112ZK",
+      "coordinates": {
+        "lat": 52.3289675,
+        "lon": 4.9624469
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/f55f134b-11b8-5d76-9418-f6fb06409e51/87b5ff97-c3fa-5ca4-9f0e-8dc1c30d96eb?original_uri=https%3A%2F%2Fcdn.intuitive.nl%2Funsafe%2Fresize%3Afit%3A0%3A900%2Fplain%2Fhttps%3A%2F%2Fkoopsmakelaardij.nl%2Fmedia%2Fimage%2Foriginal%2Fed4c4093656792b6.jpg&width=600&auto=webp"
+    ],
+    "description": "In de nieuwe woonwijk Holland Park in Diemen vindt u dit sfeervolle appartement van ca. 56 m2. Via de entree zijn alle vertrekken toegankelijk. De ruime en lichte woonkamer met open keuken biedt toegang tot een balkon. De keuken is voorzien van een elektrische kookplaat, koelkast met vriezer en vaatwasser. De slaapkamer heeft een tweepersoonsbed en een grote kledingkast, ook met toegang tot het balkon. De badkamer beschikt over een inloopdouche en wastafel, met een apart toilet in de gang. Er is",
+    "features": [],
+    "firstSeen": "2025-12-23T13:25:34.113Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "55390daa729ccac9",
+    "lastScraped": "2025-12-23T13:25:34.113Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 7994,
+          "minutes": 107
+        },
+        "cycling": {
+          "meters": 8597,
+          "minutes": 44
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1545427-klipperweg",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/diemen/1545427/klipperweg/",
+    "title": "Huis Klipperweg in Diemen",
+    "available": true,
+    "listingType": "rent",
+    "price": 2281,
+    "priceDisplay": "€ 2.281",
+    "sqm": 146,
+    "bedrooms": 3,
+    "location": {
+      "city": "Diemen",
+      "street": "Klipperweg",
+      "postalCode": "1113GW",
+      "coordinates": {
+        "lat": 52.3471141,
+        "lon": 4.9781987
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/bf19ec6e-0f04-5d66-ba05-e8a979a3184b/fcb61435-7f16-5d19-9077-80b889994fdd?original_uri=https%3A%2F%2Fd35ydsorqlasep.cloudfront.net%2Fproduction%2Fwonenbij%2Fwonen-bij-bouwinvest%2Fproperties%2F27260%2F951e93e4-ea78-458a-826c-34c663cb9d7b.png?sig=29d408ddd0238cc787ac92434970bfcd8c338e05dd9f4d82e027295e4ed84c64&width=600&auto=webp"
+    ],
+    "description": "Ben je op zoek naar een lichte en ruime woning in een kindvriendelijke buurt? Deze vierkamerwoning aan de Klipperweg 6 in Diemen heeft een woonoppervlakte van circa 145 m², met een eigen garage, drie slaapkamers en een royale zolder. Gelegen in het geliefde Diemen Noord, profiteert deze woning van de nabijheid van Amsterdam en uitstekende verbindingen via de A10, A9 en A1. Diemen beschikt over twee NS-stations met snelle verbindingen naar Amsterdam Centraal en Schiphol. Ondanks de nabijheid van ",
+    "features": [],
+    "firstSeen": "2025-12-23T13:25:34.113Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "c3559436336facb1",
+    "lastScraped": "2025-12-23T13:25:34.113Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 7539,
+          "minutes": 101
+        },
+        "cycling": {
+          "meters": 7816,
+          "minutes": 39
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1545074-anne-frankstraat",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/diemen/1545074/anne-frankstraat/",
+    "title": "Appartement Anne Frankstraat in Diemen",
+    "available": true,
+    "listingType": "rent",
+    "price": 3240,
+    "priceDisplay": "€ 3.240",
+    "sqm": 100,
+    "bedrooms": 4,
+    "location": {
+      "city": "Diemen",
+      "street": "Anne Frankstraat",
+      "postalCode": "1112LL",
+      "coordinates": {
+        "lat": 52.3375828,
+        "lon": 4.9608155
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/887742bd-91d6-58f9-9db4-e19da7d8fc0b/23af0db6-1400-5059-b3cc-26f7b2ac5397?original_uri=https%3A%2F%2Fassets.guesty.com%2Fimage%2Fupload%2Fc_fit%2Ch_640%2Fv1764668537%2Fproduction%2F64d60646ce67eb04531a85a5%2Fmdkrbtshceilbbglxv7s.jpg&width=600&auto=webp"
+    ],
+    "description": "In Diemen, aan de Anne Frankstraat, bevindt zich een nieuw gerenoveerd en modern huis van 100 m². Dit vier slaapkamers tellende huis is volledig gemeubileerd en ingericht voor comfortabel wonen. Het biedt flexibele huurovereenkomsten en is gelegen aan een rustige gracht. De begane grond heeft een open keuken en woonkamer die uitkomt op een privé courtyard, ideaal voor buiten dineren. Op de tweede verdieping zijn drie heldere slaapkamers en een moderne badkamer. De bovenste verdieping beschikt ov",
+    "features": [],
+    "firstSeen": "2025-12-23T13:25:34.113Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "883ee6f72b40afa1",
+    "lastScraped": "2025-12-23T13:25:34.113Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 6938,
+          "minutes": 93
+        },
+        "cycling": {
+          "meters": 7318,
+          "minutes": 39
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1544644-karel-appelhof",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/diemen/1544644/karel-appelhof/",
+    "title": "Appartement Karel Appelhof in Diemen",
+    "available": true,
+    "listingType": "rent",
+    "price": 1459,
+    "priceDisplay": "€ 1.459",
+    "sqm": 66,
+    "bedrooms": 2,
+    "location": {
+      "city": "Diemen",
+      "street": "Karel Appelhof",
+      "postalCode": "1112ZD",
+      "coordinates": {
+        "lat": 52.3301594,
+        "lon": 4.9630797
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/09a99e05-29d3-5430-8a79-d9b6b7d85a4c/060c238c-6869-50ca-badb-1d8b3cc3a17d?original_uri=https%3A%2F%2Fmarketing-residence-images.s3.eu-north-1.amazonaws.com%2Fhuurwoningen%2F1544163%2F2993316_1544163_638999417460377999.jpg&width=600&auto=webp"
+    ],
+    "description": "Dit appartement van 66 vierkante meter bevindt zich in Holland Park en bestaat uit twee slaapkamers, een toilet en een badkamer. De woonkamer en keuken vormen één grote gezellige ruimte, perfect voor ontspanning en gezinsleven. Je kunt genieten van de voortuin met uitzicht op het plein. De locatie is uitstekend, met snelle verbindingen met het openbaar vervoer en de Albert Heijn op loopafstand. Belangrijk om te vermelden is dat deze woningruil uitsluitend mogelijk is met een huurwoning.",
+    "features": [],
+    "firstSeen": "2025-12-23T13:25:34.113Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "34900285207e8aa3",
+    "lastScraped": "2025-12-23T13:25:34.113Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 7812,
+          "minutes": 105
+        },
+        "cycling": {
+          "meters": 8357,
+          "minutes": 44
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1544643-harmonielaan",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/diemen/1544643/harmonielaan/",
+    "title": "Huis Harmonielaan in Diemen",
+    "available": true,
+    "listingType": "rent",
+    "price": 780,
+    "priceDisplay": "€ 780",
+    "sqm": 94,
+    "location": {
+      "city": "Diemen",
+      "street": "Harmonielaan",
+      "postalCode": "1111PG",
+      "coordinates": {
+        "lat": 52.346204,
+        "lon": 4.9672833
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/726b55bd-7fc0-5d29-a187-c6348a8d3b13/73fd9338-0bfd-5e16-b95d-981b0a53d460?original_uri=https%3A%2F%2Fmarketing-residence-images.s3.eu-north-1.amazonaws.com%2Fhuurwoningen%2F1525560%2F2970502_1525560_638950246994326672.jpg&width=600&auto=webp"
+    ],
+    "description": "Deze woning is uitstekend bereikbaar met het openbaar vervoer en ligt op een rustige plek. Belangrijk om te weten is dat deze woning uitsluitend beschikbaar is voor woningruil; je moet een huurwoning hebben om met deze huurwoning te kunnen ruilen.",
+    "features": [],
+    "firstSeen": "2025-12-23T13:25:34.113Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "ebd42da17faa44ed",
+    "lastScraped": "2025-12-23T13:25:34.113Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 7497,
+          "minutes": 100
+        },
+        "cycling": {
+          "meters": 7736,
+          "minutes": 39
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1543688-botterweg",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/diemen/1543688/botterweg/",
+    "title": "Appartement Botterweg in Diemen",
+    "available": true,
+    "listingType": "rent",
+    "price": 1250,
+    "priceDisplay": "€ 1.250",
+    "sqm": 80,
+    "bedrooms": 2,
+    "location": {
+      "city": "Diemen",
+      "street": "Botterweg",
+      "postalCode": "1113HS",
+      "coordinates": {
+        "lat": 52.3492963,
+        "lon": 4.9780091
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/77f4ab68-0ac2-50c5-ae11-9f47bf6bb5bf/5c4ae3e1-4611-5321-a733-00767d95eddb?original_uri=https%3A%2F%2Fbrockhoff.nl%2Fwoningfotos%2F8%2F4%2F1%2F4%2F3840%2F84141225_hoofdfoot.jpg&width=600&auto=webp"
+    ],
+    "description": "Deze woning aan de Botterweg 91 in Diemen biedt een hal die toegang geeft tot alle vertrekken. De ruime woonkamer is verlicht door veel natuurlijk licht en heeft een open keuken met een deur naar het eerste balkon. Er zijn twee slaapkamers, waarvan de ouderslaapkamer een tweede balkon heeft. Verder beschikt het appartement over een badkamer met ligbad en aansluitingen voor wasmachine en droger. Een separaat toilet en een grote bergkast maken het geheel compleet. De woning is niet gemeubileerd en",
+    "features": [],
+    "firstSeen": "2025-12-23T13:25:34.113Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "d95bd090f923bc10",
+    "lastScraped": "2025-12-23T13:25:34.113Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 7196,
+          "minutes": 96
+        },
+        "cycling": {
+          "meters": 7478,
+          "minutes": 38
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1542685-karel-appelhof",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/diemen/1542685/karel-appelhof/",
+    "title": "Appartement Karel Appelhof in Diemen",
+    "available": true,
+    "listingType": "rent",
+    "price": 2330,
+    "priceDisplay": "€ 2.330",
+    "sqm": 141,
+    "location": {
+      "city": "Diemen",
+      "street": "Karel Appelhof",
+      "postalCode": "1112ZD",
+      "coordinates": {
+        "lat": 52.3301594,
+        "lon": 4.9630797
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/40ec8737-b424-5e03-8a8c-24818f9b085b/fe889502-c103-5bfd-98c2-c4a16517636d?original_uri=https%3A%2F%2Flin.eye-move.nl%2Fwoningfotos%2F8%2F4%2F0%2F0%2F84007567_Complexfoto-5.JPG&width=600&auto=webp"
+    ],
+    "description": "Holland Park, dat per 15 december beschikbaar is, biedt een fijne woonplek in een groene, rustige omgeving met water en grachten. De appartementen variëren van 45 m2 tot 143 m2 en zijn van alle gemakken voorzien. Amsterdam ligt op slechts 10 minuten afstand, met een metrohalte en goede snelwegaansluitingen in de buurt. De zonnige woonkamer is uitgerust met een open hoogglans witte keuken met inbouwapparatuur zoals een oven/magnetron en vaatwasser. De badkamer heeft een inloopdouche en een brede ",
+    "features": [],
+    "firstSeen": "2025-12-23T13:25:34.113Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "51bc4e6fa79ebe2a",
+    "lastScraped": "2025-12-23T13:25:34.113Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 7812,
+          "minutes": 105
+        },
+        "cycling": {
+          "meters": 8357,
+          "minutes": 44
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1541341-waterkant",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/diemen/1541341/waterkant/",
+    "title": "Huis Waterkant in Diemen",
+    "available": true,
+    "listingType": "rent",
+    "price": 800,
+    "priceDisplay": "€ 800",
+    "sqm": 77,
+    "bedrooms": 3,
+    "location": {
+      "city": "Diemen",
+      "street": "Waterkant",
+      "postalCode": "1112RD",
+      "coordinates": {
+        "lat": 52.3312618,
+        "lon": 4.9545949
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/0133e1f8-85a3-5cb2-b68f-a79d9329ebf0/0b2a4e94-e096-5eaf-a306-489cd4009c1c?original_uri=https%3A%2F%2Fmarketing-residence-images.s3.eu-north-1.amazonaws.com%2Fhuurwoningen%2F1445991%2F2827024_1445991_638629861695102415.jpg&width=600&auto=webp"
+    ],
+    "description": "Deze woningruil betreft een eengezinswoning in Diemen-Zuid, die in 2022 volledig is gerenoveerd. De woning beschikt over 4 kamers, inclusief 3 slaapkamers en een woonkamer. De slaapkamers, badkamer en toilet bevinden zich op de eerste verdieping, terwijl de woonkamer, keuken en een extra toilet op de begane grond zijn. Buiten vindt u een ruime tuin en een schuur. Parkeren is mogelijk in de blauwe zone. Het station Diemen-Zuid ligt op slechts 2 minuten loopafstand. Er is behoefte aan een eengezin",
+    "features": [],
+    "firstSeen": "2025-12-23T13:25:34.113Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "9a99987a2b2bb406",
+    "lastScraped": "2025-12-23T13:25:34.113Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 7537,
+          "minutes": 101
+        },
+        "cycling": {
+          "meters": 7823,
+          "minutes": 40
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1538331-klipperweg",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/diemen/1538331/klipperweg/",
+    "title": "Appartement Klipperweg in Diemen",
+    "available": true,
+    "listingType": "rent",
+    "price": 2650,
+    "priceDisplay": "€ 2.650",
+    "sqm": 126,
+    "bedrooms": 4,
+    "location": {
+      "city": "Diemen",
+      "street": "Klipperweg",
+      "postalCode": "1113JH",
+      "coordinates": {
+        "lat": 52.3471141,
+        "lon": 4.9781987
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/79ba697e-1101-5e95-a95b-c64f077d3e32/f8a282d2-049d-527a-8f51-3fb0cc41da16?original_uri=https%3A%2F%2Fcdn.prod.website-files.com%2F5ffede3ddb317733174416d3%2F6876b964fcc0ff7c6a93e0dd_Hausing%2520-%2520Real%2520Estate%2520-%252000001.jpg&width=600&auto=webp"
+    ],
+    "description": "Dit fraaie, gemeubileerde huis van 126 m² bevindt zich in de rustige buurt Diemen Noord. Het heeft een ruime, lichte woonkamer met een moderne open keuken, vier slaapkamers en een moderne badkamer. De woning beschikt ook over een mooie tuin en een balkon met vrij uitzicht op Amsterdam en prachtige zonsondergangen. Gelegen aan de Klipperweg, dichtbij Diemerpolder en Diemerbos, is dit de perfecte locatie voor buitenactiviteiten. Openbaar vervoer is uitstekend met snelle verbindingen naar Amsterdam",
+    "features": [],
+    "firstSeen": "2025-12-23T13:25:34.113Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "16797124b5424281",
+    "lastScraped": "2025-12-23T13:25:34.113Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 7539,
+          "minutes": 101
+        },
+        "cycling": {
+          "meters": 7816,
+          "minutes": 39
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1535148-prinses-margrietstraat",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/diemen/1535148/prinses-margrietstraat/",
+    "title": "Huis Prinses Margrietstraat in Diemen",
+    "available": true,
+    "listingType": "rent",
+    "price": 940,
+    "priceDisplay": "€ 940",
+    "sqm": 70,
+    "location": {
+      "city": "Diemen",
+      "street": "Prinses Margrietstraat",
+      "postalCode": "1111EE",
+      "coordinates": {
+        "lat": 52.3397798,
+        "lon": 4.9646989
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/48b7fad9-fb6b-552d-9897-e789d784528b/c98b9e78-58a8-57c2-b515-49cebdc833a1?original_uri=https%3A%2F%2Fmarketing-residence-images.s3.eu-north-1.amazonaws.com%2Fhuurwoningen%2F1527461%2F2975048_1527461_638960086652929725.jpg&width=600&auto=webp"
+    ],
+    "description": "Belangrijk! Dit is alleen van toepassing op woningruil; je moet een huurwoning hebben om te kunnen ruilen. Ik wil me verkennen op de woningmarkt en heb geen haast om te verhuizen. Ik woon hier anderhalf jaar, maar door omstandigheden overweeg ik een verhuizing naar Amsterdam Zuidoost. De woning en tuin zijn nog niet verbeterd, dus hier moet echt nog veel aan gebeuren.",
+    "features": [],
+    "firstSeen": "2025-12-23T13:25:34.113Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "f98de8560f07d06e",
+    "lastScraped": "2025-12-23T13:25:34.113Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 7243,
+          "minutes": 97
+        },
+        "cycling": {
+          "meters": 7314,
+          "minutes": 39
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1534725-jan-sluijtershof",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/diemen/1534725/jan-sluijtershof/",
+    "title": "Appartement Jan Sluijtershof in Diemen",
+    "available": true,
+    "listingType": "rent",
+    "price": 1135,
+    "priceDisplay": "€ 1.135",
+    "sqm": 54,
+    "location": {
+      "city": "Diemen",
+      "street": "Jan Sluijtershof",
+      "postalCode": "1112ZE",
+      "coordinates": {
+        "lat": 52.3289922,
+        "lon": 4.9646277
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/4817b634-51dc-5db1-b113-aa428635d8cf/18d21e0e-b9f0-5821-aa8b-7e27bbca76e4?original_uri=https%3A%2F%2Flin.eye-move.nl%2Fwoningfotos%2F7%2F2%2F9%2F8%2F72984009_Blok-8-foto-1.jpg&width=600&auto=webp"
+    ],
+    "description": "Over de woning Per 1 november 2025 beschikbaar! Holland Park in Diemen-Zuid is een moderne woonomgeving aan de rand van Amsterdam met luxe appartementen en winkels. Geniet van de rust in jouw buurt terwijl je dichtbij vrienden en werk bent. Het openbaar vervoer brengt je in tien minuten naar het hart van Amsterdam en naar de Gaasperplas. Het woonblok met 194 appartementen heeft 8 lagen en een unieke binnentuin, ontworpen als polderlandschap met een parkeergarage eronder. Alle woningen hebben eig",
+    "features": [],
+    "firstSeen": "2025-12-23T13:25:34.113Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "539b517026015647",
+    "lastScraped": "2025-12-23T13:25:34.113Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 7875,
+          "minutes": 105
+        },
+        "cycling": {
+          "meters": 8422,
+          "minutes": 44
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1534458-waterkant",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/diemen/1534458/waterkant/",
+    "title": "Kamer Waterkant in Diemen",
+    "available": true,
+    "listingType": "rent",
+    "price": 1110,
+    "priceDisplay": "€ 1.110",
+    "sqm": 89,
+    "location": {
+      "city": "Diemen",
+      "street": "Waterkant",
+      "postalCode": "1112RC",
+      "coordinates": {
+        "lat": 52.3311584,
+        "lon": 4.9550501
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/2933c2b8-cac0-5601-ab6a-9d1683d6647b/a576626b-9d83-571b-943d-57f904d83b11?original_uri=https%3A%2F%2Fmarketing-residence-images.s3.eu-north-1.amazonaws.com%2Fhuurwoningen%2F1439644%2F2737871_1439644_638389409778349868.jpg&width=600&auto=webp"
+    ],
+    "description": "Belangrijk! Dit aanbod is enkel voor een woningruil; je moet een huurwoning bezitten om te kunnen ruilen. Mooie 4-kamer eengezinswoning in Diemen Zuid. Boven zijn er 2 kleine slaapkamers en 1 grote. De buurt is rustig. Slechts 2 minuten van metro en trein, 5 minuten van winkelcentrum Kruidenhof en 10 minuten van het grote winkelcentrum in Diemen. Ruime woning met tuin. Het betreft een vrije sector woning. Huurprijs: €1110 per maand. Ik sta open voor een 1-op-1 ruil of een driehoeksruil.",
+    "features": [],
+    "firstSeen": "2025-12-23T13:25:34.113Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "aa75f669c42659fe",
+    "lastScraped": "2025-12-23T13:25:34.113Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 7582,
+          "minutes": 101
+        },
+        "cycling": {
+          "meters": 7868,
+          "minutes": 40
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1537603-hermelijnvlinder",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/diemen/1537603/hermelijnvlinder/",
+    "title": "Appartement Hermelijnvlinder in Diemen",
+    "available": true,
+    "listingType": "rent",
+    "price": 2000,
+    "priceDisplay": "€ 2.000",
+    "sqm": 95,
+    "bedrooms": 1,
+    "location": {
+      "city": "Diemen",
+      "street": "Hermelijnvlinder",
+      "postalCode": "1113LC",
+      "coordinates": {
+        "lat": 52.3486854,
+        "lon": 4.983105
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/62631391-dbc5-5e75-8e91-1edbb43a6958/0a28d3f0972c89282a442bfb57e54b77.jpg?width=600&auto=webp"
+    ],
+    "description": "Hermelijnvlinder 49 – Diemen (schrijf je nu in voor de bezichtiging op 31-10-2025 via\\*\\*\\*\\*\\*\\*.rent) Per 1 november 2025 komt deze ruime woning van ca. 95 m² beschikbaar voor onbepaalde tijd. De woning wordt casco opgeleverd en beschikt over één royale slaapkamer, een licht woongedeelte en een balkon waar je heerlijk kunt genieten van de buitenlucht. De woning ligt in een moderne en groene woonwijk in Diemen, met diverse voorzieningen op loopafstand zoals supermarkten, sportfaciliteiten en op",
+    "features": [],
+    "firstSeen": "2025-12-23T13:25:34.113Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "11538d9e77f70c14",
+    "lastScraped": "2025-12-23T13:25:34.113Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 7485,
+          "minutes": 100
+        },
+        "cycling": {
+          "meters": 7820,
+          "minutes": 39
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1533822-gerrit-rietveldsingel",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/diemen/1533822/gerrit-rietveldsingel/",
+    "title": "Appartement Gerrit Rietveldsingel in Diemen",
+    "available": true,
+    "listingType": "rent",
+    "price": 1972,
+    "priceDisplay": "€ 1.972",
+    "sqm": 120,
+    "location": {
+      "city": "Diemen",
+      "street": "Gerrit Rietveldsingel",
+      "postalCode": "1112ZB",
+      "coordinates": {
+        "lat": 52.3298826,
+        "lon": 4.9621768
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/28a2dc32-9835-5e56-9916-1d4d89437dba/de6e0e3c-6116-5200-808d-8cb331f8dc7d?original_uri=https%3A%2F%2Flin.eye-move.nl%2Fwoningfotos%2F8%2F2%2F8%2F7%2F82879033_Gerrit-433-Rietveldsingel-Diemen-1.JPG&width=600&auto=webp"
+    ],
+    "description": "Holland Park is een prachtig woongebied waar natuur, water en grachten centraal staan. Het is rustig en groen, ideaal voor wonen met alles in de buurt. Met 360 huurwoningen van 45 tot 143 m2 is er keuze uit gezellige of ruime appartementen, allemaal goed uitgerust. Vandaag de dag ben je in 10 minuten in Amsterdam via metrohalte Verrijn Stuartweg en zijn de snelwegen A10 en A1 goed bereikbaar, ook met de fiets ben je snel in het centrum. De zonnige woning aan Gerrit Rietveldsingel 263 heeft een o",
+    "features": [],
+    "firstSeen": "2025-12-23T13:25:34.113Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "39d7f50cb6d0fb6d",
+    "lastScraped": "2025-12-23T13:25:34.113Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 7694,
+          "minutes": 103
+        },
+        "cycling": {
+          "meters": 8580,
+          "minutes": 43
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1528240-carel-willinkgracht",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/diemen/1528240/carel-willinkgracht/",
+    "title": "Appartement Carel Willinkgracht in Diemen",
+    "available": true,
+    "listingType": "rent",
+    "price": 1750,
+    "priceDisplay": "€ 1.750",
+    "sqm": 66,
+    "bedrooms": 2,
+    "location": {
+      "city": "Diemen",
+      "street": "Carel Willinkgracht",
+      "postalCode": "1112ZK",
+      "coordinates": {
+        "lat": 52.3289675,
+        "lon": 4.9624469
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/12e83010-656d-52e9-ab4a-9f5b4f938109/de5c3c6f-9ed8-5dd2-b730-257e8c7e62ca?original_uri=https%3A%2F%2Fcloud.funda.nl%2Fvalentina_media%2F162%2F133%2F500_1440x960.jpg&width=600&auto=webp"
+    ],
+    "description": "Dit prachtige 3-kamer appartement van 68 m² ligt aan het mooie Holland Park in Diemen. Op slechts twee minuten lopen van station Diemen Zuid, met uitstekende verbindingen naar het Centraal Station en andere bestemmingen. De ruime woonkamer van ca. 29 m² heeft een open keuken met inbouwapparatuur en toegang tot een ruim balkon. Er zijn twee slaapkamers van ca. 12 en 8 m², een badkamer en een apart toilet. Inclusief een parkeerplaats in de garage en een externe berging van ongeveer 5 m². Geen huis",
+    "features": [],
+    "firstSeen": "2025-12-23T13:25:34.113Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "32244fde0452f485",
+    "lastScraped": "2025-12-23T13:25:34.113Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 7994,
+          "minutes": 107
+        },
+        "cycling": {
+          "meters": 8597,
+          "minutes": 44
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1518995-dalsteindreef",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/diemen/1518995/dalsteindreef/",
+    "title": "Appartement Dalsteindreef in Diemen",
+    "available": true,
+    "listingType": "rent",
+    "price": 1627,
+    "priceDisplay": "€ 1.627",
+    "sqm": 30,
+    "bedrooms": 1,
+    "location": {
+      "city": "Diemen",
+      "street": "Dalsteindreef",
+      "postalCode": "1112XJ",
+      "coordinates": {
+        "lat": 52.3291143,
+        "lon": 4.9570079
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/409a3ba1-f81f-50aa-b2a0-5113d8fe36b0/4b6544c6-e512-5a8b-93bb-4d5d9beea436?original_uri=https%3A%2F%2Fhurenbijwooove.nl%2Fwoningfotos%2F7%2F6%2F6%2F6%2F3840%2F76665428_OD_SUPERIORSTUD_Style_Living_Pic16.jpg&width=600&auto=webp"
+    ],
+    "description": "Onze Superior Short Stay Studio's in OurDomain Amsterdam Diemen zijn volledig gemeubileerd en variëren van 22 m² tot 30 m². Ze bieden een perfecte mix van comfort en gemak, ideaal voor studenten. Met luxe keukens, privébadkamers en snelle internetverbindingen, zijn deze studio's perfect voor zowel ontspanning als werk. Geniet van moderne voorzieningen zoals een bioscoopruimte, lounges en studieruimtes. De locatie biedt uitstekende toegang tot openbaar vervoer en is dicht bij winkels en restauran",
+    "features": [],
+    "firstSeen": "2025-12-23T13:25:34.113Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "8e62c2829be4d797",
+    "lastScraped": "2025-12-23T13:25:34.113Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 7847,
+          "minutes": 105
+        },
+        "cycling": {
+          "meters": 8124,
+          "minutes": 42
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1518424-dalsteindreef",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/diemen/1518424/dalsteindreef/",
+    "title": "Appartement Dalsteindreef in Diemen",
+    "available": true,
+    "listingType": "rent",
+    "price": 1475,
+    "priceDisplay": "€ 1.475",
+    "sqm": 21,
+    "location": {
+      "city": "Diemen",
+      "street": "Dalsteindreef",
+      "postalCode": "1112XJ",
+      "coordinates": {
+        "lat": 52.3291143,
+        "lon": 4.9570079
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/87f4b0d6-1db3-512d-9d69-25cc5536c3a6/c0d00773cf492d90efdbfa6d09ab58b8.jpg?width=600&auto=webp"
+    ],
+    "description": "Ready-to-rent furnished studios for a maximum of 12 months. OurCampus Amsterdam Diemen offers Short Stay Studio's including furniture, flooring and curtains. If you are looking for a move-in ready apartment with the perfect mix of comfort and convenience, then this is the perfect home for you. Interested? Register directly via the ‘Contact us’ button and get all the information you need. Features - Studios from 21 m² to 28 m² - Furnished including flooring and curtains (ready to move in) - Base ",
+    "features": [],
+    "firstSeen": "2025-12-23T13:25:34.113Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "b533c79763d0d4af",
+    "lastScraped": "2025-12-23T13:25:34.113Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 7847,
+          "minutes": 105
+        },
+        "cycling": {
+          "meters": 8124,
+          "minutes": 42
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1479651-dalsteindreef",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/diemen/1479651/dalsteindreef/",
+    "title": "Appartement Dalsteindreef in Diemen",
+    "available": true,
+    "listingType": "rent",
+    "price": 1099,
+    "priceDisplay": "€ 1.099",
+    "sqm": 23,
+    "location": {
+      "city": "Diemen",
+      "street": "Dalsteindreef",
+      "postalCode": "1112XJ",
+      "coordinates": {
+        "lat": 52.3291143,
+        "lon": 4.9570079
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/93bda312-b7a7-579e-9208-72e8ea2f1bd4/c98fdfd816cc31dbba415f46ac996a5f.jpg?width=600&auto=webp"
+    ],
+    "description": "Ready-to-rent furnished studios for a maximum of 12 months OurDomain Amsterdam Diemen offers Superior Short Stay Studio's including furniture, flooring and curtains. If you are looking for a move-in ready apartment with the perfect mix of comfort and convenience, then this is the perfect home for you. Interested? Register directly via the ‘Contact us’ button and get all the information you need. Features - Studios from 22 m² to 30 m² - Furnished including flooring and curtains (ready to move in)",
+    "features": [],
+    "firstSeen": "2025-12-23T13:25:34.113Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "6b02e282775d5a34",
+    "lastScraped": "2025-12-23T13:25:34.113Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 7847,
+          "minutes": 105
+        },
+        "cycling": {
+          "meters": 8124,
+          "minutes": 42
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1456901-carel-willinkgracht",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/diemen/1456901/carel-willinkgracht/",
+    "title": "Appartement Carel Willinkgracht in Diemen",
+    "available": true,
+    "listingType": "rent",
+    "price": 1950,
+    "priceDisplay": "€ 1.950",
+    "sqm": 76,
+    "bedrooms": 2,
+    "location": {
+      "city": "Diemen",
+      "street": "Carel Willinkgracht",
+      "postalCode": "1112ZK",
+      "coordinates": {
+        "lat": 52.3289675,
+        "lon": 4.9624469
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/78162e8b-d198-5585-a21a-6d5e26f78771/be13a22c-4b87-5c59-8c51-68011d4fcb4e?original_uri=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F739b0d_2c96c4755e6142b59deaf38aceb7575f%7Emv2.jpg%2Fv1%2Ffit%2Fw_500%2Ch_500%2Cq_90%2Ffile.jpg&width=600&auto=webp"
+    ],
+    "description": "Modern driekamer appartement van ca. 80 m2, ontworpen onder architectuur en opgeleverd eind 2020, gelegen op de vierde verdieping met vaste parkeerplaats in de inpandige parkeergarage, een wijds uitzicht en een royaal balkon op het Zuiden. Gelegen in de nieuwe wijk genaamd “Holland Park” met sfeervolle grachten, prachtige gevels, gezellige straatjes, groene binnentuinen en mooie designappartementen. Goede bereikbaarheid met trein- en metrostation Diemen Zuid op loopafstand. Duurzaamheid is hoog ",
+    "features": [],
+    "firstSeen": "2025-12-23T13:25:34.113Z",
+    "lastUpdated": "2025-12-23T13:25:34.113Z",
+    "hash": "63b76c390c11e115",
+    "lastScraped": "2025-12-23T13:25:34.113Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 7994,
+          "minutes": 107
+        },
+        "cycling": {
+          "meters": 8597,
+          "minutes": 44
         }
       }
     }

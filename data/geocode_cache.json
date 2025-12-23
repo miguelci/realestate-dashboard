@@ -364,5 +364,101 @@
     "lat": 52.3693821,
     "lon": 4.9229357,
     "displayName": "Oostenburgervoorstraat, Oostenburg, Oostelijke Eilanden, Centrum, Amsterdam, Noord-Holland, Nederland, 1018 HN, Nederland"
+  },
+  "kraanspoor, 1033sc amsterdam": {
+    "lat": 52.4057164,
+    "lon": 4.889527,
+    "displayName": "Kraanspoor, Cornelis Douwesterrein, Noord, Amsterdam, Noord-Holland, Nederland, 1033 SE, Nederland"
+  },
+  "botterweg, 1113hs diemen": {
+    "lat": 52.3492963,
+    "lon": 4.9780091,
+    "displayName": "Botterweg, Diemen-Noord, Diemen, Noord-Holland, Nederland, 1113 HS, Nederland"
+  },
+  "schoener, 1113je diemen": {
+    "lat": 52.3478685,
+    "lon": 4.9792502,
+    "displayName": "Schoener, Diemen-Noord, Diemen, Noord-Holland, Nederland, 1113 JE, Nederland"
+  },
+  "charlotte van pallandthof, 1112zl diemen": null,
+  "roggekamp, 1112jb diemen": {
+    "lat": 52.3370216,
+    "lon": 4.9507774,
+    "displayName": "Roggekamp, Akkerland, Diemen, Noord-Holland, Nederland, 1112 JB, Nederland"
+  },
+  "weerribben, 1112kl diemen": {
+    "lat": 52.3279532,
+    "lon": 4.9446307,
+    "displayName": "Weerribben, Biesbosch, Diemen, Noord-Holland, Nederland, 1112 KL, Nederland"
+  },
+  "gerrit rietveldsingel, 1112zb diemen": {
+    "lat": 52.3298826,
+    "lon": 4.9621768,
+    "displayName": "Gerrit Rietveldsingel, Holland Park, Diemen, Noord-Holland, Nederland, 1112 ZB, Nederland"
+  },
+  "karel appelhof, 1112zd diemen": {
+    "lat": 52.3301594,
+    "lon": 4.9630797,
+    "displayName": "Karel Appelhof, Holland Park, Diemen, Noord-Holland, Nederland, 1112 ZD, Nederland"
+  },
+  "jan sluijtershof, 1112ze diemen": {
+    "lat": 52.3289922,
+    "lon": 4.9646277,
+    "displayName": "Jan Sluijtershof, Holland Park, Diemen, Noord-Holland, Nederland, 1112 ZE, Nederland"
+  },
+  "meerkoet, 1113ec diemen": {
+    "lat": 52.3516512,
+    "lon": 4.977309,
+    "displayName": "Meerkoet, Vogelweide, Diemen, Noord-Holland, Nederland, 1113 EA, Nederland"
+  },
+  "carel willinkgracht, 1112zk diemen": {
+    "lat": 52.3289675,
+    "lon": 4.9624469,
+    "displayName": "Carel Willinkgracht, Holland Park, Diemen, Noord-Holland, Nederland, 1112 ZK, Nederland"
+  },
+  "klipperweg, 1113gw diemen": {
+    "lat": 52.3471141,
+    "lon": 4.9781987,
+    "displayName": "Klipperweg, Diemen-Noord, Diemen, Noord-Holland, Nederland, 1113 JH, Nederland"
+  },
+  "anne frankstraat, 1112ll diemen": {
+    "lat": 52.3375828,
+    "lon": 4.9608155,
+    "displayName": "Anne Frankstraat, Anne Frank, Diemen, Noord-Holland, Nederland, 1112 LL, Nederland"
+  },
+  "harmonielaan, 1111pg diemen": {
+    "lat": 52.346204,
+    "lon": 4.9672833,
+    "displayName": "Harmonielaan, Diemen-Centrum, Diemen, Noord-Holland, Nederland, 1111 PG, Nederland"
+  },
+  "waterkant, 1112rd diemen": {
+    "lat": 52.3312618,
+    "lon": 4.9545949,
+    "displayName": "Waterkant, Polderland, Diemen, Noord-Holland, Nederland, 1112 RD, Nederland"
+  },
+  "klipperweg, 1113jh diemen": {
+    "lat": 52.3471141,
+    "lon": 4.9781987,
+    "displayName": "Klipperweg, Diemen-Noord, Diemen, Noord-Holland, Nederland, 1113 JH, Nederland"
+  },
+  "prinses margrietstraat, 1111ee diemen": {
+    "lat": 52.3397798,
+    "lon": 4.9646989,
+    "displayName": "Prinses Margrietstraat, Diemen-Centrum, Diemen, Noord-Holland, Nederland, 1111 EE, Nederland"
+  },
+  "waterkant, 1112rc diemen": {
+    "lat": 52.3311584,
+    "lon": 4.9550501,
+    "displayName": "Waterkant, Polderland, Diemen, Noord-Holland, Nederland, 1112 RC, Nederland"
+  },
+  "hermelijnvlinder, 1113lc diemen": {
+    "lat": 52.3486854,
+    "lon": 4.983105,
+    "displayName": "Hermelijnvlinder, Diemen-Noord, Diemen, Noord-Holland, Nederland, 1113 LC, Nederland"
+  },
+  "dalsteindreef, 1112xj diemen": {
+    "lat": 52.3291143,
+    "lon": 4.9570079,
+    "displayName": "Dalsteindreef, Campus Diemen Zuid, Diemen, Noord-Holland, Nederland, 1112 XJ, Nederland"
   }
 }
