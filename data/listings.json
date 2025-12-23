@@ -188522,7 +188522,12 @@
     "bedrooms": 1,
     "location": {
       "city": "Amsterdam",
-      "street": "Krommertstraat"
+      "street": "Krommertstraat",
+      "postalCode": "1056TS",
+      "coordinates": {
+        "lat": 52.3717521,
+        "lon": 4.8580596
+      }
     },
     "images": [
       "https://casco-media-prod.global.ssl.fastly.net/cbc9a5c2-3827-51e7-b79a-f6c1c5779c7f/d58c762286b04c360ce2c547d45d8ec5.jpg?width=600&auto=webp"
@@ -188530,9 +188535,21 @@
     "description": "KROMMERTSTRAAT (CA 30M2) AMSTERDAM - WEST/BAARSJES COROP WONING Luxe gestoffeerde - zeer energiezuinige - studio met vloerverwarming op de 1e verdieping in het nieuwe appartementengebouw “WEST-END” voorzien van lift, fietsenberging en zonnepanelen Indeling: Vanuit de entree is links de cv-ketelruimte, aansluitend komt de badkamer met inloopdouche, wastafel met kast met spiegel en het hangtoilet. Aan de voorzijde is de ruime en lichte studio met grote raampartijen en volledig ingerichte keuken (2",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.788Z",
     "hash": "59fe7d0e8e1ec257",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.788Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 3468,
+          "minutes": 46
+        },
+        "cycling": {
+          "meters": 4056,
+          "minutes": 25
+        }
+      }
+    }
   },
   {
     "id": "huurwoningen-1549536-maarten-harpertszoon-trompstraat",
@@ -188836,25 +188853,20 @@
     "id": "huurwoningen-1549493-barajasweg",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1549493/barajasweg/",
-    "title": "Studio Barajasweg in Amsterdam",
+    "title": "www.huurwoningen.nl",
     "available": true,
     "listingType": "rent",
-    "price": 1043,
-    "priceDisplay": "€ 1.043",
-    "sqm": 35,
+    "price": 0,
+    "priceDisplay": "€ 0",
     "location": {
-      "city": "Amsterdam",
-      "street": "Barajasweg"
+      "city": "Amsterdam"
     },
-    "images": [
-      "https://casco-media-prod.global.ssl.fastly.net/1d7f87f4-708b-5943-915b-8abf986b92fa/f1c625afb37f85a3872600fe542d5978.jpg?width=600&auto=webp"
-    ],
-    "description": "Het pand De Naritaweg en Barajasweg liggen op 5 minuten loopafstand van station Sloterdijk, waar naast goede trein- en metroverbindingen er ook een bus- en tramstation is. Over bereikbaarheid valt er dus niks te klagen, in 5 minuten sta je op het centraal station van Amsterdam. Het pand bestaat uit 3 afzonderlijke gebouwen met ieder een lift en beschikt over een inpandige parkeergarage voor auto’s en fietsen. Voor huurders met een auto kan er dus tegen een kleine vergoeding een parkeerplaats geh",
+    "images": [],
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
-    "hash": "6f7dc84f3ffd91cd",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastUpdated": "2025-12-23T08:31:20.788Z",
+    "hash": "7306ba7485887ba2",
+    "lastScraped": "2025-12-23T08:31:20.788Z"
   },
   {
     "id": "huurwoningen-1549491-hortusplantsoen",
@@ -189840,7 +189852,12 @@
     "bedrooms": 2,
     "location": {
       "city": "Amsterdam",
-      "street": "Hoogoorddreef"
+      "street": "Hoogoorddreef",
+      "postalCode": "1101BA",
+      "coordinates": {
+        "lat": 52.3100912,
+        "lon": 4.9457404
+      }
     },
     "images": [
       "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/1b1ec991-071a-5850-b364-4804c0f391fb/b7900a53-e613-5ac7-adcb-8ae30112274d?original_uri=https%3A%2F%2Ffri.eye-move.nl%2Fwoningfotos%2F4%2F9%2F2%2F2%2F49220429_1.jpg&width=600&auto=webp"
@@ -189848,9 +189865,21 @@
     "description": "Dit lichte en goed onderhouden driekamerappartement op de begane grond, met een oppervlakte van circa 70 m², is direct beschikbaar en ligt in de aantrekkelijk Rivierenbuurt in Amsterdam-Zuid. De ruime woonkamer met open keuken, voorzien van moderne apparatuur zoals een 5-pits gasfornuis en vaatwasser, biedt toegang tot de zonnige tuin op het zuidwesten. Met twee slaapkamers, een moderne badkamer met ligbad en een aparte toilet, biedt deze woning voldoende ruimte. Bovendien is er een praktische b",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.788Z",
     "hash": "a31681eb7d67cbec",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.788Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 9583,
+          "minutes": 128
+        },
+        "cycling": {
+          "meters": 9684,
+          "minutes": 51
+        }
+      }
+    }
   },
   {
     "id": "huurwoningen-1548724-hoogoorddreef",
@@ -190156,26 +190185,20 @@
     "id": "huurwoningen-1548700-bundlaan",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1548700/bundlaan/",
-    "title": "Appartement Bundlaan in Amsterdam",
+    "title": "www.huurwoningen.nl",
     "available": true,
     "listingType": "rent",
-    "price": 2800,
-    "priceDisplay": "€ 2.800",
-    "sqm": 80,
-    "bedrooms": 2,
+    "price": 0,
+    "priceDisplay": "€ 0",
     "location": {
-      "city": "Amsterdam",
-      "street": "Bundlaan"
+      "city": "Amsterdam"
     },
-    "images": [
-      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/a99c43e4-4ea9-5201-a1db-f43001c3c35c/18fb3135-f5c8-5aa0-87f9-5566834d72b8?original_uri=https%3A%2F%2Fhaywebattachments.blob.core.windows.net%2Fpublic%2F1612%2F3908485%2F121036953%2F%24xl%2F9%2520bundlaan%2520236%2520amsterdam%2520raysem.jpg&width=600&auto=webp"
-    ],
-    "description": "Dit prachtig, gemeubileerde appartement ligt vlakbij het centrum van Amsterdam op de derde etage van het nieuwbouwcomplex ‘The Grid’. Met twee ruime slaapkamers biedt het comfort en stijl. De open keuken, uitgerust met moderne inbouwapparatuur en kookeiland, gaat over in een brede woonkamer met toegang tot een groot terras. De grootste slaapkamer heeft tevens een eigen toegang tot een tweede terras met uitzicht op Noord en het IJ. Er is een stijlvol ingerichte badkamer met dubbele wastafel, ligb",
+    "images": [],
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
-    "hash": "e3377ea5d54a3af5",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastUpdated": "2025-12-23T08:31:20.788Z",
+    "hash": "7306ba7485887ba2",
+    "lastScraped": "2025-12-23T08:31:20.788Z"
   },
   {
     "id": "huurwoningen-1548699-bundlaan",
@@ -191156,26 +191179,20 @@
     "id": "huurwoningen-1548557-geervliet",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1548557/geervliet/",
-    "title": "Appartement Geervliet in Amsterdam",
+    "title": "www.huurwoningen.nl",
     "available": true,
     "listingType": "rent",
-    "price": 2639,
-    "priceDisplay": "€ 2.639",
-    "sqm": 154,
-    "bedrooms": 4,
+    "price": 0,
+    "priceDisplay": "€ 0",
     "location": {
-      "city": "Amsterdam",
-      "street": "Geervliet"
+      "city": "Amsterdam"
     },
-    "images": [
-      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/2d0a7ea3-8128-5011-885b-8725ce9bbd5a/15bb15b2-e157-52aa-8ac3-2c390624e613?original_uri=https%3A%2F%2Fvbtverhuurmakelaars.nl%2Fimages%2F387a90-w900-s-fwj%2F0_geervliet-229&width=600&auto=webp"
-    ],
-    "description": "Dit comfortabele 5-kamer appartement ligt aan de rand van Amsterdam in de rustige wijk Buitenveldert. Met een oppervlakte van 154 m² heeft de woning een lichte woonkamer die toegang biedt tot een ruime tuin. Het appartement beschikt over vier slaapkamers die ook als werk- of studeerkamer kunnen dienen. De dichte keuken is uitgerust met een gaskookplaat, elektrische oven, spoelbak en afzuigkap. De badkamer heeft een douche, toilet, designradiator en wastafel, met een apart toilet in een aparte ru",
+    "images": [],
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
-    "hash": "fd6b6ce349e8a280",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastUpdated": "2025-12-23T08:31:20.788Z",
+    "hash": "7306ba7485887ba2",
+    "lastScraped": "2025-12-23T08:31:20.788Z"
   },
   {
     "id": "huurwoningen-1548556-haarlemmerweg",
@@ -191856,26 +191873,20 @@
     "id": "huurwoningen-1548389-osdorpplein",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1548389/osdorpplein/",
-    "title": "Appartement Osdorpplein in Amsterdam",
+    "title": "www.huurwoningen.nl",
     "available": true,
     "listingType": "rent",
-    "price": 1895,
-    "priceDisplay": "€ 1.895",
-    "sqm": 95,
-    "bedrooms": 2,
+    "price": 0,
+    "priceDisplay": "€ 0",
     "location": {
-      "city": "Amsterdam",
-      "street": "Osdorpplein"
+      "city": "Amsterdam"
     },
-    "images": [
-      "https://casco-media-prod.global.ssl.fastly.net/491cd5f5-cf1d-57be-8b5d-a26336bb58ea/7ec66f9f1ca34b541489bf0bfba22db1.jpg?width=600&auto=webp"
-    ],
-    "description": "Op een mooie locatie bieden wij dit fraaie 2 slaapkamer appartement met vrij uitzicht over de Sloterplas aan. Het centrum van Amsterdam ligt op 15 minuten fietsen en is per openbaar vervoer snel en makkelijk bereikbaar. Diverse winkels zijn op loopafstand. Het appartement is gelegen op de 5de verdieping en is per lift bereikbaar. Bij binnenkomst tref je een ruime hal met toilet en inpandige berging. De woonkamer is ruim en geeft vrij uitzicht over de Sloterplas. De woonkamer geeft toegang tot he",
+    "images": [],
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
-    "hash": "7efe411b02fceeed",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastUpdated": "2025-12-23T08:31:20.788Z",
+    "hash": "7306ba7485887ba2",
+    "lastScraped": "2025-12-23T08:31:20.788Z"
   },
   {
     "id": "huurwoningen-1548385-baden-powellweg",
@@ -193777,7 +193788,7 @@
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1547697/stromarkt/",
     "title": "Appartement Stromarkt in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 1303,
     "priceDisplay": "€ 1.303",
@@ -193793,9 +193804,9 @@
     "description": "In Amsterdam-Zuidoost komt The Bridge, een nieuw woonproject dat comfort en modern design biedt. Met 162 appartementen variërend van 55 tot 70 m² zijn er mogelijkheden voor starters, stellen en kleine gezinnen. De laatste appartementen, die in februari 2026 beschikbaar zijn, beschikken elk over 1 slaapkamer, buitenruimte en berging. De woningen zijn licht, ruimte en energiezuinig, met pvc-vloeren en behangklaar afwerking. De keukens zijn voorzien van moderne inbouwapparatuur en de badkamers hebb",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "6ce4d8761a234bb9",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1547693-rosy-wertheimstraat",
@@ -194610,17 +194621,34 @@
     "bedrooms": 1,
     "location": {
       "city": "Amsterdam",
-      "street": "Banstraat"
+      "street": "Banstraat",
+      "postalCode": "1071JX",
+      "coordinates": {
+        "lat": 52.3527529,
+        "lon": 4.875441
+      }
     },
     "images": [
       "https://casco-media-prod.global.ssl.fastly.net/6c19be1a-1f2e-5ca8-afe1-1969ca59f70c/78ed1fddd7029cadcdc968fa91c003b5.jpg?width=600&auto=webp"
     ],
-    "description": "In het hart van Oud-Zuid, aan de rustige Banstraat, vindt u dit gerenoveerde appartement van circa 75 m² met een balkon op het oosten. Het ligt nabij de Reijnier Vinkeleskade en het Vondelpark en is gunstig gesitueerd dichtbij de Beethovenstraat en de Apollolaan. Het centrum van Amsterdam is binnen enkele minuten te bereiken. De buurt biedt luxe winkels en diverse uitstekende restaurants. Via de gemeenschappelijke trappengang komt u op de tweede verdieping. De hal geeft toegang tot de slaapkamer",
+    "description": "Dit gerenoveerde appartement van circa 75 m² bevindt zich in de rustige Banstraat, in het chique Oud-Zuid van Amsterdam, dicht bij de Reijnier Vinkeleskade en het Vondelpark. De leefomgeving biedt een exclusief aanbod van winkels op luxe straten zoals de P.C. Hooftstraat en Van Baerlestraat, en uitstekende eetgelegenheden. Het appartement ligt op de tweede etage, bereikbaar via de gemeenschappelijke trappengang. Vanuit de hal zijn alle kamers toegankelijk, waaronder een slaapkamer met kastruimte",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
-    "hash": "2513a54ccf2a9e62",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastUpdated": "2025-12-23T08:31:20.788Z",
+    "hash": "a9b11df9b0c82ea8",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 4013,
+          "minutes": 54
+        },
+        "cycling": {
+          "meters": 4489,
+          "minutes": 27
+        }
+      }
+    },
+    "lastScraped": "2025-12-23T08:31:20.788Z"
   },
   {
     "id": "huurwoningen-1455710-spadinalaan",
@@ -195002,7 +195030,7 @@
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1547331/gustav-mahlerlaan/",
     "title": "Studio Gustav Mahlerlaan in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 1750,
     "priceDisplay": "€ 1.750",
@@ -195018,16 +195046,16 @@
     "description": "Gustav Mahlerlaan( 40m2) 1750 ex GWE. Studio. Spacious studio, good condition, close to all public transport and shops. Please be informed that the studio is one space. Not with a separate bedroom. Per 15 december 2025.",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "67ed02cf2b50d7ab",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1547318-haarlemmerweg",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1547318/haarlemmerweg/",
     "title": "Appartement Haarlemmerweg in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 1840,
     "priceDisplay": "€ 1.840",
@@ -195043,16 +195071,16 @@
     "description": "Dit ruime 3-kamerappartement van ongeveer 64 m² bevindt zich op de vierde verdieping. De woning heeft een lichte woonkamer met een open keuken, twee slaapkamers en een interne berging. Ook is er een fijne buitenruimte van 7 m² op het noordwesten. De witte keuken met kookeiland is volledig uitgerust met inbouwapparatuur, waaronder een koel-vriescombinatie, afzuigkap, combimagnetron, inductiekookplaat en vaatwasser. De badkamer is voorzien van een inloopdouche, wastafel met spiegel en een handdoek",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "89d6896efe4e541a",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1547311-pieter-cornelisz-hooftstraat",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1547311/pieter-cornelisz-hooftstraat/",
     "title": "Appartement Pieter Cornelisz. Hooftstraat in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 2800,
     "priceDisplay": "€ 2.800",
@@ -195068,16 +195096,16 @@
     "description": "Dit royale 3-kamerappartement van ca. 75 m2 is gelegen op de derde verdieping van een prachtig hoekpand in de alom bekende P. C. Hooftstraat. Verder beschikt de woning over energielabel B! DE INDELING Middels het verzorgde gemeenschappelijke trappenhuis bereikt u de toegang van dit appartement op de derde etage. U komt binnen in een hal welke toegang geeft tot de overige vertrekken. Aan de voorzijde treft u een ruim opgezette woonkamer met keuken van ca. 32 m2. De luxe hoekkeuken beschikt over e",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "c339e4d06ce744e8",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1547273-zeeburgerdijk",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1547273/zeeburgerdijk/",
     "title": "Appartement Zeeburgerdijk in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 2900,
     "priceDisplay": "€ 2.900",
@@ -195093,16 +195121,16 @@
     "description": "**Fully Furnished Garden Apartment in Amsterdam-East** **Available mid-January – mid-June (+/-6 months)** This charming and fully furnished double ground-floor apartment (approx. 104 m²) is located in the popular Indische Buurt (Amsterdam-East) and offers an ideal temporary home for everyone seeking comfort, space and outdoor living. The apartment features a sunny south-facing garden, a terrace with direct access to the garden (50m2), and a practical layout well suited for modern living and work",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "beb50e4f2b3e5309",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1547272-singel",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1547272/singel/",
     "title": "Appartement Singel in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 3400,
     "priceDisplay": "€ 3.400",
@@ -195118,16 +195146,16 @@
     "description": "**Charmant en ruim appartement uit 1755 aan de Singel in het hart van Amsterdam!** Gelegen aan een rustige straat aan de prachtige, bevaarbare Singel, geniet u hier van de unieke combinatie van water, stilte en de bruisende binnenstad op loopafstand. Het appartement bevindt zich in een centraal maar vredig deel van Amsterdam, met uitstekende verbindingen naar het openbaar vervoer. De royale woonkamer van 41m² is een prachtige ruimte die veel licht en een gezellig gevoel biedt. Hier kunt u heerli",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "db8a71595df3de33",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1547267-louise-wentstraat",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1547267/louise-wentstraat/",
     "title": "Appartement Louise Wentstraat in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 2500,
     "priceDisplay": "€ 2.500",
@@ -195143,16 +195171,16 @@
     "description": "Dit geweldige 4-kamer appartement van ca. 93m² is gelegen aan de achterzijde van de Sarphatistraat, in het centrum van Amsterdam, nabij de Hoogte Kadijk. Het appartement biedt volop openbaar vervoer met tram 1, 7 en 19 op drie minuten loopafstand en een metrostation dichtbij. De indeling omvat een entree op de begane grond, een ruime woonkamer en een dichte keuken die toegang biedt tot een zonnige tuin op het zuidoosten. Daarnaast zijn er drie slaapkamers aan de achterzijde, een badkamer met dou",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "e04ab50376376c96",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1547258-pascalstraat",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1547258/pascalstraat/",
     "title": "Appartement Pascalstraat in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 2650,
     "priceDisplay": "€ 2.650",
@@ -195168,16 +195196,16 @@
     "description": "In de populaire Watergraafsmeer wordt een dubbele bovenwoning te huur aangeboden. Met een eigen entree betreedt u de lichte, ruime woonkamer, die grenst aan een open moderne keuken, volledig uitgerust met inbouwapparatuur. Deze woning beschikt over drie slaapkamers, waaronder een ruime master-slaapkamer met inbouwkast en twee kleinere slaapkamers. Voorzien van een badkamer met bad, douche en wastafel, is deze woning bovendien gestoffeerd en heeft het een prachtige houten vloer. Bij het huren gel",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "02d290005fd1ccab",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1547256-mr-p-n-arntzeniusweg",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1547256/mr-p-n-arntzeniusweg/",
     "title": "Appartement Mr. P.N. Arntzeniusweg in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 2550,
     "priceDisplay": "€ 2.550",
@@ -195193,16 +195221,16 @@
     "description": "In een van de leukste straten van de Watergraafsmeer bevindt zich een ruim appartementen met drie slaapkamers. Dit dubbele bovenwoning is uitermate geschikt voor een stel of gezin, aangezien studenten of werkende delers niet in aanmerking komen. Het appartement beschikt over een ruime woonkamer met een semi-open keuken, die is uitgerust met alle benodigde inbouwapparatuur. Daarnaast is er een badkamer met bad en badkamermeubel. De minimale huurperiode bedraagt 12 maanden en het appartement is di",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "38d307ef8676c05e",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1547251-marcantilaan",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1547251/marcantilaan/",
     "title": "Appartement Marcantilaan in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 2500,
     "priceDisplay": "€ 2.500",
@@ -195218,16 +195246,16 @@
     "description": "**-English text below-** Ruim, gemeubileerd Amsterdams appartement met grachtenzicht, ideaal voor single, stel of klein gezin Huurprijs: €2500 per maand (gemeubileerd) Exclusief: €150 p/m (servicekosten + snel internet) en €150 p/m voorschot gas, water, elektra Inschrijving: mogelijk en verplicht Beschikbaarheid: langdurige huur mogelijk, kortdurend in overleg Adres: Marcantilaan, 1051 NL Amsterdam (Marcanti-schiereiland – “Kop van Jut”) Oppervlakte: ca. 75 m² + inpandig externe berging **Overzi",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "d2c5934b7c3857e9",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1547241-bijlmerdreef",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1547241/bijlmerdreef/",
     "title": "Appartement Bijlmerdreef in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 8000,
     "priceDisplay": "€ 8.000",
@@ -195243,16 +195271,16 @@
     "description": "**SEE ENGLISH BELOW** **Zeer lichte en ruime 6-slaapkamer appartement met patio en terras – ideaal voor bedrijfspersoneel** Dit volledig gemeubileerde appartement met 6 slaapkamers en 1 woonkamer, 3 badkamers en 2 toiletten is nu beschikbaar voor verhuur in Amsterdam Zuid-Oost bij Bijlmer Arena! Gelegen in een rustige woonstraat nabij Bijlmer Arena, biedt deze stijlvolle woning van 3 verdiepingen een royale leefruimte van 145 m² en heeft mooie uitzichten op groen en water. Het huis beschikt over",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "b2edb359c422c712",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1509454-marnixstraat",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1509454/marnixstraat/",
     "title": "Studio Marnixstraat in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 1230,
     "priceDisplay": "€ 1.230",
@@ -195267,16 +195295,16 @@
     "description": "Is volledig gemeubileerd en is uitgerust met centrale verwarming. De 32m² woning is ingericht met een tweepersoonsbed, eettafel en televisie. Er is ook een eenvoudige kitchenette en een badkamer met een douche. Het appartement heeft een handige centrale locatie, dicht bij winkels en openbaar vervoer.",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "bd03645f778ee42e",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1547218-biesboschstraat",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1547218/biesboschstraat/",
     "title": "Appartement Biesboschstraat in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 3500,
     "priceDisplay": "€ 3.500",
@@ -195292,16 +195320,16 @@
     "description": "Recent geheel gerenoveerd begane grond appartement met 2 slaapkamers , royale eetkeuken en met een diepe tuin met royaal tuinhuis en berging! Het appartement is zeer geschikt voor een stel of een gezin. Delers zijn niet mogelijk. De royale tuin is bijzonder op deze locatie. Het tuinhuis is goed te gebruiken als werkruimte of tijdelijke overnachting. Er is elektra en een elektrische radiator aanwezig. Ook is het tuinhuis voorzien van isolerende beglazing. LIGGING Dit appartement is perfect gelege",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "1d58113853e58ab4",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1547207-rubensstraat",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1547207/rubensstraat/",
     "title": "Appartement Rubensstraat in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 5250,
     "priceDisplay": "€ 5.250",
@@ -195317,16 +195345,16 @@
     "description": "Dit ruim gerenoveerd appartement heeft een privé-ingang vanaf de begane grond en biedt opslagruimte. De tweede verdieping heeft een L-vormige woonkamer met erker en en-suite deuren, die veel natuurlijk licht ontvangt. De gesloten keuken is modern en van alle gemakken voorzien. Achterin bevindt zich het balkon op het westen. De derde verdieping herbergt twee grote slaapkamers, beide met toegang tot een balkon, en een derde slaapkamer/studeerkamer. De badkamer biedt daglicht met een inloopdouche e",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "8a0ac699befabe45",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1547202-keizersgracht",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1547202/keizersgracht/",
     "title": "Appartement Keizersgracht in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 3650,
     "priceDisplay": "€ 3.650",
@@ -195342,16 +195370,16 @@
     "description": "Fantastisch 3-slaapkamer penthouse appartement aan de Keizersgracht met een prachtig uitzicht op de gracht vanuit zowel de woonkamer als de hoofdslaapkamer. Zowel gemeubileerd als ongegemeubileerd beschikbaar. Dit elegante gebouw uit de 18e eeuw heeft een marmeren vloer en stucwerk bij de ingang. Het appartement is recent gerenoveerd en heeft 3 slaapkamers en bevindt zich op de bovenste verdieping. De sfeer is een mix van moderne stijl, luxe keuken, ruime badkamer en de historische flair van oud",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "44e068fbc8f264aa",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1547180-admiralengracht",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1547180/admiralengracht/",
     "title": "Appartement Admiralengracht in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 2500,
     "priceDisplay": "€ 2.500",
@@ -195367,16 +195395,16 @@
     "description": "- Amsterdam West/De Baarsjes - 1 slaapkamer plus 1 werk-/gastenruimte - Gemeubileerd - Gemeenschappelijke tuin - Privéparkeerplaats in de garage onder het gebouw (inbegrepen in de huur) - Berging in de kelder - Vers geschilderde muren en geoliede houten vloer Let wel: Het meubilair op de foto's is niet exact hetzelfde als die in de huidige situatie. Beschrijving: Op een prachtige locatie in de buurt van De Baarsjes bieden wij dit geweldige appartement van ca. 91 m² aan. Het appartement bevindt z",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "cfcfe31850d495a8",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1547168-willem-baerdesenstraat",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1547168/willem-baerdesenstraat/",
     "title": "Appartement Willem Baerdesenstraat in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 4000,
     "priceDisplay": "€ 4.000",
@@ -195392,16 +195420,16 @@
     "description": "**Gemeubileerd 4-Slaapkamer Appartement – Direct Beschikbaar in Amsterdam Nieuw-West** Dit moderne en lichte duplexappartement bevindt zich in een goed onderhouden complex in de levendige en kindvriendelijke woonwijk **in Nieuw-West**. Met een totale oppervlakte van **80 m²** biedt de woning **4 slaapkamers,** een woonkamer met open keuken, en een balkon. Het appartement is volledig gemeubileerd en bevat alles wat u nodig heeft, zoals bedden met matrassen, kasten in elke slaapkamer, en een wasma",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "70be65a410521941",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1547146-aalbersestraat",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1547146/aalbersestraat/",
     "title": "Appartement Aalbersestraat in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 1650,
     "priceDisplay": "€ 1.650",
@@ -195417,16 +195445,16 @@
     "description": "**Mooie ruime woonkamer in Geuzenveld, met twee slaapkamers.** De woning ligt in het groene en rustige **Geuzenveld**, een kindvriendelijke buurt in Amsterdam-West met een dorps karakter en toch alle stadsgemakken binnen handbereik. In de **Aalbersestraat** woon je in een brede, verzorgde straat met veel bomen, ruime stoepen en voldoende parkeergelegenheid. Op loopafstand vind je diverse winkels voor de dagelijkse boodschappen, scholen, sportvoorzieningen en speeltuinen. Ook het **Eendrachtspark",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "1c74d6de2c207b6d",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1547145-van-woustraat",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1547145/van-woustraat/",
     "title": "Appartement Van Woustraat in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 2300,
     "priceDisplay": "€ 2.300",
@@ -195442,16 +195470,16 @@
     "description": "AANVRAGEN ENKEL PER MAIL Gestoffeerd 3 kamer appartement met geweldig dakterras met uitzicht over de stad, gelegen in de gezellige Pijp; een gebied met talrijke hippe cafés en restaurants, een grote diversiteit aan winkels en natuurlijk de bekende Albert Cuypmarkt, waar je 6 dagen per week terecht kunt voor allerlei verse specialiteiten. Voor de dagelijkse boodschappen kun je terecht verschillende supermarkten in de buurt zoals het Eco Plaza, Marqt en de Albertheijn. Het Sarphatipark ligt om de ",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "5081ebe9de593dfd",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1547143-camperstraat",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1547143/camperstraat/",
     "title": "Appartement Camperstraat in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 2450,
     "priceDisplay": "€ 2.450",
@@ -195467,16 +195495,16 @@
     "description": "In een fantastische locatie in Amsterdam-Oost is dit lichte en goed ingedeelde 4-kamerappartement van ca. 67 m² te huur. Het appartement heeft twee balkons, zowel aan de voor- als achterzijde, en beschikt over een ruime berging in de onderbouw. Met drie bijna gelijkwaardige slaapkamers is het ideaal voor gezinnen of woningdelers. Gelegen aan de populaire Camperstraat, is het appartement dichtbij de Amstel en het Oosterpark. De voorzieningen en restaurants in de omgeving zijn talrijk, en sportiev",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "32a8a7085976ebab",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1438799-rubensstraat",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1438799/rubensstraat/",
     "title": "Appartement Rubensstraat in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 5500,
     "priceDisplay": "€ 5.500",
@@ -195492,16 +195520,16 @@
     "description": "***NIEUW. Begane grond woning met tuin (oud-zuid)*** Recentelijk gerenoveerde en gestoffeerde 3 slaapkamer (gezins)woning met tuin op het Oosten. De woning is gelegen op de begane grond, voorziet in een ruime woonkamer met een moderne langgerekte keuken aan de voorzijde, houten vloeren, en tuindeuren die toegang verschaffen naar de tuin. In de tuin staat een losstaand huisje wat in gebruik genomen kan worden als werk/kantoorruimte voor de bewoners. Daarnaast beschikt de woning over een ruime hal",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "0f4d99d4b48b22ac",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1547106-wim-van-estlaan",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1547106/wim-van-estlaan/",
     "title": "Appartement Wim van Estlaan in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 1404,
     "priceDisplay": "€ 1.404",
@@ -195517,16 +195545,16 @@
     "description": "Laan van Spartaan is een modern appartementencomplex in Amsterdam, gebouwd in 2020 met 34 ruime woningen van 2, 3 of 4 kamers. Elk appartement heeft een lichte woonkamer, een complete keuken met inbouwapparatuur zoals een koelkast, combimagnetron en inductiekookplaat, en een ruime badkamer met inloopdouche en tweede toilet. De buitenruimte op het westen biedt ruimte om te ontspannen en bij de huur is een parkeerplaats in de onderliggende garage inbegrepen. Gelegen in de rustige en jonge woonwijk",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "5dc745335c28a414",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1547091-pantograafstraat",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1547091/pantograafstraat/",
     "title": "Appartement Pantograafstraat in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 2112,
     "priceDisplay": "€ 2.112",
@@ -195542,16 +195570,16 @@
     "description": "Welkom bij Cruquius Docks, gelegen op het Cruquius Eiland in Amsterdam, waar je kunt wonen aan het water in een getransformeerde haven met een rijke historie. Dit project omvat 155 vrijesector huurappartementen verdeeld over drie gebouwen met een industriële uitstraling. De meeste appartementen hebben twee slaapkamers en zijn voorzien van een royaal balkon of dakterras, en appartementen op het oosten bieden uitzicht op het water. Met een woonoppervlak van 78 m² en een inhoud van 195 m³, zijn de ",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "21e7a9336e88599d",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1547087-david-ricardostraat",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1547087/david-ricardostraat/",
     "title": "Appartement David Ricardostraat in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 2030,
     "priceDisplay": "€ 2.030",
@@ -195567,16 +195595,16 @@
     "description": "Stijlvol wonen kan aan de David Ricardostraat 50 in Amsterdam, in dit moderne 4-kamer appartement van ca. 128 m². Gelegen in de jonge en dynamische buurt Riekerpolder, is deze wijk populair bij bewoners tussen de 25 en 44 jaar en biedt het een rustige omgeving met uitstekende voorzieningen. Bij binnenkomst kom je via de hal in de diverse vertrekken. De moderne open keuken is uitgerust met luxe inbouwapparatuur. De ruime woonkamer is licht en biedt toegang tot een balkon op het noorden. Er zijn d",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "a2901f897c3349b2",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1547067-haparandaweg",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1547067/haparandaweg/",
     "title": "Appartement Haparandaweg in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 1592,
     "priceDisplay": "€ 1.592",
@@ -195592,16 +195620,16 @@
     "description": "Domūs Houthaven biedt een vernieuwend woonconcept in Amsterdam met 235 slimme huurappartementen, variërend van 40 m² tot 60 m². Elk appartement heeft een ‘smart living core’ die keuken, badkamer, opbergruimte en bedframe combineert. De woningen zijn voorzien van een PVC-vloer, gordijnen en moderne apparatuur van merken zoals ATAG en Grohe. Naast de privé-woonruimtes zijn er gedeelde leefruimtes, een daktuin en een Laundry Boutique. De ligging is ideaal met uitstekende OV-verbindingen en nabij cr",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "fd9b0588c679347b",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1549500-statenjachtstraat",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1549500/statenjachtstraat/",
     "title": "Appartement Statenjachtstraat in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 1950,
     "priceDisplay": "€ 1.950",
@@ -195617,16 +195645,16 @@
     "description": "— ENGLISH TRANSLATION BELOW — Modern, gemeubileerd en comfortabel 3-kamerappartement met een perfecte ligging nabij voorzieningen en de Noord-Zuidlijn! Indeling: Via de zeer riante entree kan middels lift danwel trap de woning bereikt worden. Entree via de ruime hal voorzien van tochtportaal. De keuken ligt aan de voorzijde van de woning en is voorzien van alle gemakken inclusief een aangrenzende bijkeuken voor kastruimte, extra koelruimte en meer. De riante woonkamer ligt aan de achterzijde van",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "387071d388f10cec",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1547035-beulingstraat",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1547035/beulingstraat/",
     "title": "Appartement Beulingstraat in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 2495,
     "priceDisplay": "€ 2.495",
@@ -195642,16 +195670,16 @@
     "description": "Met uitzicht op de Beulingsloot, het water dat de Singel en Herengracht verbindt, vlakbij de gezellige “De Negen Straatjes” buurt bieden wij dit ruime gemeubileerde 1 slaapkamer appartement met terras aan het water aan. Het appartement is gelegen op de begane grond. Via een prachtige gemeenschappelijk hal kom je bij je eigen voordeur. Bij binnenkomst vind je een hal dat toegang geeft tot de slaapkamer, de inpandige berging, de badkamer en de woonkamer met open keuken. De ruime woonkamer met open",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "8d8f2900a5dd90be",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1547024-rozenstraat",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1547024/rozenstraat/",
     "title": "Appartement Rozenstraat in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 3750,
     "priceDisplay": "€ 3.750",
@@ -195667,16 +195695,16 @@
     "description": "Stunning 2-Bedroom Apartment in a Prime Location | Private Entrance | Large private Balcony | Energy Label A & Solar panels | Amazing Design and Finishes Renovated apartment with energy label A in the Jordaan area. The apartment has solar panels, air-conditioning and floor heating. Lovely terrace with spotlights build in the floor. Bathroom and bedrooms are equipped with television. The Rozenstraat is a charming, historic street located in the highly desirable Jordaan district of Amsterdam Centr",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "b103c00f10ffe06e",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1546999-oetgensstraat",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1546999/oetgensstraat/",
     "title": "Appartement Oetgensstraat in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 2150,
     "priceDisplay": "€ 2.150",
@@ -195692,16 +195720,16 @@
     "description": "Dit charmante 4-kamer appartement van circa 89 m² bevindt zich op de derde en vierde verdieping en beschikt over een zonnig terras op een uitstekende locatie in de Oetgensstraat, in het hart van Oost. De buurt biedt gezellige eetcafés, restaurants en een brede variëteit aan winkels. Recreatiemogelijkheden zijn nabij, met het Oosterpark, Tropenmuseum en Artis op korte afstand. Met meerdere openbaar vervoersverbindingen en voldoende parkeergelegenheid is de bereikbaarheid uitstekend. De indeling o",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "38d16ff487ebcb6f",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1546998-spinozahof",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1546998/spinozahof/",
     "title": "Appartement Spinozahof in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 2150,
     "priceDisplay": "€ 2.150",
@@ -195717,16 +195745,16 @@
     "description": "Dit centraal gelegen 4-kamerappartement van 86 m² met een balkon van 4 m² op het zuidoosten biedt schitterend uitzicht over het water. Gelegen aan het Spinozahof in Amsterdam, zijn er uitstekende openbare vervoersvoorzieningen in de nabijheid, waaronder trams en metro. Op de tweede verdieping is er een ruime woonkamer met toegang tot het balkon, een dichte keuken met standaard keukenblok, een badkamer met douche en wastafel, een apart toilet en drie slaapkamers. Een aparte berging van 6 m² is oo",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "f7b5eee878933936",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1455948-runstraat",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1455948/runstraat/",
     "title": "Appartement Runstraat in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 2975,
     "priceDisplay": "€ 2.975",
@@ -195742,16 +195770,16 @@
     "description": "**Te Huur: Luxe Gemeubileerd Appartement in de 9 Straatjes, Amsterdam** Ontdek de unieke charme van wonen in het hart van Amsterdam, in een van de meest gewilde buurten van de stad: de 9 Straatjes gelegen tussen de Prinsengracht en de Keizersgracht. Dit luxe, volledig gemeubileerde appartement biedt alles wat je nodig hebt voor een comfortabel en stijlvol verblijf. **Kenmerken van het appartement:** **Huurprijs: € 2.950 per maand** **Woonoppervlakte: 85 m²** **Gemeubileerd** **Slaapkamers: 1** *",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "3f2a9ad35f8a074f",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1546964-haarlemmerweg",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1546964/haarlemmerweg/",
     "title": "Appartement Haarlemmerweg in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 1930,
     "priceDisplay": "€ 1.930",
@@ -195767,16 +195795,16 @@
     "description": "Dit ruime 3-kamerappartement van ca. 64 m² bevindt zich op de 8ste verdieping. De lichte woonkamer met open keuken biedt een uitnodigende ambiance. De witte keuken, uitgerust met inbouwapparatuur zoals een koel-vriescombinatie, inductiekookplaat en vaatwasser, is een ideale plek om te koken. Het appartement heeft twee slaapkamers en een interne berging. De complete badkamer beschikt over een inloopdouche en een wastafel met spiegel. Een apart toilet met fonteintje is ook aanwezig. Het balkon van",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "c1ca1ba4cfd142f2",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1546960-hoofdweg",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1546960/hoofdweg/",
     "title": "Appartement Hoofdweg in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 2150,
     "priceDisplay": "€ 2.150",
@@ -195792,16 +195820,16 @@
     "description": "**Lovely 1-Bedroom Garden Apartment on Hoofdweg, Amsterdam (De Baarsjes) available Immediately** Bright and charming 54 m² ground-floor apartment (built 1924) with private garden in the heart of the vibrant De Baarsjes / Hoofdweg area. The apartment offers: * Spacious living room * Kitchen with all basic built-in appliances, direct access to east-facing garden * Large bedroom with garden access * Entrance hall & corridor * Separate laundry space * Garden oriented to the east for morning sun * C ",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "be5dd521c4d1dbfd",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1546954-kruysweerstraat",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1546954/kruysweerstraat/",
     "title": "Appartement Kruysweerstraat in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 3250,
     "priceDisplay": "€ 3.250",
@@ -195817,16 +195845,16 @@
     "description": "Aan de Kruysweerstraat 257 bevindt zich een stijlvol en comfortabel 3-kamer appartement, gelegen op een rustige plek in de stad. Dit luxe appartement heeft een sfeervol interieur en een doordachte indeling die veel lichtinval biedt. Twee balkons zorgen voor zon gedurende de dag en de slaapkamers zijn uitgerust met eigen badkamers. Met energielabel A+++ is de woning duurzaam te noemen. Bij binnenkomst via de gemeenschappelijke entree op de vierde etage wordt u verwelkomd door een hal met garderob",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "7c638ef7bba08ade",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1546948-nieuwe-herengracht",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1546948/nieuwe-herengracht/",
     "title": "Appartement Nieuwe Herengracht in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 2950,
     "priceDisplay": "€ 2.950",
@@ -195842,16 +195870,16 @@
     "description": "Dit ruime 3-kamerappartement, gelegen op de beletage van een monumentaal grachtenpand aan de Nieuwe Herengracht, is volledig gerenoveerd. Het appartement heeft een lichte woonkamer met grote ramen, wat een prachtig uitzicht op de gracht biedt. De en-suite schuifdeuren geven toegang tot de luxe woonkeuken, die is uitgerust met moderne apparatuur en voldoende kastruimte. Er zijn twee ruime slaapkamers en een badkamer met douche, toilet en wastafel. Een aparte ruimte biedt plaats voor de wasmachine",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-23T08:31:20.664Z",
     "hash": "50316ebba465e8a2",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-23T08:31:20.664Z"
   },
   {
     "id": "huurwoningen-1546944-oostenburgermiddenstraat",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1546944/oostenburgermiddenstraat/",
     "title": "Appartement Oostenburgermiddenstraat in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 2250,
     "priceDisplay": "€ 2.250",
@@ -195867,16 +195895,16 @@
     "description": "Per 5 januari 2026 is er een appartement beschikbaar met 2 slaapkamers en een balkon. Deze woning wordt gestoffeerd opgeleverd, en de servicekosten bedragen €110 per maand, met verwarming via een huur warmtepomp van €98,65. De borg is gelijk aan twee maanden huur en het huurcontract is onbepaalde tijd met een minimale termijn van 12 maanden. Het appartement bevindt zich op de tweede verdieping, bereikbaar via een lift en trappenhuis. De indeling omvat een hal die toegang biedt tot een wc, bergin",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-22T19:56:03.906Z",
     "hash": "5478818b2bd9f0bf",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-22T19:56:03.906Z"
   },
   {
     "id": "huurwoningen-1546943-ms-van-riemsdijkweg",
     "agencyId": "huurwoningen",
     "url": "https://www.huurwoningen.nl/huren/amsterdam/1546943/ms-van-riemsdijkweg/",
     "title": "Appartement ms. van Riemsdijkweg in Amsterdam",
-    "available": true,
+    "available": false,
     "listingType": "rent",
     "price": 1750,
     "priceDisplay": "€ 1.750",
@@ -195892,9 +195920,9 @@
     "description": "Dit 2-kamerappartement wordt beschikbaar op 5 januari 2026 en is gelegen aan de NDSM-Werf in Amsterdam, direct aan het IJ. Het moderne appartement van 2020 beschikt over een hoogwaardige pvc-vloer en een keuken met inbouwapparatuur zoals een inductiekookplaat, vaatwasser en koel-vriescombinatie. U vindt er ook een volledig betegelde badkamer met inloopdouche en een apart toilet. Het appartement heeft een balkon op het noordwesten en is gelegen op de derde verdieping van een gebouw met lift. In d",
     "features": [],
     "firstSeen": "2025-12-22T18:52:27.610Z",
-    "lastUpdated": "2025-12-22T18:52:27.610Z",
+    "lastUpdated": "2025-12-22T19:56:03.906Z",
     "hash": "fa84f181f03ad44e",
-    "lastScraped": "2025-12-22T18:52:27.610Z"
+    "lastScraped": "2025-12-22T19:56:03.906Z"
   },
   {
     "id": "huurwoningen-1548670-teakhout",
@@ -196617,5 +196645,340 @@
     "lastUpdated": "2025-12-22T18:52:27.610Z",
     "hash": "afcdb9a706be04c8",
     "lastScraped": "2025-12-22T18:52:27.610Z"
+  },
+  {
+    "id": "huurwoningen-1549581-hoogoorddreef",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/amsterdam/1549581/hoogoorddreef/",
+    "title": "Appartement Hoogoorddreef in Amsterdam",
+    "available": true,
+    "listingType": "rent",
+    "price": 1002,
+    "priceDisplay": "€ 1.002",
+    "sqm": 39,
+    "location": {
+      "city": "Amsterdam",
+      "street": "Hoogoorddreef",
+      "postalCode": "1101BA",
+      "coordinates": {
+        "lat": 52.3100912,
+        "lon": 4.9457404
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/5a42dc71-f580-5402-9dbd-f5a429a03549/57eb21dd-254f-565f-aeb5-8659c36ac9a1?original_uri=https%3A%2F%2Ffri.eye-move.nl%2Fwoningfotos%2F5%2F4%2F6%2F5%2F54658704_1eLulofsdwarsstraat6SDenHaag-EXT-09.JPG&width=600&auto=webp"
+    ],
+    "description": "Nu beschikbaar: een gestoffeerde studio op de begane grond van circa 39 vierkante meter in het nieuwbouwcomplex Caland Dock. Dit complex biedt een gemeenschappelijke fietsenstalling op de begane grond en heeft een huismeester. De woning beschikt over een ruime woon-/slaapkamer van ongeveer 29 m², een moderne open keuken met inbouwapparatuur en raccord voor een wasmachine, en een strak afgewerkte badkamer met douche, toilet en wastafel. Centraal gelegen nabij winkels, supermarkten en restaurants,",
+    "features": [],
+    "firstSeen": "2025-12-22T19:56:04.024Z",
+    "lastUpdated": "2025-12-22T19:56:04.024Z",
+    "hash": "82a8b34d9c8da714",
+    "lastScraped": "2025-12-22T19:56:04.024Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 9583,
+          "minutes": 128
+        },
+        "cycling": {
+          "meters": 9684,
+          "minutes": 51
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1549579-stephensonstraat",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/amsterdam/1549579/stephensonstraat/",
+    "title": "Appartement Stephensonstraat in Amsterdam",
+    "available": true,
+    "listingType": "rent",
+    "price": 2037,
+    "priceDisplay": "€ 2.037",
+    "sqm": 96,
+    "bedrooms": 2,
+    "location": {
+      "city": "Amsterdam",
+      "street": "Stephensonstraat",
+      "postalCode": "1097BB",
+      "coordinates": {
+        "lat": 52.3502721,
+        "lon": 4.9199363
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/726a2da7-6338-5dec-9ce8-dc54a80c7168/254c1cc3-3226-501a-b0a6-b72cb173fedf?original_uri=https%3A%2F%2Fvbtverhuurmakelaars.nl%2Fimages%2Fca2e07-w900-s-fwj%2F0_stephensonstraat-6&width=600&auto=webp"
+    ],
+    "description": "In het populaire Eenhoorngebied in Amsterdam-Oost ligt dit ruime en moderne 3-kamerappartement van circa 96 m². Deze goed ingedeelde woning in appartementencomplex De Heelmeesters heeft twee slaapkamers van ongeveer 14 m² en 11 m². De lichte woonkamer van ongeveer 33 m² biedt toegang tot een balkon en de halfopen keuken is voorzien van inbouwapparatuur. De luxe badkamer heeft een ligbad, aparte douche en wastafel. Er is een interne berging voor wasmachine en droger, evenals een externe berging e",
+    "features": [],
+    "firstSeen": "2025-12-22T19:56:04.024Z",
+    "lastUpdated": "2025-12-22T19:56:04.024Z",
+    "hash": "23ebd9d7b01a263a",
+    "lastScraped": "2025-12-22T19:56:04.024Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 4176,
+          "minutes": 56
+        },
+        "cycling": {
+          "meters": 4271,
+          "minutes": 27
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1548680-bundlaan",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/amsterdam/1548680/bundlaan/",
+    "title": "Appartement Bundlaan in Amsterdam",
+    "available": true,
+    "listingType": "rent",
+    "price": 2800,
+    "priceDisplay": "€ 2.800",
+    "sqm": 80,
+    "bedrooms": 2,
+    "location": {
+      "city": "Amsterdam",
+      "street": "Bundlaan",
+      "postalCode": "1031KA",
+      "coordinates": {
+        "lat": 52.3877604,
+        "lon": 4.9022729
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/473aed50-6cda-5193-96ff-0ab6c7ec16a7/18fb3135-f5c8-5aa0-87f9-5566834d72b8?original_uri=https%3A%2F%2Fhaywebattachments.blob.core.windows.net%2Fpublic%2F1612%2F3908485%2F121036953%2F%24xl%2F9%2520bundlaan%2520236%2520amsterdam%2520raysem.jpg&width=600&auto=webp"
+    ],
+    "description": "Dit gemeubileerde appartement ligt dichtbij het centrum van Amsterdam en biedt 2 ruime slaapkamers en 2 balkons. Gelegen op de derde etage van het nieuwbouwcomplex ‘The Grid’, onderdeel van het project Aan het IJ, beschikt het over een open keuken met kookeiland en inbouwapparatuur. De riante woonkamer heeft een grote raampartij en biedt toegang tot een terras via een schuifpui. De grootste slaapkamer is voorzien van een terras met uitzicht op Noord en het IJ. De badkamer beschikt over een dubbe",
+    "features": [],
+    "firstSeen": "2025-12-22T19:56:04.024Z",
+    "lastUpdated": "2025-12-22T19:56:04.024Z",
+    "hash": "e4ef7f9a12e3bf3c",
+    "lastScraped": "2025-12-22T19:56:04.024Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 1399,
+          "minutes": 20
+        },
+        "cycling": {
+          "meters": 2434,
+          "minutes": 22
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1549612-bestevaerstraat",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/amsterdam/1549612/bestevaerstraat/",
+    "title": "Appartement Bestevâerstraat in Amsterdam",
+    "available": true,
+    "listingType": "rent",
+    "price": 2650,
+    "priceDisplay": "€ 2.650",
+    "sqm": 77,
+    "bedrooms": 2,
+    "location": {
+      "city": "Amsterdam",
+      "street": "Bestevâerstraat",
+      "postalCode": "1056HE",
+      "coordinates": {
+        "lat": 52.3734974,
+        "lon": 4.8599977
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/cbb60d8f-18d2-5696-b2f1-18325760028d/850c411259db5b8e4cbead9b75b68a10.jpg?width=600&auto=webp"
+    ],
+    "description": "Let op huurperiode van 10 januari 2026 tot 31 juli 2026 We zijn enigszins flexibel met deze data. Neemt u alstublieft contact met ons op voor afwijkende data. Heerlijk wonen in een zeer licht en praktisch appartement met 2 slaapkamers (1 slaapkamer en 1 studeerkamer) en een balkon op het westen aan de achterzijde. Zo kunt u heerlijk genieten van de middag- en avondzon! Het appartement is gelegen op het rustigste en mooiste stukje van de Bestevaerstraat. Het appartement is gemoderniseerd en verke",
+    "features": [],
+    "firstSeen": "2025-12-23T08:31:20.788Z",
+    "lastUpdated": "2025-12-23T08:31:20.788Z",
+    "hash": "7cf4baa6b9ed124d",
+    "lastScraped": "2025-12-23T08:31:20.788Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 3407,
+          "minutes": 46
+        },
+        "cycling": {
+          "meters": 4062,
+          "minutes": 25
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1549606-de-lairessestraat",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/amsterdam/1549606/de-lairessestraat/",
+    "title": "Appartement De Lairessestraat in Amsterdam",
+    "available": true,
+    "listingType": "rent",
+    "price": 4000,
+    "priceDisplay": "€ 4.000",
+    "sqm": 106,
+    "bedrooms": 2,
+    "location": {
+      "city": "Amsterdam",
+      "street": "De Lairessestraat",
+      "postalCode": "1075HM",
+      "coordinates": {
+        "lat": 52.3523682,
+        "lon": 4.8670937
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/eb9ac126-d9aa-5b8d-831e-19a8fe08b024/6d2381b9373b6ca7acc6edf2b46010e4.jpg?width=600&auto=webp"
+    ],
+    "description": "*ENGLISH TRANSLATION BELOW Zeer royaal en luxe 3-kamer appartement van circa 106 m² voorzien van lift, en een ruim balkon van circa 10 m² gelegen in hartje Oud-Zuid. Het appartement bevindt zich in een rijksmonument gebouwd in de \"Amsterdamse schoolstijl\" en ligt op steenworp afstand van de Cornelis Schuytstraat en het Vondelpark. De woning kenmerkt zich door het hoge plafond van circa 2,83 meter, een lift die recht in de woning uitkomt, de schitterende hardhouten vloeren en de klassieke keuken ",
+    "features": [],
+    "firstSeen": "2025-12-23T08:31:20.788Z",
+    "lastUpdated": "2025-12-23T08:31:20.788Z",
+    "hash": "c4936ddc975a3146",
+    "lastScraped": "2025-12-23T08:31:20.788Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 4421,
+          "minutes": 59
+        },
+        "cycling": {
+          "meters": 4870,
+          "minutes": 28
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1549602-galjootstraat",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/amsterdam/1549602/galjootstraat/",
+    "title": "Appartement Galjootstraat in Amsterdam",
+    "available": true,
+    "listingType": "rent",
+    "price": 2450,
+    "priceDisplay": "€ 2.450",
+    "sqm": 79,
+    "bedrooms": 2,
+    "location": {
+      "city": "Amsterdam",
+      "street": "Galjootstraat",
+      "postalCode": "1086VE",
+      "coordinates": {
+        "lat": 52.364184,
+        "lon": 4.9875956
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/76bcf46c-7bd3-5bf5-991d-9932dec57dc5/b847a0d8-1ab3-5aac-84ec-e8a9134f181f?original_uri=https%3A%2F%2Fpararius-office-prod.global.ssl.fastly.net%2F10174%2Ffiles%2Fphotos%2Foriginals%2F9692a10d.jpg&width=600&auto=webp"
+    ],
+    "description": "Op zoek naar een prachtig, instapklaar appartement in Amsterdam? Laat deze kans dan niet aan je voorbijgaan! Gelegen aan de Galjootstraat vind je dit zeer goed onderhouden appartement op de vijfde verdieping, met een woonoppervlakte van 79 m². Gelegen in een rustige woonwijk biedt het een perfecte balans tussen stedelijk gemak en wooncomfort. Dit appartement kenmerkt zich door een heldere en ruimtelijk opgezette woonkamer die direct verbonden is met een moderne open keuken. De keuken is uitgerus",
+    "features": [],
+    "firstSeen": "2025-12-23T08:31:20.788Z",
+    "lastUpdated": "2025-12-23T08:31:20.788Z",
+    "hash": "fb3e92aff6a5af14",
+    "lastScraped": "2025-12-23T08:31:20.788Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 7139,
+          "minutes": 97
+        },
+        "cycling": {
+          "meters": 8026,
+          "minutes": 41
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1452246-griseldestraat",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/amsterdam/1452246/griseldestraat/",
+    "title": "Appartement Griseldestraat in Amsterdam",
+    "available": true,
+    "listingType": "rent",
+    "price": 3250,
+    "priceDisplay": "€ 3.250",
+    "sqm": 100,
+    "bedrooms": 3,
+    "location": {
+      "city": "Amsterdam",
+      "street": "Griseldestraat",
+      "postalCode": "1055AR",
+      "coordinates": {
+        "lat": 52.3764066,
+        "lon": 4.8491069
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/e45e2fc0-f46d-52c9-af1c-ec2f2bb4d133/a4d86b4d-1361-545f-9234-04608bf21f60?original_uri=https%3A%2F%2Fpararius-office-prod.global.ssl.fastly.net%2F10174%2Ffiles%2Fphotos%2Foriginals%2F2a2c9ee0.jpg&width=600&auto=webp"
+    ],
+    "description": "\\--FOR ENGLISH VERSION, PLEASE SEE BELOW-- GEEN WONINGDELERS TOEGESTAAN! NIEUW TE HUUR: EEN VOLLEDIG GEMEUBILEERD/TURN KEY APPARTEMENT. Het betreft een sfeervol 4-kamer appartement van ca. 100m2 op de begane grond, met grote tuin van 50m2 op het (Zuid) Westen in een doodlopende groene straat aan het Erasmuspark. Ideaal voor gezinnen en stellen. INDELING De entree tot het appartement is gelegen op de begane grond. Via de ruime hal met grote ronde spiegel en schoenenkast bereik je, na een tussende",
+    "features": [],
+    "firstSeen": "2025-12-23T08:31:20.788Z",
+    "lastUpdated": "2025-12-23T08:31:20.788Z",
+    "hash": "1bd98646779ab565",
+    "lastScraped": "2025-12-23T08:31:20.788Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 4250,
+          "minutes": 57
+        },
+        "cycling": {
+          "meters": 4994,
+          "minutes": 29
+        }
+      }
+    }
+  },
+  {
+    "id": "huurwoningen-1549595-willem-parelstraat",
+    "agencyId": "huurwoningen",
+    "url": "https://www.huurwoningen.nl/huren/amsterdam/1549595/willem-parelstraat/",
+    "title": "Appartement Willem Parelstraat in Amsterdam",
+    "available": true,
+    "listingType": "rent",
+    "price": 1850,
+    "priceDisplay": "€ 1.850",
+    "sqm": 85,
+    "bedrooms": 1,
+    "location": {
+      "city": "Amsterdam",
+      "street": "Willem Parelstraat",
+      "postalCode": "1018KZ",
+      "coordinates": {
+        "lat": 52.3704993,
+        "lon": 4.9271129
+      }
+    },
+    "images": [
+      "https://casco-media-prod.global.ssl.fastly.net/listings/api/media/655f6bc5-2cb6-5a8e-8daa-f4c8a4bcb9f9/d26517d3-60a2-58f0-a024-02edf992ea4e?original_uri=https%3A%2F%2Fcms.rebogroep.nl%2Fobjects%2Fverhuur_office%2Fgen-039769-willem-parelstraat-15-25-1018kz-amsterdam%2F2.jpg&width=600&auto=webp"
+    ],
+    "description": "Deze gecombineerde woon-werkwoning aan de Willem Parelstraat in Amsterdam is perfect voor ondernemers. De woning heeft een totale oppervlakte van 85m2, verdeeld over de begane grond en de eerste verdieping. Op de begane grond vindt u de bedrijfsruimte met een aparte entree, en een trap naar de woonruimte op de eerste verdieping, waar een woonkamer met open keuken en 1 slaapkamer ligt. De luxe keuken is uitgerust met moderne inbouwapparatuur. De badkamer beschikt over een douche en wastafel, en e",
+    "features": [],
+    "firstSeen": "2025-12-23T08:31:20.788Z",
+    "lastUpdated": "2025-12-23T08:31:20.788Z",
+    "hash": "ab9099c070db9f0b",
+    "lastScraped": "2025-12-23T08:31:20.788Z",
+    "distanceToPOI": {
+      "amsterdam-centraal": {
+        "walking": {
+          "meters": 2642,
+          "minutes": 35
+        },
+        "cycling": {
+          "meters": 2754,
+          "minutes": 18
+        }
+      }
+    }
   }
 ]
