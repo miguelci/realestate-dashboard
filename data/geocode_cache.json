@@ -590,5 +590,1065 @@
     "lat": 52.4433557,
     "lon": 4.8207809,
     "displayName": "Westzijde, Rosmolenbuurt, Zaandam, Zaanstad, Noord-Holland, Nederland, 1506 EJ, Nederland"
+  },
+  "biesboschstraat, 1078mn amsterdam": {
+    "lat": 52.3452248,
+    "lon": 4.8977454,
+    "displayName": "Biesboschstraat, Scheldebuurt, Rivierenbuurt, Zuid, Amsterdam, Noord-Holland, Nederland, 1078 MV, Nederland"
+  },
+  "jan evertsenstraat, 1061xz amsterdam": {
+    "lat": 52.3699024,
+    "lon": 4.8356009,
+    "displayName": "Jan Evertsenstraat, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1061 XZ, Nederland"
+  },
+  "noorderdwarsstraat, 1017tx amsterdam": {
+    "lat": 52.361449,
+    "lon": 4.8939143,
+    "displayName": "Noorderdwarsstraat, Centrum, Amsterdam, Noord-Holland, Nederland, 1017 TX, Nederland"
+  },
+  "galastraat, 1036la amsterdam": {
+    "lat": 52.4091179,
+    "lon": 4.9046005,
+    "displayName": "Galastraat, De Bongerd, Noord, Amsterdam, Noord-Holland, Nederland, 1036 LA, Nederland"
+  },
+  "rijnlandlaan, 1062mx amsterdam": {
+    "lat": 52.3572546,
+    "lon": 4.839356,
+    "displayName": "Rijnlandlaan, Overtoomse Veld, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1062 MX, Nederland"
+  },
+  "tt. vasumweg, 1033sc amsterdam": {
+    "lat": 52.4052819,
+    "lon": 4.89114,
+    "displayName": "tt. Vasumweg, Cornelis Douwesterrein, Noord, Amsterdam, Noord-Holland, Nederland, 1033 SC, Nederland"
+  },
+  "stadionplein, 1076ck amsterdam": {
+    "lat": 52.3436442,
+    "lon": 4.8571618,
+    "displayName": "Stadionplein, Stadionbuurt, Oud-Zuid, Zuid, Amsterdam, Noord-Holland, Nederland, 1076 CK, Nederland"
+  },
+  "nieuwe laan, 1068ca amsterdam": {
+    "lat": 52.3625351,
+    "lon": 4.8003892,
+    "displayName": "Nieuwe Laan, Osdorp, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1068 MJ, Nederland"
+  },
+  "haringbuisdijk, 1086va amsterdam": {
+    "lat": 52.3637414,
+    "lon": 4.9823277,
+    "displayName": "Haringbuisdijk, Steigereiland-Noord, IJburg, Oost, Amsterdam, Noord-Holland, Nederland, 1086 ZJ, Nederland"
+  },
+  "laan der hesperiden, 1076dx amsterdam": {
+    "lat": 52.3448677,
+    "lon": 4.8536012,
+    "displayName": "Laan der Hesperiden, Stadionbuurt, Oud-Zuid, Zuid, Amsterdam, Noord-Holland, Nederland, 1076 DX, Nederland"
+  },
+  "admiraal de ruijterweg, 1055na amsterdam": {
+    "lat": 52.3812506,
+    "lon": 4.8536359,
+    "displayName": "Admiraal De Ruijterweg, Bosleeuw, Landlust, West, Amsterdam, Noord-Holland, Nederland, 1055 NA, Nederland"
+  },
+  "august allebéplein, 1062ac amsterdam": {
+    "lat": 52.3633357,
+    "lon": 4.8389339,
+    "displayName": "August Allebéplein, Overtoomse Veld, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1062 AA, Nederland"
+  },
+  "mt. lincolnweg, 1033sn amsterdam": {
+    "lat": 52.4037542,
+    "lon": 4.8891758,
+    "displayName": "mt. Lincolnweg, Cornelis Douwesterrein, Noord, Amsterdam, Noord-Holland, Nederland, 1033 SN, Nederland"
+  },
+  "plantage middenlaan, 1018dh amsterdam": {
+    "lat": 52.3656377,
+    "lon": 4.9140381,
+    "displayName": "Plantage Middenlaan, Plantage, Centrum, Amsterdam, Noord-Holland, Nederland, 1018 DH, Nederland"
+  },
+  "jekerstraat, 1078mc amsterdam": {
+    "lat": 52.3460006,
+    "lon": 4.8984232,
+    "displayName": "Jekerstraat, Scheldebuurt, Rivierenbuurt, Zuid, Amsterdam, Noord-Holland, Nederland, 1078 LW, Nederland"
+  },
+  "van oldenbarneveldtstraat, 1052kc amsterdam": {
+    "lat": 52.3751355,
+    "lon": 4.8744539,
+    "displayName": "Van Oldenbarneveldtstraat, Frederik Hendrikbuurt, West, Amsterdam, Noord-Holland, Nederland, 1052 JV, Nederland"
+  },
+  "ottho heldringstraat, 1066xt amsterdam": {
+    "lat": 52.3487847,
+    "lon": 4.8332634,
+    "displayName": "Ottho Heldringstraat, Westlandgracht, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1066 XT, Nederland"
+  },
+  "ceintuurbaan, 1072ew amsterdam": {
+    "lat": 52.3527403,
+    "lon": 4.8902795,
+    "displayName": "Ceintuurbaan, Zuid, Amsterdam, Noord-Holland, Nederland, 1072 EW, Nederland"
+  },
+  "delflandplein, 1062ht amsterdam": {
+    "lat": 52.349124,
+    "lon": 4.8404927,
+    "displayName": "Delflandplein, Nieuw-West, Amsterdam, Noord-Holland, Nederland"
+  },
+  "wielingenstraat, 1078kl amsterdam": {
+    "lat": 52.3443733,
+    "lon": 4.887515,
+    "displayName": "Wielingenstraat, Beethoven, Zuidas, Zuid, Amsterdam, Noord-Holland, Nederland, 1078 KL, Nederland"
+  },
+  "tolstraat, 1073se amsterdam": {
+    "lat": 52.35205,
+    "lon": 4.9022159,
+    "displayName": "Tolstraat, Diamantbuurt, De Pijp, Zuid, Amsterdam, Noord-Holland, Nederland, 1073 RZ, Nederland"
+  },
+  "mariotteplein, 1098nw amsterdam": {
+    "lat": 52.3519734,
+    "lon": 4.9392733,
+    "displayName": "Mariotteplein, Middenmeer, Oost, Amsterdam, Noord-Holland, Nederland, 1098 NW, Nederland"
+  },
+  "nassaukade, 1053lk amsterdam": {
+    "lat": 52.3717643,
+    "lon": 4.874116,
+    "displayName": "Nassaukade, Oud-West, West, Amsterdam, Noord-Holland, Nederland, 1052 EJ, Nederland"
+  },
+  "badhuiskade, 1031kv amsterdam": {
+    "lat": 52.3854033,
+    "lon": 4.9063132,
+    "displayName": "Badhuiskade, Overhoeks, Noord, Amsterdam, Noord-Holland, Nederland, 1031 KV, Nederland"
+  },
+  "alexander boersstraat, 1071kz amsterdam": {
+    "lat": 52.3576422,
+    "lon": 4.8780624,
+    "displayName": "Alexander Boersstraat, Museumkwartier, Oud-Zuid, Zuid, Amsterdam, Noord-Holland, Nederland, 1071 GN, Nederland"
+  },
+  "lijnbaansgracht, 1015gz amsterdam": {
+    "lat": 52.3752017,
+    "lon": 4.8777527,
+    "displayName": "Lijnbaansgracht, Jordaan, Centrum, Amsterdam, Noord-Holland, Nederland, 1015 GZ, Nederland"
+  },
+  "eerste helmersstraat, 1054er amsterdam": {
+    "lat": 52.3598538,
+    "lon": 4.8606771,
+    "displayName": "Eerste Helmersstraat, Oud-West, West, Amsterdam, Noord-Holland, Nederland, 1054 ED, Nederland"
+  },
+  "kinkerstraat, 1053ga amsterdam": {
+    "lat": 52.3656939,
+    "lon": 4.8663692,
+    "displayName": "Kinkerstraat, West, Amsterdam, Noord-Holland, Nederland"
+  },
+  "admiraal de ruijterweg, 1055ms amsterdam": {
+    "lat": 52.3797397,
+    "lon": 4.8561027,
+    "displayName": "Admiraal De Ruijterweg, Bosleeuw, Landlust, West, Amsterdam, Noord-Holland, Nederland, 1055 MS, Nederland"
+  },
+  "sloterkade, 1058hn amsterdam": {
+    "lat": 52.3500251,
+    "lon": 4.8516854,
+    "displayName": "Sloterkade, Hoofddorppleinbuurt, Oud-Zuid, Zuid, Amsterdam, Noord-Holland, Nederland, 1059 EB, Nederland"
+  },
+  "jan van galenstraat, 1061az amsterdam": {
+    "lat": 52.3726582,
+    "lon": 4.8352937,
+    "displayName": "Jan van Galenstraat, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1064 BM, Nederland"
+  },
+  "derkinderenstraat, 1061vt amsterdam": {
+    "lat": 52.3681623,
+    "lon": 4.8402971,
+    "displayName": "Derkinderenstraat, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1061 VV, Nederland"
+  },
+  "elizabeth cady stantonplein, 1102bl amsterdam": {
+    "lat": 52.316073,
+    "lon": 4.9527483,
+    "displayName": "Elizabeth Cady Stantonplein, D-buurt, Zuidoost, Amsterdam, Noord-Holland, Nederland, 1102 BL, Nederland"
+  },
+  "quellijnstraat, 1072xw amsterdam": {
+    "lat": 52.3568233,
+    "lon": 4.8897231,
+    "displayName": "Quellijnstraat, Oude Pijp, De Pijp, Zuid, Amsterdam, Noord-Holland, Nederland, 1072 XW, Nederland"
+  },
+  "weteringschans, 1017xg amsterdam": {
+    "lat": 52.3594383,
+    "lon": 4.8946795,
+    "displayName": "Weteringschans, Centrum, Amsterdam, Noord-Holland, Nederland, 1017 XH, Nederland"
+  },
+  "uiterwaardenstraat, 1079dd amsterdam": {
+    "lat": 52.3417675,
+    "lon": 4.8952041,
+    "displayName": "Uiterwaardenstraat, Scheldebuurt, Rivierenbuurt, Zuid, Amsterdam, Noord-Holland, Nederland, 1079 BA, Nederland"
+  },
+  "columbusplein, 1057tz amsterdam": {
+    "lat": 52.3657783,
+    "lon": 4.8549948,
+    "displayName": "Columbusplein, Hoofdweg e.o., De Baarsjes, West, Amsterdam, Noord-Holland, Nederland, 1057 TX, Nederland"
+  },
+  "bella vistastraat, 1096gm amsterdam": {
+    "lat": 52.3384379,
+    "lon": 4.9174328,
+    "displayName": "Bella Vistastraat, Bajeskwartier, Oost, Amsterdam, Noord-Holland, Nederland, 1096 GE, Nederland"
+  },
+  "ombilinstraat, 1094nv amsterdam": {
+    "lat": 52.3585842,
+    "lon": 4.9391416,
+    "displayName": "Ombilinstraat, Indische Buurt, Oost, Amsterdam, Noord-Holland, Nederland, 1094 NV, Nederland"
+  },
+  "tt. vasumweg, 1033se amsterdam": {
+    "lat": 52.4053448,
+    "lon": 4.8910379,
+    "displayName": "tt. Vasumweg, Cornelis Douwesterrein, Noord, Amsterdam, Noord-Holland, Nederland, 1033 SE, Nederland"
+  },
+  "suze robertsonstraat, 1062bw amsterdam": {
+    "lat": 52.360773,
+    "lon": 4.8393675,
+    "displayName": "Suze Robertsonstraat, Overtoomse Veld, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1062 BX, Nederland"
+  },
+  "bijlmerdreef, 1103ta amsterdam": {
+    "lat": 52.3193107,
+    "lon": 4.964154,
+    "displayName": "Bijlmerdreef, Bijlmer, Zuidoost, Amsterdam, Noord-Holland, Nederland, 1103 TA, Nederland"
+  },
+  "wilhelmina druckerstraat, 1066ad amsterdam": {
+    "lat": 52.349984,
+    "lon": 4.8294842,
+    "displayName": "Wilhelmina Druckerstraat, Park Haagseweg, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1066 AB, Nederland"
+  },
+  "fridtjof nansenhof, 1056an amsterdam": {
+    "lat": 52.3726712,
+    "lon": 4.8446138,
+    "displayName": "Fridtjof Nansenhof, Erasmuspark, West, Amsterdam, Noord-Holland, Nederland, 1056 AN, Nederland"
+  },
+  "prinsengracht, 1017jt amsterdam": {
+    "lat": 52.3626255,
+    "lon": 4.8877467,
+    "displayName": "Prinsengracht, Centrum, Amsterdam, Noord-Holland, Nederland, 1017 JR, Nederland"
+  },
+  "rengerskerkestraat, 1069hv amsterdam": {
+    "lat": 52.3545153,
+    "lon": 4.7938806,
+    "displayName": "Rengerskerkestraat, Osdorp, Nieuw-West, Sloten, Amsterdam, Noord-Holland, Nederland, 1069 HT, Nederland"
+  },
+  "slootdorpstraat, 1024jj amsterdam": {
+    "lat": 52.3938565,
+    "lon": 4.9591519,
+    "displayName": "Slootdorpstraat, Nieuwendam, Noord, Schellingwoude, Amsterdam, Noord-Holland, Nederland, 1024 JJ, Nederland"
+  },
+  "werfstraat, 1033sw amsterdam": {
+    "lat": 52.4034334,
+    "lon": 4.8876964,
+    "displayName": "Werfstraat, Cornelis Douwesterrein, Noord, Amsterdam, Noord-Holland, Nederland, 1033 SW, Nederland"
+  },
+  "maria austriastraat, 1087jb amsterdam": {
+    "lat": 52.3544101,
+    "lon": 4.9995562,
+    "displayName": "Maria Austriastraat, IJburg, Oost, Amsterdam, Noord-Holland, Nederland, 1087 JC, Nederland"
+  },
+  "blankenstraat, 1018rr amsterdam": {
+    "lat": 52.3701652,
+    "lon": 4.930378,
+    "displayName": "Blankenstraat, Czaar Peterbuurt, Oostelijke Eilanden, Centrum, Amsterdam, Noord-Holland, Nederland, 1018 RV, Nederland"
+  },
+  "windjammerdijk, 1086vc amsterdam": {
+    "lat": 52.3648229,
+    "lon": 4.9872972,
+    "displayName": "Windjammerdijk, Steigereiland-Noord, IJburg, Oost, Durgerdam, Amsterdam, Noord-Holland, Nederland, 1086 VC, Nederland"
+  },
+  "heathrowstraat, 1043ch amsterdam": {
+    "lat": 52.3859517,
+    "lon": 4.8330739,
+    "displayName": "Heathrowstraat, Teleport, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1043 CE, Nederland"
+  },
+  "osdorpplein, 1068tb amsterdam": {
+    "lat": 52.3587613,
+    "lon": 4.8048016,
+    "displayName": "Osdorpplein, Nieuw-West, Amsterdam, Noord-Holland, Nederland"
+  },
+  "pettenstraat, 1024cr amsterdam": {
+    "lat": 52.3976171,
+    "lon": 4.9534523,
+    "displayName": "Pettenstraat, Waterlandpleinbuurt, Noord, Zunderdorp, Amsterdam, Noord-Holland, Nederland, 1024 CS, Nederland"
+  },
+  "blauwvoetstraat, 1061bx amsterdam": {
+    "lat": 52.3771921,
+    "lon": 4.8394718,
+    "displayName": "Blauwvoetstraat, Bosleeuw, Kolenkitbuurt, West, Amsterdam, Noord-Holland, Nederland, 1061 BM, Nederland"
+  },
+  "bert haanstrakade, 1087hj amsterdam": {
+    "lat": 52.3550362,
+    "lon": 5.0047151,
+    "displayName": "Bert Haanstrakade, IJburg, Oost, Amsterdam, Noord-Holland, Nederland, 1087 HJ, Nederland"
+  },
+  "sijsjesstraat, 1021cv amsterdam": {
+    "lat": 52.3865406,
+    "lon": 4.9170226,
+    "displayName": "Sijsjesstraat, Vogelbuurt, Noord, Amsterdam, Noord-Holland, Nederland, 1021 CV, Nederland"
+  },
+  "hugo de vrieslaan, 1097ed amsterdam": {
+    "lat": 52.3459365,
+    "lon": 4.9210377,
+    "displayName": "Hugo de Vrieslaan, Oost, Amsterdam, Noord-Holland, Nederland, 1097 MJ, Nederland"
+  },
+  "dr. h. colijnstraat, 1067ch amsterdam": {
+    "lat": 52.3784931,
+    "lon": 4.8065529,
+    "displayName": "Doctor H. Colijnstraat, Geuzenveld, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1067 CC, Nederland"
+  },
+  "eva besnyöstraat, 1087lm amsterdam": {
+    "lat": 52.3485587,
+    "lon": 5.010558,
+    "displayName": "Eva Besnyöstraat, IJburg, Oost, Amsterdam, Noord-Holland, Nederland, 1087 LM, Nederland"
+  },
+  "hakfort, 1102la amsterdam": {
+    "lat": 52.3058466,
+    "lon": 4.9578848,
+    "displayName": "Hakfort, H-Buurt, Zuidoost, Amsterdam, Noord-Holland, Nederland, 1102 LA, Nederland"
+  },
+  "soerapatistraat, 1018pn amsterdam": {
+    "lat": 52.3723985,
+    "lon": 4.9274574,
+    "displayName": "Soerapatistraat, Oostenburg, Oostelijke Eilanden, Centrum, Amsterdam, Noord-Holland, Nederland, 1018 PN, Nederland"
+  },
+  "hamontstraat, 1066ng amsterdam": {
+    "lat": 52.3482823,
+    "lon": 4.8118719,
+    "displayName": "Hamontstraat, Nieuw-Sloten, Nieuw-West, Sloten, Amsterdam, Noord-Holland, Nederland, 1066 NG, Nederland"
+  },
+  "stadionkade, 1076bk amsterdam": {
+    "lat": 52.3440314,
+    "lon": 4.8664208,
+    "displayName": "Stadionkade, Stadionbuurt, Oud-Zuid, Zuid, Amsterdam, Noord-Holland, Nederland, 1076 BK, Nederland"
+  },
+  "sumatrakade, 1019rm amsterdam": {
+    "lat": 52.3797564,
+    "lon": 4.9249621,
+    "displayName": "Sumatrakade, Java-eiland, Oostelijk Havengebied, Oost, Amsterdam, Noord-Holland, Nederland, 1019 RM, Nederland"
+  },
+  "burgemeester hogguerstraat, 1064eb amsterdam": {
+    "lat": 52.3727552,
+    "lon": 4.8299864,
+    "displayName": "Burgemeester Hogguerstraat, Slotermeer, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1064 EB, Nederland"
+  },
+  "eerste jan van der heijdenstraat, 1072vd amsterdam": {
+    "lat": 52.3534101,
+    "lon": 4.8905514,
+    "displayName": "Eerste Jan van der Heijdenstraat, Oude Pijp, De Pijp, Zuid, Amsterdam, Noord-Holland, Nederland, 1072 LP, Nederland"
+  },
+  "carolina macgillavrylaan, 1098xc amsterdam": {
+    "lat": 52.3568187,
+    "lon": 4.9460087,
+    "displayName": "Carolina MacGillavrylaan, Oost, Amsterdam, Noord-Holland, Nederland, 1098 XC, Nederland"
+  },
+  "louise marie loeberplantsoen, 1062dd amsterdam": {
+    "lat": 52.361219,
+    "lon": 4.8373645,
+    "displayName": "Louise Marie Loeberplantsoen, Stadstuin Overtoom, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1062 DD, Nederland"
+  },
+  "sint-truidenstraat, 1066jp amsterdam": {
+    "lat": 52.3436862,
+    "lon": 4.8124947,
+    "displayName": "Sint-Truidenstraat, Sloterpolder, Nieuw-West, Sloten, Amsterdam, Noord-Holland, Nederland, 1066 JP, Nederland"
+  },
+  "waterlandplein, 1024nb amsterdam": {
+    "lat": 52.3928664,
+    "lon": 4.9548885,
+    "displayName": "Waterlandplein, Nieuwendam, Noord, Schellingwoude, Amsterdam, Noord-Holland, Nederland, 1024 NB, Nederland"
+  },
+  "mercatorstraat, 1056rg amsterdam": {
+    "lat": 52.3704469,
+    "lon": 4.8511111,
+    "displayName": "Mercatorstraat, Van Galenbuurt, De Baarsjes, West, Amsterdam, Noord-Holland, Nederland, 1056 CL, Nederland"
+  },
+  "madurastraat, 1094gm amsterdam": {
+    "lat": 52.3642999,
+    "lon": 4.9343025,
+    "displayName": "Madurastraat, Indische Buurt, Oost, Amsterdam, Noord-Holland, Nederland, 1094 GR, Nederland"
+  },
+  "marchanthof, 1067mj amsterdam": {
+    "lat": 52.3798044,
+    "lon": 4.7962351,
+    "displayName": "Marchanthof, Geuzenveld, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1067 MJ, Nederland"
+  },
+  "overslaghof, 1034se amsterdam": {
+    "lat": 52.4093917,
+    "lon": 4.9186529,
+    "displayName": "Overslaghof, Banne Buiksloot, Noord, Amsterdam, Noord-Holland, Nederland, 1034 RZ, Nederland"
+  },
+  "eerste helmersstraat, 1054ds amsterdam": {
+    "lat": 52.3615901,
+    "lon": 4.8678163,
+    "displayName": "Eerste Helmersstraat, Helmersbuurt, Oud-West, West, Amsterdam, Noord-Holland, Nederland, 1054 DV, Nederland"
+  },
+  "osdorper ban, 1068ld amsterdam": {
+    "lat": 52.3629508,
+    "lon": 4.8040499,
+    "displayName": "Osdorper Ban, Osdorp, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1068 LD, Nederland"
+  },
+  "vechtstraat, 1078rj amsterdam": {
+    "lat": 52.3465424,
+    "lon": 4.9061303,
+    "displayName": "Vechtstraat, Zuid, Amsterdam, Noord-Holland, Nederland, 1078 PP, Nederland"
+  },
+  "nieuwe osdorpergracht, 1068hv amsterdam": {
+    "lat": 52.3566564,
+    "lon": 4.8044268,
+    "displayName": "Nieuwe Osdorpergracht, Osdorp, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1068 HV, Nederland"
+  },
+  "tourniairestraat, 1065kk amsterdam": {
+    "lat": 52.3555484,
+    "lon": 4.8240443,
+    "displayName": "Tourniairestraat, Slotervaart, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1065 KK, Nederland"
+  },
+  "curaçaostraat, 1058cc amsterdam": {
+    "lat": 52.3616765,
+    "lon": 4.8519887,
+    "displayName": "Curaçaostraat, Westindische Buurt, De Baarsjes, West, Amsterdam, Noord-Holland, Nederland, 1058 BR, Nederland"
+  },
+  "emmy andriessestraat, 1087ml amsterdam": {
+    "lat": 52.3491636,
+    "lon": 5.0063674,
+    "displayName": "Emmy Andriessestraat, IJburg, Oost, Amsterdam, Noord-Holland, Nederland, 1087 ML, Nederland"
+  },
+  "osdorpplein, 1068sp amsterdam": {
+    "lat": 52.3587613,
+    "lon": 4.8048016,
+    "displayName": "Osdorpplein, Nieuw-West, Amsterdam, Noord-Holland, Nederland"
+  },
+  "boeninlaan, 1102tk amsterdam": {
+    "lat": 52.319569,
+    "lon": 4.9435406,
+    "displayName": "Boeninlaan, Venserpolder, Zuidoost, Amsterdam, Noord-Holland, Nederland, 1102 VJ, Nederland"
+  },
+  "polderweg, 1093kl amsterdam": {
+    "lat": 52.3576473,
+    "lon": 4.9289527,
+    "displayName": "Polderweg, Oostpoort, Oost, Amsterdam, Noord-Holland, Nederland, 1093 KL, Nederland"
+  },
+  "dr. h. colijnstraat, 1067cp amsterdam": {
+    "lat": 52.3815103,
+    "lon": 4.8064901,
+    "displayName": "Doctor H. Colijnstraat, Geuzenveld, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1067 CE, Nederland"
+  },
+  "mosveld, 1032gg amsterdam": {
+    "lat": 52.3915489,
+    "lon": 4.9146667,
+    "displayName": "Mosveld, Florabuurt, Noord, Amsterdam, Noord-Holland, Nederland, 1032 GA, Nederland"
+  },
+  "osdorpplein, 1068tc amsterdam": {
+    "lat": 52.3587613,
+    "lon": 4.8048016,
+    "displayName": "Osdorpplein, Nieuw-West, Amsterdam, Noord-Holland, Nederland"
+  },
+  "emilie knappertstraat, 1066ae amsterdam": {
+    "lat": 52.3501351,
+    "lon": 4.8289874,
+    "displayName": "Emilie Knappertstraat, Park Haagseweg, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1066 XC, Nederland"
+  },
+  "bert haanstrakade, 1087hr amsterdam": {
+    "lat": 52.3531785,
+    "lon": 5.0081435,
+    "displayName": "Bert Haanstrakade, IJburg, Oost, Amsterdam, Noord-Holland, Nederland, 1087 HR, Nederland"
+  },
+  "javastraat, 1094hb amsterdam": {
+    "lat": 52.3637389,
+    "lon": 4.9348721,
+    "displayName": "Javastraat, Indische Buurt, Oost, Amsterdam, Noord-Holland, Nederland, 1094 HL, Nederland"
+  },
+  "knsm-laan, 1019lp amsterdam": {
+    "lat": 52.3770611,
+    "lon": 4.9409888,
+    "displayName": "KNSM-laan, KNSM-eiland, Oostelijk Havengebied, Oost, Amsterdam, Noord-Holland, Nederland, 1019 LN, Nederland"
+  },
+  "krijn taconiskade, 1087hw amsterdam": {
+    "lat": 52.3524326,
+    "lon": 5.0046369,
+    "displayName": "Krijn Taconiskade, IJburg, Oost, Amsterdam, Noord-Holland, Nederland, 1087 KR, Nederland"
+  },
+  "tussen meer, 1068ez amsterdam": {
+    "lat": 52.3583883,
+    "lon": 4.8013355,
+    "displayName": "Tussen Meer, Winkelcentrum Osdorp, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1068 EX, Nederland"
+  },
+  "develstein, 1102ak amsterdam": {
+    "lat": 52.3227129,
+    "lon": 4.9558019,
+    "displayName": "Develstein, F-buurt, Zuidoost, Amsterdam, Noord-Holland, Nederland, 1102 AK, Nederland"
+  },
+  "hestiastraat, 1076dm amsterdam": {
+    "lat": 52.3456791,
+    "lon": 4.8561332,
+    "displayName": "Hestiastraat, Stadionbuurt, Oud-Zuid, Zuid, Amsterdam, Noord-Holland, Nederland, 1076 DM, Nederland"
+  },
+  "voornestraat, 1025nm amsterdam": {
+    "lat": 52.3933048,
+    "lon": 4.9296312,
+    "displayName": "Voornestraat, Tuindorp Buiksloot, Noord, Amsterdam, Noord-Holland, Nederland, 1025 NM, Nederland"
+  },
+  "haarlemmerplein, 1013hs amsterdam": {
+    "lat": 52.3846142,
+    "lon": 4.8837172,
+    "displayName": "Haarlemmerplein, Haarlemmerbuurt, Centrum, Amsterdam, Noord-Holland, Nederland, 1013 HP, Nederland"
+  },
+  "eef kamerbeekstraat, 1095mp amsterdam": {
+    "lat": 52.3722836,
+    "lon": 4.9663585,
+    "displayName": "Eef Kamerbeekstraat, Sportheldenbuurt, Zeeburgereiland, Oost, Schellingwoude, Amsterdam, Noord-Holland, Nederland, 1095 MZ, Nederland"
+  },
+  "van hogendorpstraat, 1051bj amsterdam": {
+    "lat": 52.3841548,
+    "lon": 4.8760065,
+    "displayName": "Van Hogendorpstraat, Staatsliedenbuurt, West, Amsterdam, Noord-Holland, Nederland, 1051 BJ, Nederland"
+  },
+  "anton de komplein, 1102cw amsterdam": {
+    "lat": 52.3158404,
+    "lon": 4.9558218,
+    "displayName": "Anton de Komplein, F-buurt, Zuidoost, Amsterdam, Noord-Holland, Nederland, 1102 CW, Nederland"
+  },
+  "hoogte kadijk, 1018bn amsterdam": {
+    "lat": 52.3679588,
+    "lon": 4.919264,
+    "displayName": "Hoogte Kadijk, Kadijken, Centrum, Amsterdam, Noord-Holland, Nederland, 1018 BW, Nederland"
+  },
+  "marchanthof, 1067mk amsterdam": {
+    "lat": 52.3795371,
+    "lon": 4.7951776,
+    "displayName": "Marchanthof, De Eendracht, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1067 MG, Nederland"
+  },
+  "feike de boerlaan, 1019mr amsterdam": {
+    "lat": 52.3714883,
+    "lon": 4.9436314,
+    "displayName": "Feike de Boerlaan, Borneo-eiland, Oostelijk Havengebied, Oost, Schellingwoude, Amsterdam, Noord-Holland, Nederland, 1019 MR, Nederland"
+  },
+  "tweede van swindenstraat, 1093xa amsterdam": {
+    "lat": 52.362545,
+    "lon": 4.9294397,
+    "displayName": "Tweede van Swindenstraat, Dapperbuurt, Oost, Amsterdam, Noord-Holland, Nederland, 1093 VM, Nederland"
+  },
+  "stenghof, 1034nr amsterdam": {
+    "lat": 52.4114861,
+    "lon": 4.9246274,
+    "displayName": "Stenghof, Banne Buiksloot, Noord, Amsterdam, Noord-Holland, Nederland, 1034 NS, Nederland"
+  },
+  "frans halsstraat, 1072bm amsterdam": {
+    "lat": 52.3565794,
+    "lon": 4.8887274,
+    "displayName": "Frans Halsstraat, Oude Pijp, De Pijp, Zuid, Amsterdam, Noord-Holland, Nederland, 1072 BT, Nederland"
+  },
+  "eerste sweelinckstraat, 1073cm amsterdam": {
+    "lat": 52.356304,
+    "lon": 4.8975404,
+    "displayName": "Eerste Sweelinckstraat, Oude Pijp, De Pijp, Zuid, Amsterdam, Noord-Holland, Nederland, 1073 CK, Nederland"
+  },
+  "olmenweg, 1091kp amsterdam": {
+    "lat": 52.3546824,
+    "lon": 4.9149629,
+    "displayName": "Olmenweg, Oosterparkbuurt, Oost, Amsterdam, Noord-Holland, Nederland, 1091 KP, Nederland"
+  },
+  "van effenstraat, 1053bt amsterdam": {
+    "lat": 52.3659579,
+    "lon": 4.8627872,
+    "displayName": "Van Effenstraat, Oud-West, West, Amsterdam, Noord-Holland, Nederland, 1053 BT, Nederland"
+  },
+  "van boetzelaerstraat, 1051cv amsterdam": {
+    "lat": 52.3826174,
+    "lon": 4.8743802,
+    "displayName": "Van Boetzelaerstraat, Staatsliedenbuurt, West, Amsterdam, Noord-Holland, Nederland, 1051 CV, Nederland"
+  },
+  "insulindeweg, 1094pc amsterdam": {
+    "lat": 52.3611474,
+    "lon": 4.9364867,
+    "displayName": "Insulindeweg, Indische Buurt, Oost, Amsterdam, Noord-Holland, Nederland, 1094 PC, Nederland"
+  },
+  "groeneveen, 1103ee amsterdam": {
+    "lat": 52.3215129,
+    "lon": 4.9727163,
+    "displayName": "Groeneveen, G-buurt, Zuidoost, Amsterdam, Noord-Holland, Nederland, 1103 EA, Nederland"
+  },
+  "egelantiersgracht, 1015rd amsterdam": {
+    "lat": 52.3759103,
+    "lon": 4.8815608,
+    "displayName": "Egelantiersgracht, Jordaan, Centrum, Amsterdam, Noord-Holland, Nederland, 1015 RE, Nederland"
+  },
+  "pieter van der doesstraat, 1056vc amsterdam": {
+    "lat": 52.3738887,
+    "lon": 4.8578876,
+    "displayName": "Pieter van der Doesstraat, Chassébuurt, De Baarsjes, West, Amsterdam, Noord-Holland, Nederland, 1056 VL, Nederland"
+  },
+  "leidsekade, 1017pn amsterdam": {
+    "lat": 52.3641152,
+    "lon": 4.8800094,
+    "displayName": "Leidsekade, Centrum, Amsterdam, Noord-Holland, Nederland, 1017 PN, Nederland"
+  },
+  "rupelmonde, 1081gs amsterdam": {
+    "lat": 52.3278433,
+    "lon": 4.8591229,
+    "displayName": "Rupelmonde, Buitenveldert-West, Buitenveldert, Zuid, Amsterdam, Noord-Holland, Nederland, 1081 GS, Nederland"
+  },
+  "spadinalaan, 1031kb amsterdam": {
+    "lat": 52.3869798,
+    "lon": 4.902607,
+    "displayName": "Spadinalaan, Overhoeks, Noord, Amsterdam, Noord-Holland, Nederland, 1031 KB, Nederland"
+  },
+  "hagenau, 1025ct amsterdam": {
+    "lat": 52.4003436,
+    "lon": 4.9401176,
+    "displayName": "Hagenau, Buikslotermeer, Noord, Amsterdam, Noord-Holland, Nederland, 1025 CS, Nederland"
+  },
+  "bovenover, 1025jn amsterdam": {
+    "lat": 52.3971521,
+    "lon": 4.933357,
+    "displayName": "Bovenover, Buikslotermeer, Plan van Gool, Noord, Amsterdam, Noord-Holland, Nederland, 1025 JX, Nederland"
+  },
+  "wijenburg, 1082vp amsterdam": {
+    "lat": 52.3320053,
+    "lon": 4.8720705,
+    "displayName": "Wijenburg, Buitenveldert-West, Buitenveldert, Zuid, Amsterdam, Noord-Holland, Nederland, 1082 VP, Nederland"
+  },
+  "nassaukade, 1053lw amsterdam": {
+    "lat": 52.3676685,
+    "lon": 4.8768524,
+    "displayName": "Nassaukade, Van Lennepbuurt, West, Amsterdam, Noord-Holland, Nederland, 1053 LX, Nederland"
+  },
+  "borssenburgstraat, 1078vd amsterdam": {
+    "lat": 52.3486027,
+    "lon": 4.9060891,
+    "displayName": "Borssenburgstraat, IJselbuurt, Rivierenbuurt, Zuid, Amsterdam, Noord-Holland, Nederland, 1078 VB, Nederland"
+  },
+  "wagenaarstraat, 1093cl amsterdam": {
+    "lat": 52.3632419,
+    "lon": 4.9270668,
+    "displayName": "Wagenaarstraat, Dapperbuurt, Oost, Amsterdam, Noord-Holland, Nederland, 1093 CV, Nederland"
+  },
+  "eerste jan steenstraat, 1072na amsterdam": {
+    "lat": 52.3537679,
+    "lon": 4.8888047,
+    "displayName": "Eerste Jan Steenstraat, Oude Pijp, De Pijp, Zuid, Amsterdam, Noord-Holland, Nederland, 1072 NB, Nederland"
+  },
+  "van suchtelen van de haarestraat, 1068gr amsterdam": {
+    "lat": 52.3570717,
+    "lon": 4.8024362,
+    "displayName": "Van Suchtelen van de Haarestraat, Osdorp, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1068 GR, Nederland"
+  },
+  "bestevâerstraat, 1056hp amsterdam": {
+    "lat": 52.3734974,
+    "lon": 4.8599977,
+    "displayName": "Bestevâerstraat, Chassébuurt, De Baarsjes, West, Amsterdam, Noord-Holland, Nederland, 1056 HG, Nederland"
+  },
+  "lauriergracht, 1016rj amsterdam": {
+    "lat": 52.3710974,
+    "lon": 4.8796074,
+    "displayName": "Lauriergracht, Jordaan, Centrum, Amsterdam, Noord-Holland, Nederland, 1016 RH, Nederland"
+  },
+  "henk henriëtstraat, 1061vb amsterdam": {
+    "lat": 52.3677771,
+    "lon": 4.837719,
+    "displayName": "Henk Henriëtstraat, Overtoomse Veld, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1061 VB, Nederland"
+  },
+  "berzeliusstraat, 1097jz amsterdam": {
+    "lat": 52.3490769,
+    "lon": 4.9330302,
+    "displayName": "Berzeliusstraat, Frankendael, Oost, Amsterdam, Noord-Holland, Nederland, 1097 EG, Nederland"
+  },
+  "maria montessoristraat, 1068pd amsterdam": {
+    "lat": 52.3517276,
+    "lon": 4.8058848,
+    "displayName": "Maria Montessoristraat, Nieuw-Sloten, Nieuw-West, Sloten, Amsterdam, Noord-Holland, Nederland, 1068 KE, Nederland"
+  },
+  "amstelveenseweg, 1075xb amsterdam": {
+    "lat": 52.3384028,
+    "lon": 4.8575769,
+    "displayName": "Amstelveenseweg, Fred Roeske, Zuidas, Zuid, Amsterdam, Noord-Holland, Nederland, 1076 GR, Nederland"
+  },
+  "limmenstraat, 1024mk amsterdam": {
+    "lat": 52.3932837,
+    "lon": 4.9568318,
+    "displayName": "Limmenstraat, Nieuwendam, Noord, Schellingwoude, Amsterdam, Noord-Holland, Nederland, 1024 JD, Nederland"
+  },
+  "opheusdenhof, 1106tp amsterdam": {
+    "lat": 52.297179,
+    "lon": 4.9620846,
+    "displayName": "Opheusdenhof, Holendrecht, Zuidoost, Amsterdam, Noord-Holland, Nederland, 1106 TP, Nederland"
+  },
+  "charlotte de bourbonstraat, 1055wv amsterdam": {
+    "lat": 52.3803209,
+    "lon": 4.8583875,
+    "displayName": "Charlotte de Bourbonstraat, Landlust, West, Amsterdam, Noord-Holland, Nederland, 1055 WR, Nederland"
+  },
+  "borneolaan, 1019kl amsterdam": {
+    "lat": 52.3708729,
+    "lon": 4.9372107,
+    "displayName": "Borneolaan, Oostelijk Havengebied, Oost, Amsterdam, Noord-Holland, Nederland, 1019 KK, Nederland"
+  },
+  "martini van geffenstraat, 1068gl amsterdam": {
+    "lat": 52.3574967,
+    "lon": 4.8027616,
+    "displayName": "Martini van Geffenstraat, Osdorp, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1068 GV, Nederland"
+  },
+  "amstelvlietstraat, 1096gg amsterdam": {
+    "lat": 52.3386839,
+    "lon": 4.9189743,
+    "displayName": "Amstelvlietstraat, Bajeskwartier, Oost, Amsterdam, Noord-Holland, Nederland, 1096 GG, Nederland"
+  },
+  "huidekoperstraat, 1017zm amsterdam": {
+    "lat": 52.3598661,
+    "lon": 4.8973972,
+    "displayName": "Huidekoperstraat, Centrum, Amsterdam, Noord-Holland, Nederland, 1017 ZM, Nederland"
+  },
+  "akersingel, 1060nk amsterdam": {
+    "lat": 52.352938,
+    "lon": 4.7763943,
+    "displayName": "Akersingel, De Aker, Nieuw-West, Sloten, Amsterdam, Noord-Holland, Nederland, 1060 NE, Nederland"
+  },
+  "tweede nassaustraat, 1052bn amsterdam": {
+    "lat": 52.3825436,
+    "lon": 4.8781351,
+    "displayName": "Tweede Nassaustraat, Staatsliedenbuurt, West, Amsterdam, Noord-Holland, Nederland, 1052 AP, Nederland"
+  },
+  "zaandammerplein, 1013zg amsterdam": {
+    "lat": 52.3923443,
+    "lon": 4.8739728,
+    "displayName": "Zaandammerplein, Spaarndammerbuurt, West, Amsterdam, Noord-Holland, Nederland, 1013 ZG, Nederland"
+  },
+  "th. k. van lohuizenlaan, 1095dw amsterdam": {
+    "lat": 52.3663084,
+    "lon": 4.9462194,
+    "displayName": "Th. K. van Lohuizenlaan, Indische Buurt, Oost, Amsterdam, Noord-Holland, Nederland, 1095 DW, Nederland"
+  },
+  "jacob van lennepkade, 1054zr amsterdam": {
+    "lat": 52.3621782,
+    "lon": 4.8608571,
+    "displayName": "Jacob van Lennepkade, Oud-West, West, Amsterdam, Noord-Holland, Nederland, 1054 ZS, Nederland"
+  },
+  "henriëtte ronnerplein, 1073kw amsterdam": {
+    "lat": 52.3495444,
+    "lon": 4.9005378,
+    "displayName": "Henriëtte Ronnerplein, Diamantbuurt, De Pijp, Zuid, Amsterdam, Noord-Holland, Nederland, 1073 KW, Nederland"
+  },
+  "amstelveenseweg, 1075xd amsterdam": {
+    "lat": 52.3384028,
+    "lon": 4.8575769,
+    "displayName": "Amstelveenseweg, Fred Roeske, Zuidas, Zuid, Amsterdam, Noord-Holland, Nederland, 1076 GR, Nederland"
+  },
+  "insulindeweg, 1095cz amsterdam": {
+    "lat": 52.3621559,
+    "lon": 4.9421131,
+    "displayName": "Insulindeweg, Indische Buurt, Oost, Amsterdam, Noord-Holland, Nederland, 1095 CX, Nederland"
+  },
+  "faas wilkesstraat, 1095md amsterdam": {
+    "lat": 52.3736504,
+    "lon": 4.967197,
+    "displayName": "Faas Wilkesstraat, Sportheldenbuurt, Zeeburgereiland, Oost, Schellingwoude, Amsterdam, Noord-Holland, Nederland, 1095 MD, Nederland"
+  },
+  "rosmolen, 1035cb amsterdam": {
+    "lat": 52.4188231,
+    "lon": 4.891892,
+    "displayName": "Rosmolen, Molenwijkpark, Noord, Amsterdam, Noord-Holland, Nederland, 1035 CD, Nederland"
+  },
+  "mendes da costahof, 1067zn amsterdam": {
+    "lat": 52.3764814,
+    "lon": 4.7990866,
+    "displayName": "Mendes da Costahof, Geuzenveld, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1067 ZN, Nederland"
+  },
+  "jan tooropstraat, 1061ae amsterdam": {
+    "lat": 52.3699616,
+    "lon": 4.837318,
+    "displayName": "Jan Tooropstraat, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1061 AE, Nederland"
+  },
+  "nieuwersluishof, 1106pr amsterdam": {
+    "lat": 52.3014293,
+    "lon": 4.9580913,
+    "displayName": "Nieuwersluishof, Zuidoost, Amsterdam, Noord-Holland, Nederland, 1106 PR, Nederland"
+  },
+  "berceusestraat, 1061hx amsterdam": {
+    "lat": 52.3812598,
+    "lon": 4.8397029,
+    "displayName": "Berceusestraat, Bosleeuw, Kolenkitbuurt, West, Amsterdam, Noord-Holland, Nederland, 1061 HX, Nederland"
+  },
+  "laan van vlaanderen, 1066sg amsterdam": {
+    "lat": 52.3467819,
+    "lon": 4.8054874,
+    "displayName": "Laan van Vlaanderen, Nieuw-Sloten, Nieuw-West, Sloten, Amsterdam, Noord-Holland, Nederland, 1066 SG, Nederland"
+  },
+  "haarlemmer houttuinen, 1013gm amsterdam": {
+    "lat": 52.3828483,
+    "lon": 4.8888298,
+    "displayName": "Haarlemmer Houttuinen, Centrum, Amsterdam, Noord-Holland, Nederland, 1013 GM, Nederland"
+  },
+  "edenburg, 1103bj amsterdam": {
+    "lat": 52.3253621,
+    "lon": 4.9623029,
+    "displayName": "Edenburg, E-buurt, Zuidoost, Amsterdam, Noord-Holland, Nederland, 1103 BJ, Nederland"
+  },
+  "huigenbos, 1102ka amsterdam": {
+    "lat": 52.3071055,
+    "lon": 4.9603194,
+    "displayName": "Huigenbos, H-Buurt, Zuidoost, Amsterdam, Noord-Holland, Nederland, 1102 KA, Nederland"
+  },
+  "sumatrastraat, 1094ln amsterdam": {
+    "lat": 52.3630931,
+    "lon": 4.9357742,
+    "displayName": "Sumatrastraat, Indische Buurt, Oost, Amsterdam, Noord-Holland, Nederland, 1094 NG, Nederland"
+  },
+  "makassarstraat, 1095te amsterdam": {
+    "lat": 52.363944,
+    "lon": 4.942917,
+    "displayName": "Makassarstraat, Indische Buurt, Oost, Amsterdam, Noord-Holland, Nederland, 1095 SV, Nederland"
+  },
+  "lutmastraat, 1072jr amsterdam": {
+    "lat": 52.3506213,
+    "lon": 4.8917756,
+    "displayName": "Lutmastraat, Nieuwe Pijp, De Pijp, Zuid, Amsterdam, Noord-Holland, Nederland, 1072 LH, Nederland"
+  },
+  "willem augustinstraat, 1061mj amsterdam": {
+    "lat": 52.375615,
+    "lon": 4.8385744,
+    "displayName": "Willem Augustinstraat, Bosleeuw, Kolenkitbuurt, West, Amsterdam, Noord-Holland, Nederland, 1061 MJ, Nederland"
+  },
+  "trijn hullemanlaan, 1069ps amsterdam": {
+    "lat": 52.3520978,
+    "lon": 4.7840021,
+    "displayName": "Trijn Hullemanlaan, De Aker, Nieuw-West, Sloten, Amsterdam, Noord-Holland, Nederland, 1069 PS, Nederland"
+  },
+  "touwslagerstraat, 1013dm amsterdam": {
+    "lat": 52.3848872,
+    "lon": 4.889618,
+    "displayName": "Touwslagerstraat, Centrum, Amsterdam, Noord-Holland, Nederland, 1013 DL, Nederland"
+  },
+  "sloterkade, 1058he amsterdam": {
+    "lat": 52.3559717,
+    "lon": 4.8536858,
+    "displayName": "Sloterkade, Hoofddorppleinbuurt, Oud-Zuid, Zuid, Amsterdam, Noord-Holland, Nederland, 1058 HE, Nederland"
+  },
+  "eerste oosterparkstraat, 1091he amsterdam": {
+    "lat": 52.3565505,
+    "lon": 4.9115393,
+    "displayName": "Eerste Oosterparkstraat, Oosterparkbuurt, Oost, Amsterdam, Noord-Holland, Nederland, 1091 GK, Nederland"
+  },
+  "kloveniersburgwal, 1012ct amsterdam": {
+    "lat": 52.3715963,
+    "lon": 4.899016,
+    "displayName": "Kloveniersburgwal, Burgwallen-Oude Zijde, Centrum, Amsterdam, Noord-Holland, Nederland, 1012 CV, Nederland"
+  },
+  "comeniusstraat, 1065bm amsterdam": {
+    "lat": 52.35897,
+    "lon": 4.8309465,
+    "displayName": "Comeniusstraat, Slotervaart, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1065 BM, Nederland"
+  },
+  "marskramerstraat, 1033wj amsterdam": {
+    "lat": 52.4200676,
+    "lon": 4.8818352,
+    "displayName": "Marskramerstraat, Oostzanerwerf, Noord, Amsterdam, Noord-Holland, Nederland, 1033 WL, Nederland"
+  },
+  "schelluinenstraat, 1107je amsterdam": {
+    "lat": 52.2937793,
+    "lon": 4.9799034,
+    "displayName": "Schelluinenstraat, Gein, Zuidoost, Amsterdam, Noord-Holland, Nederland, 1107 JK, Nederland"
+  },
+  "johan jongkindstraat, 1062cl amsterdam": {
+    "lat": 52.3590177,
+    "lon": 4.8387696,
+    "displayName": "Johan Jongkindstraat, Overtoomse Veld, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1062 CL, Nederland"
+  },
+  "boymansweg, 1064ws amsterdam": {
+    "lat": 52.3641322,
+    "lon": 4.8287404,
+    "displayName": "Boymansweg, Slotervaart, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1065 XX, Nederland"
+  },
+  "egidiusstraat, 1055gz amsterdam": {
+    "lat": 52.3796132,
+    "lon": 4.8514963,
+    "displayName": "Egidiusstraat, Bosleeuw, Landlust, West, Amsterdam, Noord-Holland, Nederland, 1055 GR, Nederland"
+  },
+  "klapmutsenveem, 1019hv amsterdam": {
+    "lat": 52.3756731,
+    "lon": 4.9284616,
+    "displayName": "Klapmutsenveem, Oostelijk Havengebied, Oost, Amsterdam, Noord-Holland, Nederland, 1019 HV, Nederland"
+  },
+  "rinus michelslaan, 1061mb amsterdam": {
+    "lat": 52.3731884,
+    "lon": 4.838893,
+    "displayName": "Rinus Michelslaan, Kolenkitbuurt, West, Amsterdam, Noord-Holland, Nederland, 1061 MB, Nederland"
+  },
+  "anna blamansingel, 1102sv amsterdam": {
+    "lat": 52.3166861,
+    "lon": 4.9474453,
+    "displayName": "Anna Blamansingel, D-buurt, Zuidoost, Amsterdam, Noord-Holland, Nederland, 1102 SV, Nederland"
+  },
+  "marnixstraat, 1015xk amsterdam": {
+    "lat": 52.3832084,
+    "lon": 4.8821379,
+    "displayName": "Marnixstraat, Jordaan, Centrum, Amsterdam, Noord-Holland, Nederland, 1015 VA, Nederland"
+  },
+  "dapperstraat, 1093bv amsterdam": {
+    "lat": 52.3651389,
+    "lon": 4.9260564,
+    "displayName": "Dapperstraat, Dapperbuurt, Oost, Amsterdam, Noord-Holland, Nederland, 1093 BT, Nederland"
+  },
+  "president allendelaan, 1068vn amsterdam": {
+    "lat": 52.3664297,
+    "lon": 4.8048636,
+    "displayName": "President Allendelaan, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1068 VN, Nederland"
+  },
+  "krasseurstraat, 1033dg amsterdam": {
+    "lat": 52.404042,
+    "lon": 4.899213,
+    "displayName": "Krasseurstraat, Noord, Amsterdam, Noord-Holland, Nederland, 1033 DG, Nederland"
+  },
+  "lindenhoeveweg, 1096dt amsterdam": {
+    "lat": 52.3409043,
+    "lon": 4.9211617,
+    "displayName": "Lindenhoeveweg, Bajeskwartier, Oost, Amsterdam, Noord-Holland, Nederland, 1096 DT, Nederland"
+  },
+  "evertsweertplantsoen, 1069rl amsterdam": {
+    "lat": 52.3556171,
+    "lon": 4.7925817,
+    "displayName": "Evertsweertplantsoen, De Punt, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1069 RL, Nederland"
+  },
+  "naritaweg, 1043cb amsterdam": {
+    "lat": 52.3879399,
+    "lon": 4.831154,
+    "displayName": "Naritaweg, Teleport, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1043 CB, Nederland"
+  },
+  "van nijenrodeweg, 1081ew amsterdam": {
+    "lat": 52.3278439,
+    "lon": 4.8598514,
+    "displayName": "Van Nijenrodeweg, Buitenveldert-West, Buitenveldert, Zuid, Amsterdam, Noord-Holland, Nederland, 1081 BK, Nederland"
+  },
+  "bovenover, 1025jm amsterdam": {
+    "lat": 52.3961022,
+    "lon": 4.9324247,
+    "displayName": "Bovenover, Buikslotermeer, Plan van Gool, Noord, Amsterdam, Noord-Holland, Nederland, 1025 KC, Nederland"
+  },
+  "pampuslaan, 1087la amsterdam": {
+    "lat": 52.3532624,
+    "lon": 5.0097713,
+    "displayName": "Pampuslaan, IJburg, Oost, Amsterdam, Noord-Holland, Nederland, 1087 LA, Nederland"
+  },
+  "schipmolen, 1035cj amsterdam": {
+    "lat": 52.4184531,
+    "lon": 4.8903726,
+    "displayName": "Schipmolen, Oostzanerwerf, Noord, Amsterdam, Noord-Holland, Nederland, 1035 CE, Nederland"
+  },
+  "titus van rijnstraat, 1058gb amsterdam": {
+    "lat": 52.357846,
+    "lon": 4.8461921,
+    "displayName": "Titus van Rijnstraat, Overtoomse Veld, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1058 GB, Nederland"
+  },
+  "herculesstraat, 1076sk amsterdam": {
+    "lat": 52.3461011,
+    "lon": 4.8615311,
+    "displayName": "Herculesstraat, Stadionbuurt, Oud-Zuid, Zuid, Amsterdam, Noord-Holland, Nederland, 1076 SV, Nederland"
+  },
+  "jan tooropstraat, 1062bk amsterdam": {
+    "lat": 52.3615967,
+    "lon": 4.8360123,
+    "displayName": "Jan Tooropstraat, Overtoomse Veld, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1062 BK, Nederland"
+  },
+  "kikkenstein, 1104tl amsterdam": {
+    "lat": 52.3173812,
+    "lon": 4.9730246,
+    "displayName": "Kikkenstein, G-buurt, Zuidoost, Amsterdam, Noord-Holland, Nederland, 1104 TM, Nederland"
+  },
+  "cornelis outshoornstraat, 1067he amsterdam": {
+    "lat": 52.3816712,
+    "lon": 4.7961698,
+    "displayName": "Cornelis Outshoornstraat, De Eendracht, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1067 HG, Nederland"
+  },
+  "stormsteeg, 1012bd amsterdam": {
+    "lat": 52.3743397,
+    "lon": 4.9007561,
+    "displayName": "Stormsteeg, Burgwallen-Oude Zijde, Centrum, Amsterdam, Noord-Holland, Nederland, 1012 BD, Nederland"
+  },
+  "ijdoornlaan, 1024kv amsterdam": {
+    "lat": 52.3955092,
+    "lon": 4.955165,
+    "displayName": "IJdoornlaan, Waterlandpleinbuurt, Noord, Schellingwoude, Amsterdam, Noord-Holland, Nederland, 1024 KV, Nederland"
+  },
+  "vinkenstraat, 1013jl amsterdam": {
+    "lat": 52.3826149,
+    "lon": 4.8862676,
+    "displayName": "Vinkenstraat, Haarlemmerbuurt, Centrum, Amsterdam, Noord-Holland, Nederland, 1013 KJ, Nederland"
+  },
+  "amstelveenseweg, 1075xp amsterdam": {
+    "lat": 52.3384028,
+    "lon": 4.8575769,
+    "displayName": "Amstelveenseweg, Fred Roeske, Zuidas, Zuid, Amsterdam, Noord-Holland, Nederland, 1076 GR, Nederland"
+  },
+  "weesperstraat, 1018dn amsterdam": {
+    "lat": 52.3643664,
+    "lon": 4.9061498,
+    "displayName": "Weesperstraat, Weesperbuurt, Centrum, Amsterdam, Noord-Holland, Nederland, 1018 DN, Nederland"
+  },
+  "noorderhaakspad, 1025xk amsterdam": {
+    "lat": 52.3982397,
+    "lon": 4.9436254,
+    "displayName": "Noorderhaakspad, Buikslotermeer, Noord, Amsterdam, Noord-Holland, Nederland, 1025 XK, Nederland"
+  },
+  "dirk sonoystraat, 1067xw amsterdam": {
+    "lat": 52.3776952,
+    "lon": 4.8043063,
+    "displayName": "Dirk Sonoystraat, Geuzenveld, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1067 XW, Nederland"
+  },
+  "prinseneiland, 1013ll amsterdam": {
+    "lat": 52.3865951,
+    "lon": 4.8872976,
+    "displayName": "Prinseneiland, Centrum, Amsterdam, Noord-Holland, Nederland, 1013 LL, Nederland"
+  },
+  "kempering, 1104kg amsterdam": {
+    "lat": 52.3153192,
+    "lon": 4.9774223,
+    "displayName": "Kempering, K-buurt, Zuidoost, Amsterdam, Noord-Holland, Nederland, 1104 KG, Nederland"
+  },
+  "stoomgemaalstraat, 1069ws amsterdam": {
+    "lat": 52.3581269,
+    "lon": 4.7835436,
+    "displayName": "Stoomgemaalstraat, De Punt, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1069 WT, Nederland"
+  },
+  "herculesstraat, 1076rz amsterdam": {
+    "lat": 52.3487384,
+    "lon": 4.8644597,
+    "displayName": "Herculesstraat, Stadionbuurt, Oud-Zuid, Zuid, Amsterdam, Noord-Holland, Nederland, 1076 RX, Nederland"
+  },
+  "vincent van goghweg, 1506jb zaandam": {
+    "lat": 52.4501907,
+    "lon": 4.8133565,
+    "displayName": "Vincent van Goghweg, Zaandam, Zaanstad, Noord-Holland, Nederland, 1506 JB, Nederland"
+  },
+  "gedempte gracht, 1506cb zaandam": {
+    "lat": 52.439299,
+    "lon": 4.8207921,
+    "displayName": "Gedempte Gracht, Zaandam, Zaanstad, Noord-Holland, Nederland, 1506 SJ, Nederland"
+  },
+  "rustenburg, 1506ax zaandam": {
+    "lat": 52.4380156,
+    "lon": 4.8180429,
+    "displayName": "Rustenburg, Zaandam, Zaanstad, Noord-Holland, Nederland, 1506 AX, Nederland"
+  },
+  "houtveldweg, 1507es zaandam": {
+    "lat": 52.442068,
+    "lon": 4.8081148,
+    "displayName": "Houtveldweg, Zaandam, Zaanstad, Noord-Holland, Nederland, 1507 VH, Nederland"
+  },
+  "teakhout, 1507em zaandam": {
+    "lat": 52.4416676,
+    "lon": 4.8090807,
+    "displayName": "Teakhout, Zaandam, Zaanstad, Noord-Holland, Nederland, 1507 EM, Nederland"
+  },
+  "mahoniehout, 1507ed zaandam": {
+    "lat": 52.4433133,
+    "lon": 4.8088471,
+    "displayName": "Mahoniehout, Zaandam, Zaanstad, Noord-Holland, Nederland, 1507 ED, Nederland"
+  },
+  "lucy stonestraat, 1506wv zaandam": {
+    "lat": 52.4405252,
+    "lon": 4.8143644,
+    "displayName": "Lucy Stonestraat, Zaandam, Zaanstad, Noord-Holland, Nederland, 1506 WV, Nederland"
+  },
+  "vrieschgroenstraat, 1503mc zaandam": {
+    "lat": 52.4444447,
+    "lon": 4.8364784,
+    "displayName": "Vrieschgroenstraat, Hoornseveld, Zaandam, Zaanstad, Noord-Holland, Nederland, 1503 MC, Nederland"
+  },
+  "poelenburg, 1504nd zaandam": {
+    "lat": 52.4364528,
+    "lon": 4.8479293,
+    "displayName": "Poelenburg, Zaandam, Zaanstad, Noord-Holland, Nederland, 1504 HB, Nederland"
+  },
+  "notenlaan, 1505gc zaandam": {
+    "lat": 52.4304153,
+    "lon": 4.8333917,
+    "displayName": "Notenlaan, Zaandam, Zaanstad, Noord-Holland, Nederland, 1505 GC, Nederland"
   }
 }
