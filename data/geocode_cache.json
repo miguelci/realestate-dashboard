@@ -1650,5 +1650,95 @@
     "lat": 52.4304153,
     "lon": 4.8333917,
     "displayName": "Notenlaan, Zaandam, Zaanstad, Noord-Holland, Nederland, 1505 GC, Nederland"
+  },
+  "crynssenstraat, 1058xv amsterdam": {
+    "lat": 52.3625238,
+    "lon": 4.8562528,
+    "displayName": "Crynssenstraat, Westindische Buurt, De Baarsjes, West, Amsterdam, Noord-Holland, Nederland, 1058 XX, Nederland"
+  },
+  "barcelonaplein, 1019lx amsterdam": {
+    "lat": 52.3765341,
+    "lon": 4.9445828,
+    "displayName": "Barcelonaplein, KNSM-eiland, Oostelijk Havengebied, Oost, Schellingwoude, Amsterdam, Noord-Holland, Nederland, 1019 LX, Nederland"
+  },
+  "mary van der sluisstraat, 1095me amsterdam": {
+    "lat": 52.3741283,
+    "lon": 4.963214,
+    "displayName": "Mary van der Sluisstraat, Sportheldenbuurt, Zeeburgereiland, Oost, Schellingwoude, Amsterdam, Noord-Holland, Nederland, 1095 ME, Nederland"
+  },
+  "rhijnvis feithstraat, 1054tw amsterdam": {
+    "lat": 52.3593057,
+    "lon": 4.8598946,
+    "displayName": "Rhijnvis Feithstraat, Oud-West, West, Amsterdam, Noord-Holland, Nederland, 1054 VA, Nederland"
+  },
+  "spuistraat, 1012va amsterdam": {
+    "lat": 52.3738284,
+    "lon": 4.8899899,
+    "displayName": "Spuistraat, Burgwallen-Nieuwe Zijde, Centrum, Amsterdam, Noord-Holland, Nederland, 1012 VB, Nederland"
+  },
+  "albert molhof, 1031jk amsterdam": {
+    "lat": 52.3943699,
+    "lon": 4.8988559,
+    "displayName": "Albert Molhof, Buiksloterham, Noord, Amsterdam, Noord-Holland, Nederland, 1031 JK, Nederland"
+  },
+  "nassaukade, 1053lm amsterdam": {
+    "lat": 52.3698298,
+    "lon": 4.8749272,
+    "displayName": "Nassaukade, Oud-West, West, Amsterdam, Noord-Holland, Nederland, 1053 LN, Nederland"
+  },
+  "veembroederhof, 1019hc amsterdam": {
+    "lat": 52.3763709,
+    "lon": 4.9231761,
+    "displayName": "Veembroederhof, Oostelijk Havengebied, Oost, Amsterdam, Noord-Holland, Nederland, 1019 HC, Nederland"
+  },
+  "koningin wilhelminaplein, 1062ks amsterdam": {
+    "lat": 52.3542049,
+    "lon": 4.840692,
+    "displayName": "Koningin Wilhelminaplein, Westlandgracht, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1062 HH, Nederland"
+  },
+  "olga de haasstraat, 1095pg amsterdam": {
+    "lat": 52.3758734,
+    "lon": 4.9607549,
+    "displayName": "Olga de Haasstraat, Zeeburgereiland, Oost, Schellingwoude, Amsterdam, Noord-Holland, Nederland, 1095 PG, Nederland"
+  },
+  "krooswijkhof, 1083ja amsterdam": {
+    "lat": 52.3346423,
+    "lon": 4.8819099,
+    "displayName": "Krooswijkhof, Buitenveldert-Oost, Buitenveldert, Zuid, Amsterdam, Noord-Holland, Nederland, 1083 JB, Nederland"
+  },
+  "afroditekade, 1076dp amsterdam": {
+    "lat": 52.346654,
+    "lon": 4.8539663,
+    "displayName": "Afroditekade, Stadionbuurt, Oud-Zuid, Zuid, Amsterdam, Noord-Holland, Nederland, 1076 DT, Nederland"
+  },
+  "buikslotermeerplein, 1025xl amsterdam": {
+    "lat": 52.4019931,
+    "lon": 4.9323589,
+    "displayName": "Noord, Nieuwe Leeuwarderweg, Noord, Amsterdam, Noord-Holland, Nederland, 1025 XM, Nederland"
+  },
+  "staalmeesterslaan, 1057np amsterdam": {
+    "lat": 52.3652585,
+    "lon": 4.8429231,
+    "displayName": "Staalmeesterslaan, Overtoomse Veld, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1057 NM, Nederland"
+  },
+  "hortusplantsoen, 1018tz amsterdam": {
+    "lat": 52.3660476,
+    "lon": 4.9075951,
+    "displayName": "Hortusplantsoen, Weesperbuurt, Centrum, Amsterdam, Noord-Holland, Nederland, 1018 VD, Nederland"
+  },
+  "jacob israël de haanstr, 1508vg zaandam": {
+    "lat": 52.4558029,
+    "lon": 4.8217496,
+    "displayName": "Jacob Israël de Haanstraat, Kogerveld, Zaandam, Zaanstad, Noord-Holland, Nederland, 1508 VE, Nederland"
+  },
+  "het betonijzer, 1111rh diemen": {
+    "lat": 52.3369521,
+    "lon": 4.9696354,
+    "displayName": "Het Betonijzer, Plantage De Sniep, Diemen, Noord-Holland, Nederland, 1111 RH, Nederland"
+  },
+  "kees van dongenpad, 1112wz diemen": {
+    "lat": 52.3301753,
+    "lon": 4.9584529,
+    "displayName": "Kees van Dongenpad, Holland Park, Diemen, Noord-Holland, Nederland, 1112 WZ, Nederland"
   }
 }
