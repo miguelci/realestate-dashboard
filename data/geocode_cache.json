@@ -4461,5 +4461,15 @@
     "lat": 52.313834,
     "lon": 4.951884,
     "displayName": "Bijlmerplein, H-Buurt, Zuidoost, Amsterdam, Noord-Holland, Nederland, 1102 DE, Nederland"
+  },
+  "zennehof, 1066wt amsterdam": {
+    "lat": 52.3432336,
+    "lon": 4.8058768,
+    "displayName": "Zennehof, Nieuw-Sloten, Nieuw-West, Sloten, Amsterdam, Noord-Holland, Nederland, 1066 WT, Nederland"
+  },
+  "mercatorplein, 1057bx amsterdam": {
+    "lat": 52.3696984,
+    "lon": 4.8510672,
+    "displayName": "Mercatorplein, Hoofdweg e.o., De Baarsjes, West, Amsterdam, Noord-Holland, Nederland, 1057 BV, Nederland"
   }
 }
