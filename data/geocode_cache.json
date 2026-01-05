@@ -4556,5 +4556,15 @@
     "lat": 52.358235,
     "lon": 4.9077274,
     "displayName": "Eerste Boerhaavestraat, Weesperzijde, Oost, Amsterdam, Noord-Holland, Nederland, 1091 SC, Nederland"
+  },
+  "rhijnvis feithstraat, 1054va amsterdam": {
+    "lat": 52.3593057,
+    "lon": 4.8598946,
+    "displayName": "Rhijnvis Feithstraat, Oud-West, West, Amsterdam, Noord-Holland, Nederland, 1054 VA, Nederland"
+  },
+  "wals, 1507tm zaandam": {
+    "lat": 52.4402547,
+    "lon": 4.8060359,
+    "displayName": "Wals, Zaandam, Zaanstad, Noord-Holland, Nederland, 1507 TN, Nederland"
   }
 }
